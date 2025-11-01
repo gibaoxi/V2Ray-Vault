@@ -1,6 +1,6 @@
-trojan://hav1b1w0-lawm-7zju-y20o-5nf613786xrn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/01 | 19:41
-trojan://9gr1146y-bkoe-190c-0kmd-mw0931zzhjom@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://k82705tf-z6vg-bfag-mmus-vs215orps4m1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://31uievvw-sdvs-9bvw-ifco-x1i7la9l9kiu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/01 | 23:41
+trojan://4hafsfhz-app1-l2z2-bo7g-0kf0mvru4r17@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6e7itqny-fbd8-jyga-2kqm-a9jp4cpk2fgf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#193.29.139.217:8080
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.39.112.103:443#13.39.112.103:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#195.181.160.6:990
@@ -12,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#193.29.139.227:8080
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#37.114.62.218:443
 vmess://eyJ2IjoiMiIsInBzIjoiUzI0MSIsImFkZCI6IjQ1LjEzLjIyNi4xMTYiLCJwb3J0IjoxMjQ0OSwiaWQiOiJiMTA1M2E2Ny04OGI5LTQ1NTAtYjVmYi04MjY3MzVhZGMwNDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?type=grpc&security=none#103.231.75.74:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?type=grpc&security=none&fp=chrome#85.208.110.183:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?type=grpc&security=none&fp=chrome#194.4.49.222:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?type=grpc&security=none&fp=chrome#95.164.88.186:8880
@@ -27,11 +26,12 @@ vless://947a21aa-8e59-4cf5-b083-d69b42fa162d@us1.projecthope.ir:2053?type=grpc&s
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?type=ws&security=tls&path=/containers/de&sni=om4.omidsuccess.uk&fp=chrome#104.26.6.89:2053
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?type=grpc&security=none&fp=chrome#146.19.230.247:8880
 vless://b52df04c-493a-4faa-9a2c-db46860ee2df@us1.projecthope.ir:2053?type=grpc&security=tls&sni=us1.projecthope.ir&fp=chrome#us1.projecthope.ir:2053
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&security=tls&sni=api.chandplus.com&fp=chrome#95.217.206.161:443
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=iqVypEnR0egF3SpKuNbXVPHvWg8M_KCMM7c7fUNB33A#legendary.zooboming.com:443
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45#94.232.247.168:41360
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=2MfHmFK_zaXkSLYhUscKhZMOtR8bHasUSt3h7fgHoUA#legendary.zooboming.com:443
 vless://8e311363-ffa6-ada3-6838-6283d896da4e@switzerland.marzxo.biz:8089?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#switzerland.marzxo.biz:8089
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?type=tcp&security=reality&sni=www.apple.com&fp=random&flow=xtls-rprx-vision&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d#72.56.73.240:443
 vless://b02ea0a1-7485-4b81-b6d9-c670a2dc8f99@198.2.251.111:26129?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=5N5K8oHDAiN23svc_KlSC5xhnYoNvcEWXHtr7ECh-H8#198.2.251.111:26129
-trojan://nb5zkp1n-5ckg-3ttj-jrqb-2qsjenan8n31@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2y703mvr-vt7c-o529-n0gb-ti3hfavjl6zt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://oh1ysp53-c20i-pbvq-hx9z-skxdd5g06gp3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n3vxh1e7-i1mk-jrov-bvpz-16pc38l90jx9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
