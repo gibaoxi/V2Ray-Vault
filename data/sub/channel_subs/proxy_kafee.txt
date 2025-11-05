@@ -1,6 +1,6 @@
-trojan://bz7rc7xd-myzd-9yj0-qyam-i19shl130x3l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/05 | 19:45
-trojan://6wt9eprq-y4p1-a8fj-wl42-ag8vv7agll41@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tf8yfyie-nnm9-9tw1-ihwn-lktietcn9h8e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://003ppqqt-wg6v-vvha-y8ka-w4bccg9h7xtv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/05 | 23:43
+trojan://0sx3i1z5-myxl-j0da-utco-xt878u3ybchv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://829uwhsz-b7ox-smo9-92qe-96n39uwgh6l2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#156.38.168.58:990
@@ -17,6 +17,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.22:8880?type=grpc&secur
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?type=grpc&security=none#185.236.232.171:80
 vless://e35fda34-f99e-4711-9e0c-79f2aadea7e0@151.101.3.8:80?type=xhttp&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#151.101.3.8:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?type=grpc&security=none#171.22.114.132:8880
+vless://4033f728-f9f9-466f-baf5-803cf7b5767a@151.101.3.8:80?type=xhttp&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#151.101.3.8:80
+vless://01db045e-e42d-4fb1-a010-13711ceacc48@194.182.79.240:22720?type=grpc&security=none#194.182.79.240:22720
+vless://597dd2%650-5182-4%61f1-%61b12-7b5d%618bc19%65%61@104.21.46.63:2082?type=xhttp&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#104.21.46.63:2082
+vless://597dd2%650-5182-4%61f1-%61b12-7b5d%618bc19%65%61@www.speedtest.net:2082?type=xhttp&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#www.speedtest.net:2082
+vless://b2f81360-2dd4-4e17-9bcf-a95c314052f7@172.66.40.99:80?type=xhttp&security=none&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON#172.66.40.99:80
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#166.1.131.2:443
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
 hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743?insecure=0#98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743
@@ -30,5 +35,5 @@ hysteria2://c7a57485-70c0-41fc-8041-d464fbdb7d5d@lsus3.lansecs.top:58338?insecur
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=0#113.192.61.19:63979
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#40.233.77.57:52434
-trojan://rwy6jvpt-7zp9-p2ar-xdzb-p6h9u2y1xjbx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ad9f5r5s-nhj7-ptqq-14m4-1hj9c4c2ndi8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://j1roaada-i779-ztbd-wiy0-pau4862olx4q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kvmbatgc-2vae-cxkg-fejz-0218qcxdg6pp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
