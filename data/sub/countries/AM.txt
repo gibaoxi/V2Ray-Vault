@@ -1,17 +1,17 @@
-trojan://47jnfkua-iffn-kzpr-dzfe-ep25oukmeip7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/05 | 07:45
-trojan://comtmcgb-siqf-wp1y-ptv4-232rxlzfq0oy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vjy8emmf-6re6-lu13-hn5r-marxh0vhiyn3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 77.105.163.54
-vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
+trojan://2yqicyhs-izet-5gfk-dc47-wbr4fhyk0gxx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/05 | 11:47
+trojan://ehpx9thd-pwql-po23-lr5q-r402g2ok07w2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://podk7lhb-asec-o4hf-tg0d-c12sdh32whbu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBU05FVCBcdTI1MDcgODYuMTA3LjUwLjIzNSIsImFkZCI6Ijg2LjEwNy41MC4yMzUiLCJwb3J0IjoyMjI3MCwiaWQiOiIxMjkyOTU5Mi1hN2JkLTQxZWItYWI0ZC1kODA0Zjc2YzRmZjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciJ9
+trojan://Aimer@188.164.159.43:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.43
+trojan://Aimer@188.164.159.174:2053?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.174
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.74
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
 vless://9597714c-0f15-475b-a293-8710f35ddfd6@armenia.torprospeed.ir:223?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#AM 🇦🇲 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 85.90.207.47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.204.171
+vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 77.105.163.54
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-RLT - 365.partners INC ┇ 77.91.68.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMGZJMEVkbVNYcXBkckZkc3VXNjQzeUdPNE13bFVCZ1FMZmpoZFJZV2Q0PQ@2a12:5940:1527::2:80#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
 vless://172f8023-6e70-4027-8f8e-1998175afbba@92.223.2.119:25710?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-RLT - 365.partners INC ┇ 77.91.68.70
-trojan://Aimer@188.164.159.43:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.204.171
-trojan://Aimer@188.164.159.174:2053?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.174
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
-trojan://5iskswwm-kp0l-acxw-wt33-zzfa7oittme4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://seif7gd7-xgja-fypp-vb5v-z3ckp554luao@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9lz7sl58-lxot-kngi-70f4-0bczoj9g42zr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tzgcjcut-c9hc-ziwq-0o31-u4qfej3d4u6k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
