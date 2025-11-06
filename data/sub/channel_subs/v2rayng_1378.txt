@@ -1,6 +1,6 @@
-trojan://iuzgi5cz-hce1-rkfz-ab3c-yklz50juw4j3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 11:46
-trojan://jllwbdzs-ulo6-2z6p-84y8-0n7qxbx5a3xm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qsf1u0m1-nlno-o6d3-ygcs-q4uy7chd3ckq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://j7srq2ae-23qq-xk35-spaj-6rdmoaksrcay@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 15:51
+trojan://mbinqebo-ibrt-gaeo-f913-vg3jtqoyb1yu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rt1nqhtm-okhh-oo07-3798-08e86j5v65m5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#104.167.197.25:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXamZOMG5jREg4U2FhN0RmSUlyanVS@62.133.63.21:65262#62.133.63.21:65262
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?sni=NOp-55q.pAgEs.dEv&peer=NOp-55q.pAgEs.dEv&security=tls#172.66.47.42:2053
@@ -14,8 +14,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFNlbGluYyIsImFkZCI6IjE0Ni41OS43MC4xNDYiLCJwb3J0Ijo0
 vmess://eyJ2IjoiMiIsInBzIjoiQFNlbGluYyIsImFkZCI6IjE0MS45NS4xMjYuMTM0IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJqYW1la2sub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqYW1la2sub3JnIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFNlbGluYyIsImFkZCI6IjE1LjIwNC42NC4yMTQiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoieWljaHVlbmcub3JnIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFNlbGluYyIsImFkZCI6IjU3LjEyOS4yOC4yMTIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImZhcGVuZy5vcmcifQ
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?type=ws&security=tls&path=/?ed&sni=azadnet3-9do.pages.dev#gur.gov.ua:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?type=grpc&security=none#85.209.153.82:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?type=grpc&security=none#185.234.66.104:8880
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?type=tcp&security=none#m21a.vip784.com:33801
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?type=grpc&security=none#185.242.87.213:8880
@@ -84,5 +82,5 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?sni=🔒&i
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?sni=bing.com&insecure=1#nl2.oomz.ru:30000
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#yapc-1.adamhayward.co.uk:36600
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#yapc-1.adamhayward.co.uk:36600
-trojan://glhupiks-d4j6-e16a-2j4t-ps1257wve90m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i7vrkdsj-bdcg-88fy-03hy-vyddvi971orn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d2qpzqh9-t54l-7kgz-3syj-o83ukpmzpeml@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://v5ikbuuv-m59p-opl1-cpuu-q24iti3poyce@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,15 +1,6 @@
-trojan://25qswtl8-rq7s-c26k-3ser-cvfjp2siipvw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 11:46
-trojan://kj269hct-oh3d-vx8p-tjd4-o75r0i800o0i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://it9tl7s0-syed-jmg9-nc3s-kynyvi1wqm94@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#156.38.168.58:990
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?type=grpc&security=none#185.153.183.185:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?type=grpc&security=none#146.19.230.250:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?type=grpc&security=none#95.164.6.156:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?type=grpc&security=none#185.153.183.210:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.22:8880?type=grpc&security=none#185.153.183.22:8880
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?type=grpc&security=none#185.236.232.171:80
+trojan://pl6t4kzm-j6em-hien-4ez0-e1pnvl9hnf2t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 15:51
+trojan://etu1b1cx-pqxt-a0xl-yzvh-7kzz3cbeb1v7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g6t3wgck-0pou-jqcx-hlnq-trea5bglvp9q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e35fda34-f99e-4711-9e0c-79f2aadea7e0@151.101.3.8:80?type=xhttp&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#151.101.3.8:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?type=grpc&security=none#171.22.114.132:8880
 vless://4033f728-f9f9-466f-baf5-803cf7b5767a@151.101.3.8:80?type=xhttp&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#151.101.3.8:80
@@ -30,5 +21,5 @@ hysteria2://c7a57485-70c0-41fc-8041-d464fbdb7d5d@lsus3.lansecs.top:58338?insecur
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=0#113.192.61.19:63979
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#40.233.77.57:52434
-trojan://dmk8zg48-xcqp-b7ql-ewtk-c89hedc05hcl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3ykxu32i-1ivj-uz1e-6wt5-4ijlc6z8nxf1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ofxl49n2-pjww-x4qx-0z52-fzilz3sdvuti@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1p74b5fp-x17o-cpo8-pfp7-5we35n93xpgh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
