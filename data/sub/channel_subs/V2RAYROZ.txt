@@ -1,18 +1,6 @@
-trojan://qe2kdgki-u0mv-q8k4-4can-el8fo30r3kdk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 07:49
-trojan://zhlt85w3-yd2m-ca00-jvyz-vryd9taj8f1t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://naji67l9-xz59-nzlb-pvf3-f2rk8hsuehyh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://83091b1a-2f79-47f7-b305-ff04d666b79c@91.107.243.21:8443?type=tcp&security=none#91.107.243.21:8443
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?type=ws&security=tls&sni=vless.hubp.de&fp=random#27.50.48.8:443
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&sni=vless.hubp.de&fp=random#104.18.82.55:443
-vless://83091b1a-2f79-47f7-b305-ff04d666b79c@91.107.243.21:8443?type=tcp&security=none#91.107.243.21:8443
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?type=ws&security=tls&sni=vless.hubp.de&fp=random#27.50.48.8:443
-vless://ed6643b6-a87e-49da-8d25-a39ce300f387@151.101.3.8:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.3.8:80
-vless://83091b1a-2f79-47f7-b305-ff04d666b79c@91.107.243.21:7443?type=tcp&security=none#91.107.243.21:7443
-vless://2c165738-3a35-4549-ab59-eb37f7250ded@5.75.194.74:8880?type=tcp&security=none#5.75.194.74:8880
-vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080?type=xhttp&security=none&path=/#104.16.1.106:8080
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.198:8880?type=grpc&security=none#84.246.85.198:8880
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vless.hubp.de&fp=random#162.159.152.53:443
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vless.hubp.de&fp=random#104.18.82.55:443
+trojan://ydzgh7l6-fral-ba66-ckt7-30tkur83bndj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/06 | 11:46
+trojan://8r9x44l0-3jcd-ubvo-1ch7-pc6oz2vrzjuw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://h7jetli2-34fe-tnrc-oybg-ndwrhx9jzi7s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2c165738-3a35-4549-ab59-eb37f7250ded@5.75.194.74:8880?type=tcp&security=none#5.75.194.74:8880
 vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080?type=xhttp&security=none&path=/#104.16.1.106:8080
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?type=grpc&security=none#171.22.114.244:8880
@@ -22,9 +10,13 @@ vless://914dd55d-5d61-4702-8b80-360b7590dc64@151.101.3.8:80?type=xhttp&security=
 vless://dff0f5e3-0392-495b-acc4-bff6cf73f572@91.107.184.198:7443?type=tcp&security=none#91.107.184.198:7443
 vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080?type=xhttp&security=none&path=/#104.16.1.106:8080
 vless://dff0f5e3-0392-495b-acc4-bff6cf73f572@91.107.184.198:7443?type=tcp&security=none#91.107.184.198:7443
-vless://dff0f5e3-0392-495b-acc4-bff6cf73f572@91.107.184.198:7443?type=tcp&security=none#91.107.184.198:7443
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?type=ws&security=tls&path=/snippets/ip#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vless.hubp.de&fp=chrome#27.50.48.8:443
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=random#162.159.152.53:443
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=random#104.18.82.55:443
-trojan://x19ed5hd-68xx-crp9-jvlc-56a8pt7o8pgv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://65buciwt-lf7m-h0d2-x116-j3bpiangosva@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880?type=grpc&security=none#171.22.114.47:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?type=grpc&security=none#171.22.114.142:8880
+vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?type=xhttp&security=none&path=/#104.16.1.106:8080
+vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?type=xhttp&security=none&path=/vaime?ed=2560#speedtest.net:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?type=grpc&security=none#89.221.224.238:8880
+trojan://7yw6xgjk-0ymr-7ybh-e1yj-u5juhdnv05zu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://h8r7pk4r-tc99-j2oh-y19f-w33qe1uoh5sj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
