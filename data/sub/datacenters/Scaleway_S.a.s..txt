@@ -1,19 +1,19 @@
-trojan://xv0otxfi-i421-3xc4-9if0-28q1ivj9aovh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/07 | 15:50
-trojan://8fhdrpan-5zo4-mp23-fegr-uqjsmxuvf3ol@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2vy9oxql-nfyj-pfor-zz88-bq89s8j6rckf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tp3p8l9h-k3ws-nmbq-zo5o-swmf25kyknk9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/07 | 19:43
+trojan://71ewj688-9e9i-4mt2-y3c1-t21jnugnst3c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cr22rk32-r9fw-ddcl-7yax-2sbj91rfoahc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.17.169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 62.210.88.22
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0Ijo0NDU3OSwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0ifQ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 195.154.185.174
 vless://77a33d77-7af9-4c33-9556-d6711becca04@195.154.40.247:33009?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=vQxUlk2tCENv9crfrUAp5JdJOZTKhMH7XnoKLqbAYx0&sid=c0d304da0c4dcadc#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 195.154.40.247
-tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR 🇫🇷 ┇ TUIC-TCP-NTLS - Scaleway S.a.s. ┇ 2001:bc8:32d7:302::16
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJhZGQiOiIyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJwb3J0IjoyMzAwOCwiaWQiOiJlOTk0YjgwNC0zNDVjLTRlOGItYTgyNy03ZTAwNTY5NGQxNDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
-hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.23.63
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 195.154.169.198
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0Ijo0NDU3OSwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0ifQ
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
 trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 62.210.88.22
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.17.169
-hysteria2://dongtaiwang.com@163.172.21.105:5355?sni=www.bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.21.105
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 2001:bc8:32d7:302::11
-trojan://kuvrg8gs-w6vx-y6zv-bia8-ulyxtd7g5aoa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://iirtg9wd-g795-gu46-f0hs-83fbrph5w3kv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR 🇫🇷 ┇ TUIC-TCP-NTLS - Scaleway S.a.s. ┇ 2001:bc8:32d7:302::16
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJhZGQiOiIyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJwb3J0IjoyMzAwOCwiaWQiOiJlOTk0YjgwNC0zNDVjLTRlOGItYTgyNy03ZTAwNTY5NGQxNDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
+hysteria2://dongtaiwang.com@163.172.21.105:5355?sni=www.bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.21.105
+trojan://e6nfl1bd-ahqo-aeyo-mez8-1idski7r7jxo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5dwkgfig-h78g-09ec-p0jk-vo4m7gyajm4q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
