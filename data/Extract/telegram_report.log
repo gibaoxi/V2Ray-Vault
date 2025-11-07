@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-11-07 04:16:26
+Timestamp: 2025-11-07 07:44:26
 Total Channels: 117
 Successful Scrapes: 88
 Failed Scrapes: 0
@@ -7,14 +7,14 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 DailyV2RY: 320 configs
 V2ray_Alpha: 274 configs
-heyatserver: 264 configs
+heyatserver: 236 configs
+configV2rayNG: 229 configs
 meli_proxyy: 223 configs
-configV2rayNG: 205 configs
 LonUp_M: 200 configs
 ShadowsocksM: 169 configs
 V2rayNG3: 155 configs
 oneclickvpnkeys: 146 configs
-FreakConfig: 141 configs
+FreakConfig: 142 configs
 CaV2ray: 132 configs
 vpnaloo: 101 configs
 ViProxys: 100 configs
