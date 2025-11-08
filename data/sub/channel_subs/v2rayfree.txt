@@ -1,9 +1,8 @@
-trojan://7w8n8wjt-u303-sdo3-fp4i-2zm2rwiavszo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/08 | 11:44
-trojan://ni1lw2le-oy67-u7qx-dj2i-86dlfu65i01x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tei62xtq-43ce-kgzb-vmne-955se0ovjx93@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRlYzZUaWNrVjJCb3RAIiwiYWRkIjoiOC4yMTguMTc1LjY0IiwicG9ydCI6OTc1NCwiaWQiOiI1Yjk1NzVjMy1jNDA0LTRjOTMtOThmOC02MzU4MWU4OGZmZGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
+trojan://vmxr4lli-6ets-ze7w-iom8-26tr2m9aahlg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/08 | 15:48
+trojan://u6w9vsq0-o7f6-ojbf-k0p3-i674lkzujezq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://s6iqpk3e-32iy-nib0-qimo-q72lrbrim6ig@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDYyOFx1MDZjY1x1MDYyNyBcdTA2MmFcdTA2MjcgXHUwNjI4XHUwNjI3XHUwNjQ3XHUwNjQ1XHVkODNlXHVkZDJkIiwiYWRkIjoiY3BhbmVsLm5hdmFyMS5pciIsInBvcnQiOjEwMCwiaWQiOiIyNjQwMmJjNy03ODk1LTRkZDAtYWU2ZS0xNTFhMDBjNzExNDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://51483752-f5dc-4dde-8967-715107073aa8@91.107.179.208:8880?type=tcp&security=none#91.107.179.208:8880
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxdGVsZWdyYW0taWQgOiBAVjJib3hfdjIiLCJhZGQiOiIxNzIuNjYuNDAuOTkiLCJwb3J0Ijo0NDMsImlkIjoiMzEtdGVsZWdyYW0taWQtLS1WMmJveC12MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwicGF0aCI6Ii90ZWxlZ3JhbS1pZC0tLXYyYm94LXYyL3d3dy5zcGVlZHRlc3QubmV0OjQ0MyIsInRscyI6InRscyIsInNuaSI6InoubG9vbG9vbG9vbG9vLmNvbSJ9
 vless://bba43030-d5ef-4a4c-87ed-034c9d46e7a0@172.66.40.99:8880?type=ws&security=none&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048#172.66.40.99:8880
 vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=fast01.0860852.xyz#92.53.191.253:2096
 vless://4710b85a-66e6-411b-b492-0e0f7366ad21@104.18.12.51:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&fp=chrome#104.18.12.51:443
@@ -11,5 +10,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-d
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@cc.cybsecguru.com:443?type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=jnir-cdn.jnir.my&fp=chrome#cc.cybsecguru.com:443
 vless://4741863d-e3ac-4b9d-8185-466f437b3fa8@usvless.yydzx.xyz:17597?type=tcp&security=tls&sni=usvless.yydzx.xyz&fp=chrome&flow=xtls-rprx-vision#usvless.yydzx.xyz:17597
 vless://91701ab0-3346-494e-8908-56efb0d38b4b@151.101.3.8:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.3.8:80
-trojan://zoz2zsaq-trkj-prh0-43vf-p72slhg1xi3l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dsaqqc49-uudq-5l61-jww9-k5vrd7hkvmz5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://80d0on0d-5zis-2707-dji2-iqlsvkpsgxhz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2zdsk5zd-ty04-6duc-rmll-rw3252qkdbfs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
