@@ -1,8 +1,10 @@
-trojan://8mtfzn1c-xmnh-dxh2-waws-m7nez7t4skje@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/08 | 15:48
-trojan://x0t9ct4b-fz8e-y4d7-fy0y-0igh7xu295vb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://by71xy7a-5osv-vkro-b6l6-opf9fcvv79wp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://go7avllc-e2zw-cd48-1m06-yllrx5q0x770@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/08 | 19:42
+trojan://nsgbkrst-pgau-qzrk-gas7-sesbo3s1bkjm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1380qm43-boyb-szjg-lwpb-44k756qwm8rg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&security=tls&path=/hjgfdws&sni=ali2.gerlemondns.info&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.2
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.175
 vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@69.84.182.90:8880?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - HMS-ASN ┇ 69.84.182.90
-trojan://hau9pr4a-7ye8-87s2-5gya-gctby6wffu1j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e1s9yrrj-adne-db10-pwfu-xg1vylq2o4f8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTgiLCJhZGQiOiI2OS44NC4xODIuMTgiLCJwb3J0IjoyMDUzLCJpZCI6IjA2Y2U0MDQ4LWYxOGUtNGUxNC1iODk3LWRjMWY1NzBjYjI2MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy03Ni5wYW9mdS5kZSIsInBhdGgiOiIvcHJvZmlsZS9zaGFyZW5vZGUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZG4tbm9kZS1vc3MtNzYucGFvZnUuZGUifQ
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.175
+trojan://06ce4048-f18e-4e14-b897-dc1f570cb263@69.84.182.108:8443?sni=cdn-node-oss-64.paofu.de&peer=cdn-node-oss-64.paofu.de&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 69.84.182.108
+trojan://j2hc74zt-efze-ejgm-x2km-6jrdebv7w8a6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vio059hn-3cil-kgi2-verl-mmx6g4u3x4g1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
