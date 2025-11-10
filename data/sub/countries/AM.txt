@@ -1,14 +1,14 @@
-trojan://xa7k7dfg-z23o-4tuw-dl2d-lk5hdfzxpv34@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/10 | 07:50
-trojan://wle9ctig-4bo9-klor-qqrt-j8es76ejs4x5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3ot684gv-44sx-knit-wvkh-uf1dc610m9o0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://Aimer@188.164.159.43:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.43
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-RLT - 365.partners INC ┇ 77.91.68.70
-vless://172f8023-6e70-4027-8f8e-1998175afbba@92.223.2.119:25710?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
+trojan://nq8m3p3l-8tox-vmex-j1td-a90kxlwnl70b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/10 | 11:47
+trojan://8n72t0pn-1lj1-ndt8-m8ft-ojf967kdltyi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mf2g73rl-lbd6-aoiu-80qv-bhvmq14659xs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 77.105.163.54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMGZJMEVkbVNYcXBkckZkc3VXNjQzeUdPNE13bFVCZ1FMZmpoZFJZV2Q0PQ@2a12:5940:1527::2:80#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMTk0LjE1Ni4xMDMuNjgiLCJhZGQiOiIxOTQuMTU2LjEwMy42OCIsInBvcnQiOjMyMDEsImlkIjoiMDNhMmMyMGUtNmJiMi00NTc0LTk2NjAtOGM0ZWY5ZWNlNzU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.74
+vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMTk0LjE1Ni4xMDMuNjgiLCJhZGQiOiIxOTQuMTU2LjEwMy42OCIsInBvcnQiOjMyMDEsImlkIjoiMDNhMmMyMGUtNmJiMi00NTc0LTk2NjAtOGM0ZWY5ZWNlNzU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+trojan://Aimer@188.164.159.43:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.43
+vless://172f8023-6e70-4027-8f8e-1998175afbba@92.223.2.119:25710?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-RLT - 365.partners INC ┇ 77.91.68.70
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
-trojan://8fzu7pzv-ek3r-x8os-n1ss-br9rldaxbx3x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j33xs9ej-iltl-winj-cg3b-srqx8dx9xo1l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMGZJMEVkbVNYcXBkckZkc3VXNjQzeUdPNE13bFVCZ1FMZmpoZFJZV2Q0PQ@2a12:5940:1527::2:80#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+trojan://fojz4kqj-j78s-ankq-di76-fa6153enfocc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7nzbjqk3-j379-l6g4-c4xc-lhvho7rbbsl5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
