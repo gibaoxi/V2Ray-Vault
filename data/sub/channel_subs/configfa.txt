@@ -1,13 +1,13 @@
-trojan://m5jszt0i-07l8-8zj2-1ohe-h3c0jq9szb2q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/10 | 19:44
-trojan://adanutx9-2slo-s8s5-cr1b-yovv6q2865do@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://sd4a8i5q-bhnj-wdwc-3m6n-5xtjaaqnejjj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7tza5bj8-puvj-pjwl-ty8q-5i8wp7ratf4x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/10 | 23:44
+trojan://06r4vuba-3qg2-pqdy-un2z-3yc8f6dl4s2l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i32cv2pr-kq3l-pnm5-wf4p-nlalb4x4swvg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#45.87.175.178:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#beesyar.org:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#38.244.136.233:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VW9TZjZFalRkS0xaMm1meDV4Rnp4@81.19.141.45:443#81.19.141.45:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEBGR19MaW5rIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsImFkZCI6IjU3LjEyOS4yNC4xMjUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImF2ZWlyb3IuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiYXZlaXJvci5jb20ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsImFkZCI6IjU3LjEyOS4yNC4xMjUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImF2ZWlyb3IuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiYXZlaXJvci5jb20ifQ
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.119:80?type=grpc&security=none#185.236.232.119:80
 vless://82a000fc-b550-4bfc-b5e4-8e7180dc4b95@mrbarani.fastsnap.info:40746?type=tcp&security=none#mrbarani.fastsnap.info:40746
 vless://1d09b2f5-1737-42a5-8b82-9a029582c375@mrbarani.fastsnap.info:40746?type=tcp&security=none#mrbarani.fastsnap.info:40746
 vless://267e532b-5b39-4446-b7bc-f6bbd4bb063b@mrbarani.fastsnap.info:40746?type=tcp&security=none#mrbarani.fastsnap.info:40746
@@ -28,5 +28,5 @@ vless://c3679deb-50bc-451f-98c8-c6a1bf5455da@45.80.209.231:36514?type=tcp&securi
 vless://46615c49-e794-470d-9e65-2deaca461378@deu406.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu406.unboundaccess.org:443
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=h3qgbHFyPgy4aGNvdkXt7FNcIEqfDeZW8_NYW7GlkkQ#legendary.zooboming.com:443
 vless://ItsLegendaryking@legendaryking.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=h3qgbHFyPgy4aGNvdkXt7FNcIEqfDeZW8_NYW7GlkkQ#legendaryking.zooboming.com:443
-trojan://lr5pf2cf-bxl9-zalo-z4n1-nyn144dmj9ms@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x9emmg4h-crlf-o63z-bm3c-26rmeqr0masn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4z12kpsj-g3ft-dcq9-7rvs-accw341aem92@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gywvwugk-nays-cfr0-fcb8-bi6bduf3xa3a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
