@@ -1,27 +1,27 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-11-11 11:45:54
+Timestamp: 2025-11-11 15:50:09
 Total Channels: 117
 Successful Scrapes: 90
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 242 configs
+DailyV2RY: 265 configs
+oneclickvpnkeys: 245 configs
 ShadowsocksM: 226 configs
-oneclickvpnkeys: 226 configs
-heyatserver: 220 configs
+heyatserver: 217 configs
 configV2rayNG: 207 configs
-V2ray_Alpha: 203 configs
 LonUp_M: 200 configs
-meli_proxyy: 166 configs
+V2ray_Alpha: 181 configs
+meli_proxyy: 159 configs
 V2rayNG3: 155 configs
-FreakConfig: 137 configs
+FreakConfig: 140 configs
 CaV2ray: 132 configs
 v2rayng_1378: 114 configs
 vpnaloo: 101 configs
 ViProxys: 100 configs
 V2RAY_VMESS_free: 90 configs
-v2rayngvpn: 78 configs
+v2rayngvpn: 79 configs
 Awlix_ir: 71 configs
 Outline_Vpn: 70 configs
 viturey: 61 configs
@@ -29,8 +29,8 @@ fastfreeconfig: 60 configs
 v2raying: 59 configs
 VmessProtocol: 58 configs
 ZibaNabz: 57 configs
-proxy_mtm: 55 configs
 hopev2ray: 55 configs
+proxy_mtm: 52 configs
 v2rayngconfig: 52 configs
 vmessiran: 48 configs
 yaney_01: 41 configs
@@ -40,7 +40,6 @@ OutlineReleasedKey: 34 configs
 configfa: 28 configs
 ev2rayy: 25 configs
 tehranargo: 24 configs
-V2RAYROZ: 21 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
 orange_vpns: 20 configs
@@ -53,15 +52,16 @@ Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
+PrivateVPNs: 18 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
 v2box_free: 17 configs
 freedomofinfor: 16 configs
 golestan_vpn: 16 configs
-v2rayvpnchannel: 16 configs
+V2RAYROZ: 15 configs
 NoForcedHeaven: 15 configs
-PrivateVPNs: 14 configs
+v2rayvpnchannel: 15 configs
 v2ray_for_free: 14 configs
 proxy_kafee: 14 configs
 Vpnstable: 13 configs
@@ -77,8 +77,8 @@ v2ngfast: 9 configs
 configV2rayForFree: 8 configs
 vip_vpn_2022: 8 configs
 iraniv2ray: 8 configs
+ServerNett: 7 configs
 server_nekobox: 7 configs
-ServerNett: 6 configs
 proSSH: 6 configs
 v2rayngfreee: 6 configs
 v2raymelliii: 6 configs

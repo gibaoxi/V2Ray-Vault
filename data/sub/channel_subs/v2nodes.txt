@@ -1,6 +1,6 @@
-trojan://mg5u9no9-fu01-pt07-9yrq-1wcoxgxoq1qe@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/11 | 11:46
-trojan://b11ncbcp-wize-da7r-no3c-x9qz9p4hmof3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://26wmywv5-np88-inxp-gr8i-l8ovvo69xi3d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cmzfpuno-djzw-16dh-xxxg-1y600wlyjn4x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/11 | 15:51
+trojan://a0771ajx-m0od-r0ke-8bjq-6c8giiae7lnd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://869vcnad-9xcf-ke7j-w395-hej4ei004zlh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
@@ -10,14 +10,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzlvZ01HUnVuYkFhMXd3MnBDSzY3@38.107.234.106:37147#38.107.234.106:37147
-trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?sni=joss.dus.biz.id&peer=joss.dus.biz.id&security=tls#45.144.48.158:8443
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?sni=joss.dus.biz.id&peer=joss.dus.biz.id&security=tls#94.131.114.50:81
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?type=tcp&security=none#38.99.95.76:4655
+trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?sni=joss.dus.biz.id&peer=joss.dus.biz.id&security=tls#89.28.236.243:443
 vless://0f4f3a75-ae36-4992-8cb5-6638f45afcb2@216.133.148.215:36987?type=tcp&security=none#216.133.148.215:36987
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?type=tcp&security=none#38.190.150.75:4655
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&security=tls&path=/57ba2ab1&sni=ovhwuxian.pai50288.uk&fp=chrome#104.21.3.219:8443
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?type=ws&security=tls&path=/57ba2ab1&sni=ovhwuxian.pai50288.uk&fp=chrome#ovhwuxian.pai50288.uk:8443
 vless://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443?type=tcp&security=reality&sni=www.abingdon.org.uk&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#eng30.digitunnel.org:443
 vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@dubai.fonixapp.org:53654?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&sid=f7#dubai.fonixapp.org:53654
-trojan://02sgceq7-x7iy-rcdj-r2qs-0wi6al6ju09y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://t0k32kcn-5mtb-ay23-23tb-w0tqosz12bxb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://28e8d9d8-3442-46e8-8697-0280c2917242@ezalor.fonixapp.org:46490?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=mNnK0d5tF-8FazWFmDLsp9YPAf1PL2k9S1bvKV8p_Uk&sid=fa41#ezalor.fonixapp.org:46490
+trojan://dfnqq4bw-onnf-8ut0-oc2g-z3pnti4v1l2w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d4uwg0k7-c8g6-tlxy-2j3h-xlnwiz4ntker@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
