@@ -1,14 +1,14 @@
-trojan://v88zqezt-fca0-tgji-1ono-opy57fb153ms@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/12 | 19:46
-trojan://f5i3b0j5-4e85-7d0d-1woq-6306qboz2ndo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9i9ai05l-7nat-qc1g-ftvx-h0z0nwwfelz7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://b5bqp7vc-gcrx-0mt4-84wk-yj7qyj99j629@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/12 | 23:43
+trojan://s1zsc0ve-868u-7uqk-ib3x-wzonus7yr6mw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://p462bzk0-sl5c-tq1z-rd22-8vytouuz1ium@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#45.87.175.155:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#212.34.140.184:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443#194.87.45.189:443
 trojan://27f95174-9ea7-49c2-9cb6-b649abe675d7@nsaab.889948.xyz:443?sni=xxp2.gogogo.qpon&peer=xxp2.gogogo.qpon&security=tls#nsaab.889948.xyz:443
 trojan://27f95174-9ea7-49c2-9cb6-b649abe675d7@nsaab.889948.xyz:443?sni=mg2.gogogo.qpon&peer=mg2.gogogo.qpon&security=tls#nsaab.889948.xyz:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?type=grpc&security=none#185.138.164.4:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?type=grpc&security=none#185.242.87.154:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?type=grpc&security=none#185.236.232.100:80
+vless://01d9ce5a-28b8-489a-88ef-d3997f755d94@www.speedtest.net:2083?type=ws&security=tls&path=/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080&sni=golestan.hajalwi.ir.&fp=chrome#www.speedtest.net:2083
 vless://27f95174-9ea7-49c2-9cb6-b649abe675d7@haxi.gogogo.qpon:8443?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=UoCKMGbXyzV00AqtUbmHylEHCNqoy0CSvQXIbQPUORc&sid=11#haxi.gogogo.qpon:8443
 vless://27f95174-9ea7-49c2-9cb6-b649abe675d7@huhu.gogogo.qpon:8443?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=ios&flow=xtls-rprx-vision&pbk=BhyQYeQltELng6NXmPNlk6gi_XpYio4KelKkUc4iXBY&sid=a8ba2d#huhu.gogogo.qpon:8443
 vless://27f95174-9ea7-49c2-9cb6-b649abe675d7@xxp.gogogo.qpon:8443?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=ios&flow=xtls-rprx-vision&pbk=Iy3BlLYkwNFRNzllc7JMF6lQ7rR2wV50S_hxACjeqik&sid=ac3656bf3f49#xxp.gogogo.qpon:8443
@@ -16,5 +16,5 @@ vless://27f95174-9ea7-49c2-9cb6-b649abe675d7@mg22.gogogo.qpon:8433?type=tcp&secu
 vless://27f95174-9ea7-49c2-9cb6-b649abe675d7@wawo.gogogo.qpon:8443?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=edge&flow=xtls-rprx-vision&pbk=BP1qz-yahkzgFoxGgsBf2SPtNe5HbcI-FKgHblDx3j0&sid=862096ba75f4ca#wawo.gogogo.qpon:8443
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?sni=fus01.mistea.top&insecure=1#108.165.213.197:23891
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:36600
-trojan://zikatpgw-iu6b-4u9b-p660-athlljopv7ps@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://18qukh71-mta3-3qxl-hlkb-frc38fztxjur@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l85635t6-o83r-k2wj-49sj-w3ivkou8bcxl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4xipxy1l-6nkv-vwgz-9iun-oghl0yq6pozu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
