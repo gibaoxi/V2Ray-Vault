@@ -1,51 +1,55 @@
-trojan://7wkeb3e2-dj82-4529-2wb8-iqo06qpii0mx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/15 | 15:48
-trojan://l8w5c28n-zaxh-xvhz-3710-ujlvpphw0jiv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1m4531l6-nncm-f082-okkq-lo1uljdgv911@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy2.nezhasu.com:443?sni=gy2.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 152.70.81.93
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t2r1qf.tisoeilhfqg.lat:2052?type=grpc&security=reality&sni=web.eitaa.com&fp=chrome&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sid=830b34f52730#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 202.182.98.203
-trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?sni=broker.superpokemon.com&peer=broker.superpokemon.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.77.216.3
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 35.74.231.223
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXJPV3Q5N0xUQXpoZ3VtMGZDTDFw@91.194.160.151:1235#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.160.151
-trojan://BxceQaOe@160.16.227.93:1924?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.227.93
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.114.7.231:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.114.7.231
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?sni=steampipe.akamaized.net&peer=steampipe.akamaized.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 151.242.164.127
-vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?type=ws&security=tls&path=/vless/&sni=pq-japan3.09vpn.com#JP 🇯🇵 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.237
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@172.105.217.136:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.217.136
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.51.29
-vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?type=ws&security=tls&path=/proxyip=tw.soso.edu.kg:43&sni=stall3.sni2026.netlib.re&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.115.249.234
-ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 160.16.123.124
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.236.32
-vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?type=ws&security=none&path=/#JP 🇯🇵 ┇ VLESS-WS-NTLS - ASNET ┇ 50.114.178.67
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?sni=Tokyo.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.47.134
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.207.234.192:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.207.234.192
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.178.214.157:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.178.214.157
-trojan://2274c52572e721086f8bd8f88984643c@160.16.229.223:2890?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.229.223
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gSmFwYW4gQ29ycG9yYXRpb24gXHUyNTA3IDQ1LjE1OS41MS4xMTYiLCJhZGQiOiI0NS4xNTkuNTEuMTE2IiwicG9ydCI6NDgwMTksImlkIjoiYzA2Nzk3ZDUtZmE0MS00YjQ4LWIxMzItZDI2OGQyYWNiMzAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWxpYmFiYSBVUyBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTY0LjIxNSIsImFkZCI6IjguMjExLjE2NC4yMTUiLCJwb3J0IjoyMDUyMiwiaWQiOiI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEifQ
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.223
+trojan://x8s1d9vx-x1y9-1at3-1jc1-af9spgnabi5r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/15 | 19:41
+trojan://1aqvle51-h6kz-4q41-wtwz-qd3f9dw7lbm9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://j29k3mjx-0itb-qq59-vev3-4hvxvx2s3ok7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.204
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.13.244:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.183.13.244
+vless://f8c93834-99a4-44e7-b476-147a3ab582d0@43.206.142.191:2096?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 43.206.142.191
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.124.55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.160.24.217:804#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.160.24.217
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.189.21:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.78.189.21
+trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.236.32
 vless://bed5834d-7597-4af7-990e-abe1a3604557@107.191.60.114:80?type=ws&security=none&path=/hjgfdws#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 107.191.60.114
+trojan://2274c52572e721086f8bd8f88984643c@160.16.229.223:2890?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.229.223
+trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?sni=broker.superpokemon.com&peer=broker.superpokemon.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.77.216.3
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.79.19.101:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.79.19.101
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.114.7.231:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.114.7.231
+trojan://BxceQaOe@160.16.227.93:1924?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.227.93
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gSmFwYW4gQ29ycG9yYXRpb24gXHUyNTA3IDQ1LjE1OS41MS4xMTYiLCJhZGQiOiI0NS4xNTkuNTEuMTE2IiwicG9ydCI6NDgwMTksImlkIjoiYzA2Nzk3ZDUtZmE0MS00YjQ4LWIxMzItZDI2OGQyYWNiMzAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://bed5834d-7597-4af7-990e-abe1a3604557@207.148.105.169:80?type=ws&security=none&path=/hjgfdws#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 207.148.105.169
+trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.204.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@172.105.217.136:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.217.136
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?sni=Tokyo.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.47.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.171:800#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 89.31.126.171
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.206.133.185:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.206.133.185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXJPV3Q5N0xUQXpoZ3VtMGZDTDFw@91.194.160.151:1235#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.160.151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.150:802#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 89.31.126.150
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t2r1qf.tisoeilhfqg.lat:2052?type=grpc&security=reality&sni=web.eitaa.com&fp=chrome&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sid=830b34f52730#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 202.182.98.203
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.240
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.51.29
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?sni=steampipe.akamaized.net&peer=steampipe.akamaized.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 151.242.164.127
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.81.84
+vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 35.74.231.223
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.178.214.157:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.178.214.157
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.223
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWxpYmFiYSBVUyBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTY0LjIxNSIsImFkZCI6IjguMjExLjE2NC4yMTUiLCJwb3J0IjoyMDUyMiwiaWQiOiI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIn0
+trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.196.59
+ss://YWVzLTI1Ni1nY206VUhVQW92RUkwSA@103.100.158.19:39297#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Nearoute Limited ┇ 103.100.158.19
+ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 160.16.123.124
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@db1.nezhasu.com:443?sni=db1.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 64.110.101.60
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.197.133:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.78.197.133
 trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 202.181.103.235
 trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.57.238
+vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?type=ws&security=none&path=/#JP 🇯🇵 ┇ VLESS-WS-NTLS - ASNET ┇ 50.114.178.67
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.241
-trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.196.59
-trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.214.6
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.197.133:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.78.197.133
 trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.132.158
-ss://YWVzLTI1Ni1nY206VUhVQW92RUkwSA@103.100.158.19:39297#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Nearoute Limited ┇ 103.100.158.19
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.79.19.101:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.79.19.101
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.13.244:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.183.13.244
+vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?type=ws&security=tls&path=/proxyip=tw.soso.edu.kg:43&sni=stall3.sni2026.netlib.re&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.115.249.234
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?type=ws&security=none&path=/Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.163
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.124.55
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@43.206.142.191:2096?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 43.206.142.191
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.240
-trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.204.136
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.189.21:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.78.189.21
-vless://bed5834d-7597-4af7-990e-abe1a3604557@207.148.105.169:80?type=ws&security=none&path=/hjgfdws#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 207.148.105.169
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.206.133.185:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.206.133.185
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@db1.nezhasu.com:443?sni=db1.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 64.110.101.60
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.81.84
-trojan://j25pysw8-a1n4-pnsa-agtw-aw6tcwi7ti4z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pz45hkgq-4xl3-xck4-bp5e-uw833wo0um6d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@57.183.4.48:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 57.183.4.48
+vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?type=ws&security=tls&path=/vless/&sni=pq-japan3.09vpn.com#JP 🇯🇵 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.237
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy2.nezhasu.com:443?sni=gy2.nezhasu.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 152.70.81.93
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - LATITUDE-SH ┇ 172.111.146.64
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.207.234.192:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.207.234.192
+trojan://mvda50v1-jdij-0lgu-zwui-44n6rfwvthve@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1vtqg8es-p9xy-iz3w-dzxb-t0titziwacmu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
