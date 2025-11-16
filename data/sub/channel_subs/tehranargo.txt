@@ -1,12 +1,6 @@
-trojan://dt2rynxf-lajw-y2kn-fx9u-zr2k2tngm3wn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 19:42
-trojan://gl7ap4gb-oc51-leli-trcs-1sdb9w4qvx93@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1bmvrp5f-efra-0fp5-h07b-rtynyw4vk7ph@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://db%6129d%61%65-6d9f-4%656b-bc34-%65c%61%61141801b3@194.182.79.240:22724?type=grpc&security=none#194.182.79.240:22724
-vless://%651c23%6556-63d2-436%61-%61f36-f0255d50%616d%61@194.182.79.236:24554?type=grpc&security=none#194.182.79.236:24554
-vless://f7%61c1d74-19%653-4708-850d-dc%651%6123b9%61b2@104.21.65.149:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#104.21.65.149:2095
-vless://d4c27360-a8f8-481f-87ae-cb95a4c60b28@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
-vless://f7%61c1d74-19%653-4708-850d-dc%651%6123b9%61b2@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
-vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?type=tcp&security=none#91.107.146.223:28460
+trojan://36j6tk1x-pyil-36u6-9f4c-06hp24llioit@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 23:42
+trojan://9vpcmiko-a8mi-w83v-ivyc-3mfurtvjcn7w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nw7ll3x5-3ygv-85eb-n4l7-y0i9bwffsomt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://3407b466-b39%65-4f06-f83b-646063%658414c@172.67.146.171:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#172.67.146.171:2095
 vless://83970111-2739-47e8-c3cf-902c10d8d2a8@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
 vless://3407b466-b39%65-4f06-f83b-646063%658414c@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
@@ -33,6 +27,6 @@ vless://71bcc2ff-5916-407c-ad3e-4f189088bad4@151.101.3.8:80?type=xhttp&security=
 vless://bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a@194.182.79.240:22728?type=grpc&security=none#194.182.79.240:22728
 vless://7a5a596b-fc7c-40d6-b8cb-fc6b850ad7ef@194.182.79.236:24558?type=grpc&security=none#194.182.79.236:24558
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@173.245.58.113:443?type=ws&security=tls&path=/?ed=2048&sni=snippets.nneko.netlib.re&fp=chrome#173.245.58.113:443
-vless://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443?type=tcp&security=reality&sni=www.abingdon.org.uk&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#eng30.digitunnel.org:443
-trojan://5n1tcaxm-uw9w-oz05-euy3-pg4zjajmakps@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pq0t9zcq-6cwv-sdli-wgaf-d7muld1nx4qw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedtestsoft98.ir:443?type=ws&security=tls&path=/&sni=speedtestserversoft98server.speedtestsoft98.ir&fp=chrome#speedtestserversoft98server.speedtestsoft98.ir:443
+trojan://dm9dvc1l-2rmr-gilj-0adn-t83y0ml5yyjb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3i0z1cwe-a2sc-7bwt-i5qh-4zyebwdd92jy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

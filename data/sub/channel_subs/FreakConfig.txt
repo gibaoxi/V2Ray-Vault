@@ -1,8 +1,9 @@
-trojan://xe6645zm-ncll-tvdk-een2-6pnf1mnuv5sx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 19:42
-trojan://0p5flgka-qtcu-2lae-si91-ve61yxsnq5p3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cb07nuaa-uvto-eu2w-3k19-uzppkrokc62g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://x8vc0j5p-w93x-vajj-r5vo-4mbl37xwb211@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 23:42
+trojan://2jd3oynu-4ghi-16gh-bvkv-mdik5jb8rp3t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://helo1iaj-y9zk-452i-zhtx-ewny3ouwqd4r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls#ukcsz.southbyte.xyz:5705
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls#ukcsz.southbyte.xyz:5705
+trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#160.16.196.59:3169
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhQEZyZWFrQ29uZmlnIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0Ijo4MCwiaWQiOiJlZDFiNTc0My0zODliLTQ4YTItOGQ2MC0zNzkwZWRlZDdjYTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhQEZyZWFrQ29uZmlnIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0Ijo4MCwiaWQiOiJlZDFiNTc0My0zODliLTQ4YTItOGQ2MC0zNzkwZWRlZDdjYTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?type=ws&security=tls&path=/?ed=2048J_T&sni=snippets.nneko.netlib.re&fp=random#8.39.125.194:443
@@ -98,6 +99,14 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?type=grpc&secur
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com&fp=chrome#77.37.33.39:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?type=grpc&security=none#171.22.114.132:8880
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&path=Join---T-T&sni=vless.hubp.de&fp=chrome#104.18.82.55:443
+vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?type=ws&security=none&path=/we#91.107.248.175:443
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?type=ws&security=tls&path=/cahttingws&sni=638988506154316713.civic-amshw.info#norman.ns.cloudflare.com:443
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@fr1-raiv2mmr-free.koyeb.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#fr1-raiv2mmr-free.koyeb.app:443
+vless://14e53524-5562-47a6-901f-327f0b2645c0@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?type=ws&security=tls&path=/cahttingws&sni=638988506154316713.civic-amshw.info#norman.ns.cloudflare.com:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh30v1.hiddendom.shop#all.tellmethetrue.shop:443
+vless://Free_HTTPCustom@free-httpcustom4free-httpcustom-free-httpcustom-free-httpcustom.httpcustom.ir:443?type=xhttp&security=tls&path=/@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom?ed=2560&sni=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir&fp=firefox#free-httpcustom4free-httpcustom-free-httpcustom-free-httpcustom.httpcustom.ir:443
+vless://d5d297ec-95ff-45c0-9e74-012ceaa8d622@www.speedtest.net:2083?type=ws&security=tls&path=/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080&sni=golestan.hajalwi.ir.&fp=chrome#www.speedtest.net:2083
 vless://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443?type=tcp&security=reality&sni=www.abingdon.org.uk&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#eng30.digitunnel.org:443
 vless://25f325bd-3ed0-4eac-bedd-ad43c3a44e0c@blackout.nethcloud.top:8443?type=tcp&security=reality&sni=wikihow.com&fp=chrome&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&sid=96d0a6e8a6c0d73a#blackout.nethcloud.top:8443
 vless://93cd7e0f-8a81-4076-be8b-6d3bf3f8f810@152.53.84.101:20579?type=tcp&security=reality&sni=ilovepdf.com&flow=xtls-rprx-vision&pbk=mT6lh-gtbEuWk3Zk6XGF_hYvpLwxTyvwtH7F-_fRbxI&sid=89f1da93#152.53.84.101:20579
@@ -116,5 +125,5 @@ hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&i
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#81.168.83.89:2083
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
-trojan://4huitysr-wvo8-z3ue-ijny-8k7xew7showe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hqjzsavt-kts3-8czx-8wnj-25gsdr2sqfxw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://54x49xcm-wshw-75hb-9szh-iqe27td3icof@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fnp52c33-qf79-vkoe-atws-xvodbid1ksjb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
