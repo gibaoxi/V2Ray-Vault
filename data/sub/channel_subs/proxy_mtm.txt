@@ -1,6 +1,6 @@
-trojan://ng9pyy5l-lax8-uxr5-t9rc-u1e3fmpovi93@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 15:48
-trojan://4bzyp9l5-s8ku-kymy-vtvb-6ndqr20lfco3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e0sg5nm1-d8qn-gofo-6hoj-mj8vgvke5kkn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://spkzw1iq-h9sn-kk1k-tg3z-xw300bb74gvy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 19:42
+trojan://c3db64q8-0umu-zety-7kw1-eav6r7uf773j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2aggxano-2bnc-rxj9-t5to-7jsnek1q67ll@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#45.87.175.158:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
@@ -62,5 +62,9 @@ vless://93cd7e0f-8a81-4076-be8b-6d3bf3f8f810@152.53.84.101:20579?type=tcp&securi
 vless://b59a95d8-4f76-458f-b014-84610f7159f5@91.132.160.165:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=YtCLxL-1VuXCKyMp2cnmEtxZH3cEtpZRtVLE3V__sjU&sid=1f8ebe6e774e89#91.132.160.165:443
 vless://77a33d77-7af9-4c33-9556-d6711becca04@195.154.200.156:33009?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=vQxUlk2tCENv9crfrUAp5JdJOZTKhMH7XnoKLqbAYx0&sid=c0d304da0c4dcadc#195.154.200.156:33009
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@at.monkeyisland.life:443?type=tcp&security=reality&sni=at.monkeyisland.life&fp=chrome&flow=xtls-rprx-vision&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=c06a59f9d546bd63#at.monkeyisland.life:443
-trojan://nz9n4g0y-wowg-4dah-naz1-j58vehuqbrh6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://njvri2uv-8z7d-9xyi-wgww-2quw8yb14w44@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://8f43835e-10b3-4744-915c-cecb33ee7ff2@2604:6600:2000:c::3f:443?sni=Miku.fjzJnsfzQnnh.CNKWjLYOvJJq.78IF6ImgZpai.com&insecure=1#2604:6600:2000:c::3f:443
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#2001:bc8:32d7:302::11:20088
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#144.24.101.176:30102
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
+trojan://n0du9lcs-6q56-9897-5ja4-yr1n1l9p1rxk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://s8eydjzl-p4ty-caao-wezv-07zopcnszatr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

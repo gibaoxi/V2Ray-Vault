@@ -1,30 +1,29 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-11-16 15:47:22
+Timestamp: 2025-11-16 19:41:28
 Total Channels: 117
 Successful Scrapes: 91
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 339 configs
+DailyV2RY: 333 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 206 configs
 LonUp_M: 200 configs
-meli_proxyy: 195 configs
+meli_proxyy: 184 configs
+heyatserver: 171 configs
 V2rayNG3: 155 configs
-heyatserver: 142 configs
 v2rayng_1378: 140 configs
 CaV2ray: 132 configs
-oneclickvpnkeys: 131 configs
-FreakConfig: 126 configs
+FreakConfig: 115 configs
+oneclickvpnkeys: 113 configs
 V2RAY_VMESS_free: 110 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 ShadowsocksM: 95 configs
-v2rayngvpn: 79 configs
+v2rayngvpn: 84 configs
 Awlix_ir: 71 configs
-Outline_Vpn: 70 configs
-proxy_kafee: 69 configs
-proxy_mtm: 62 configs
+Outline_Vpn: 67 configs
+proxy_mtm: 66 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
 VmessProtocol: 58 configs
@@ -37,9 +36,10 @@ yaney_01: 41 configs
 ISVvpn: 40 configs
 configfa: 40 configs
 dailyv2ray: 40 configs
+proxy_kafee: 35 configs
 OutlineReleasedKey: 34 configs
 tehranargo: 33 configs
-configV2rayNG: 26 configs
+configV2rayNG: 32 configs
 ev2rayy: 25 configs
 An0nymousTeam: 23 configs
 free4allVPN: 20 configs
@@ -56,10 +56,10 @@ Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-PrivateVPNs: 18 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
+PrivateVPNs: 16 configs
 Network_442: 16 configs
 NoForcedHeaven: 16 configs
 freedomofinfor: 16 configs
@@ -68,6 +68,7 @@ Vpnstable: 13 configs
 ConfigWireguard: 12 configs
 v2box_free: 12 configs
 vpn_ocean: 10 configs
+v2rayfree: 10 configs
 configV2rayForFree: 9 configs
 sinavm: 9 configs
 freev2raym: 9 configs
@@ -84,7 +85,6 @@ v2Source: 5 configs
 redfree8: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
-v2rayfree: 5 configs
 AzadNet: 4 configs
 golestan_vpn: 4 configs
 Ahmedhamoomi_Servers: 3 configs
