@@ -1,13 +1,11 @@
-trojan://d20o7fl9-5nod-yzs0-arsl-zxhyo9ijkdnr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/15 | 23:42
-trojan://bi8lkxpo-ffdn-wy9t-kggq-nsz9wt8e3vo6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9gp2h1x3-1b4l-i7tb-ehza-qrolc1geh4oh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kz75rmw7-sre0-tl4h-40p8-95j0uv87llq4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/16 | 04:21
+trojan://cyb8am13-gawg-teqf-s97z-3fg7aiaab6zk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k3xovmha-p9vb-f3s3-7tuc-ujjokt4gu6v5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.32.6.8
 vless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@avval.ir:80?type=ws&security=none&path=/graphql#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.235
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?type=ws&security=none&path=/news#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.232.224
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5veWFuIEFiciBBcnZhbiBDby4gKCBQcml2YXRlIEpvaW50IFN0b2NrKSBcdTI1MDcgMzcuMzIuNi4xNDciLCJhZGQiOiIzNy4zMi42LjE0NyIsInBvcnQiOjE4NTc5LCJpZCI6IjFjODNhN2VkLTA4MGEtNGQ5YS1iMGUxLWI1MDY3OTFhMDNmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5veWFuIEFiciBBcnZhbiBDby4gKCBQcml2YXRlIEpvaW50IFN0b2NrKSBcdTI1MDcgMTg4LjEyMS4xMjMuMTE4IiwiYWRkIjoiMTg4LjEyMS4xMjMuMTE4IiwicG9ydCI6MjYyMTAsImlkIjoiYTBhN2YyM2QtOTYwMC00ZDRjLTkzOTgtYjgwYWRjYzNhM2YwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTm95YW4gQWJyIEFydmFuIENvLiAoIFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODUuMTQzLjIzMy4xMjAiLCJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJwb3J0IjoyMDk1LCJpZCI6ImQ3ZjliZDg0LTNkMWQtNGI0YS1kMmI4LTVhZThiNDJlNzZhYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9BcnNhbGFuVGF1Qm90In0
-vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.32.6.8
-vless://97dce074-7db1-4d59-99ca-0ef8311e2425@s19.speedyconnect.pro:443?type=ws&security=tls&path=/downloader/10005?ed=2048&sni=s19.speedyconnect.pro#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.235
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?type=ws&security=none&path=/news#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.232.224
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?type=ws&security=tls&path=/#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.206.92.117
-trojan://vwzevn6j-qgma-m7g1-ekfl-0yui5i1isjqb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://q00rir4d-jksn-zy57-lp18-87yza226wov1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ylyvrkbo-mgv0-ujo8-hfqh-2w7v9dxewezb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://90g0ysiy-w9ig-ax73-na38-tosp7qte14nl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
