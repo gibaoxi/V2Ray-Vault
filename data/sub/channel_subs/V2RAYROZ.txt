@@ -1,13 +1,8 @@
-trojan://v4en81n2-knx3-jk1e-xb4l-8qmc9dp1wesq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/17 | 19:45
-trojan://7kgnr0fy-k33w-uqut-khfu-4g4ni89hhhzw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0gi9nu48-tr98-nir3-m2m2-hhlpupdqky1d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://xb5qdba8-1u1b-39u7-6pej-1n947lrqut9d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/17 | 23:44
+trojan://mjeo7h3j-rlwd-7g8p-fe5f-7kgky34dm8q1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wkewae1j-lums-xd9l-wccq-x0vue44ddt3j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#160.16.124.55:5553
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZUk9aIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0Ijo4MCwiaWQiOiJkZTU3OTg1OC05OGY0LTQyOGYtODU5Yy03ZWVjZDk4NWI5ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?type=ws&security=tls&sni=vless.hubp.de&fp=chrome#27.50.48.8:443
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=random#104.18.82.55:443
-vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?type=ws&security=none&path=/we#91.107.248.175:443
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com&fp=chrome#104.26.6.89:443
-vless://659b70d6-efbe-47ce-a596-5b173943f077@172.66.156.81:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#172.66.156.81:80
 vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?type=ws&security=none&path=/we#91.107.248.175:443
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com&fp=chrome#104.26.6.89:443
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?type=ws&security=tls&path=/?ed=2048J--_T&sni=snippets.nneko.netlib.re&fp=random#8.39.125.85:443
@@ -15,6 +10,12 @@ vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?type=ws&security
 vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?type=ws&security=none&path=/we#91.107.248.175:443
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com&fp=chrome#104.26.6.89:443
 vless://659b70d6-efbe-47ce-a596-5b173943f077@172.66.156.81:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#172.66.156.81:80
-vless://505357b2-ee7d-4f0d-838f-b5d7348d9430@91.107.170.215:80?type=ws&security=none&path=/ali#91.107.170.215:80
-trojan://g9bra2mr-69nz-1w7f-610m-3ih8709t3bji@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x88dxtyv-wun1-cqfs-bk29-dfi6skmr30e3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?type=ws&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome#159.246.55.253:2096
+vless://7472df53-1660-4cee-e327-b5f5a27115a6@deadseectelegram.slimshopboyss.ir:8080?type=xhttp&security=none&path=/?ed=2048#deadseectelegram.slimshopboyss.ir:8080
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?type=ws&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome#159.246.55.253:2096
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?type=ws&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome#159.246.55.253:2096
+vless://f36312ed-c887-48a5-a803-22ca16a153c5@tuskar.fonixapp.org:38390?type=tcp&security=reality&sni=smallpdf.com&fp=firefox&flow=xtls-rprx-vision&pbk=a3usSjtSaH2XGzG5oi3oqPYKlhsJOmmJYI4nitX1rn8&sid=2b#tuskar.fonixapp.org:38390
+vless://362cb6f4-5b5a-42ed-8333-8abb5b329c56@london.fonixapp.org:36437?type=tcp&security=reality&sni=medicalnewstoday.com&fp=chrome&flow=xtls-rprx-vision&pbk=Te7qRMpnWkn2JPDyiZ4TzBfhywfzaydFHwHsrYh2BTQ&sid=ee84f20171b2ae#london.fonixapp.org:36437
+vless://f99cc0f1-d1a3-45f9-a13b-b33c8d3e0f10@greenwolf.fonixapp.org:30268?type=tcp&security=reality&sni=indeed.com&fp=chrome&flow=xtls-rprx-vision&pbk=GyvksSpuOucs7XsCfiq2yRn3cxVN_Y8b3Zippb_mYCM&sid=50bcccfb#greenwolf.fonixapp.org:30268
+trojan://jui7khct-i49m-5r21-7heu-7i5mej1qwsmy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jyhv5rji-9pwz-5zii-jdy8-ik8ijdguuafv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

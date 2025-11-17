@@ -1,9 +1,6 @@
-trojan://5n6vw8n0-w9o8-r8ha-xdd9-o96n5pep1dar@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/17 | 19:45
-trojan://0j7jne9m-ddy2-5e60-fu56-89ww9ppm7mez@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://a03hyt2k-lp39-bqmq-lneo-4ofcif8iike7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://3407b466-b39%65-4f06-f83b-646063%658414c@172.67.146.171:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#172.67.146.171:2095
-vless://83970111-2739-47e8-c3cf-902c10d8d2a8@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
-vless://3407b466-b39%65-4f06-f83b-646063%658414c@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
+trojan://zr2am0yk-js95-no76-c2z9-a7fyf0gf3dnb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/17 | 23:44
+trojan://exp4j4mm-3jfd-hxe0-au08-4djsw482mp3b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gf9h0xma-s48w-yhbt-yt8v-kzdcf94g2v88@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c%61b42%61df-7b3%61-4%6539-9f4f-f8c08b940c69@194.182.79.240:22726?type=grpc&security=none#194.182.79.240:22726
 vless://383834%614-%65b58-4%6564-b%615d-6c0676d1b25f@194.182.79.236:24556?type=grpc&security=none#194.182.79.236:24556
 vless://91%6501%61c%65-4354-4b74-c283-5c011c45428%65@91.99.156.225:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#91.99.156.225:2095
@@ -31,5 +28,7 @@ vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedte
 vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?type=xhttp&security=tls&sni=baznet.mmdmrx23.workers.dev&fp=chrome#104.18.0.0:443
 vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?type=xhttp&security=tls&sni=baznet.mmdmrx23.workers.dev&fp=chrome#104.18.0.0:443
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@104.17.147.22:443?type=ws&security=tls&path=/&sni=smart.otterglobalconf.org&fp=chrome#104.17.147.22:443
-trojan://n7mqv545-xth2-tln4-viw5-ecyoj2eorj11@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h4uue82q-c8en-nwr6-qwgs-r2hh6segpupm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?type=ws&security=tls&path=/?ed=2048J_T&sni=snippets.nneko.netlib.re&fp=chrome#8.39.125.194:443
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@198.41.223.140:443?type=ws&security=tls&path=/?ed=2048&sni=snippets.nneko.netlib.re&fp=chrome#198.41.223.140:443
+trojan://5ahjymc3-k7t1-nbcl-g7qx-s8ns0rohm9lj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0pvmngln-m6bf-7j07-ho98-jt8scm2n0x99@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
