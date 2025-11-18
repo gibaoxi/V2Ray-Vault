@@ -1,16 +1,15 @@
-trojan://o4om9as5-1fir-b97h-i3ek-zbnxvgpubkff@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/18 | 04:17
-trojan://n1dvaz10-c6zk-temo-d210-20p4app09wdp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f6jdc1nx-8t0e-khus-9gyz-0cc2zz8hqsc7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8wq30zvs-lvo7-nwfb-l1of-wzfmdacmorgi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/18 | 07:46
+trojan://ivqhqb92-9rig-9ono-1ao0-anpwxou25ts5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7pgcl6wm-y7k4-y8av-z7pc-lmycympm74l1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://7748ec25-f530-40f2-90f2-9618ca084b80@finland.epiconline.ir:33727?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.227.96
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?type=tcp&security=tls&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Cgi Global Limited ┇ 194.116.216.21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSmV6UjF0VlRMaEFCeGdRZmhaSlVP@217.60.38.83:63342#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.38.83
+vless://70d8e055-9062-4184-a224-fe7e60f2527e@46.8.231.197:3479?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 46.8.231.197
 vless://0fc64b29-50d1-4c71-ab10-a6d7321aab80@31.57.108.206:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 31.57.108.206
 vless://9e472467-5cda-416b-8d01-3d01f30ac8e6@194.113.37.208:22839?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 194.113.37.208
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSmV6UjF0VlRMaEFCeGdRZmhaSlVP@217.60.38.83:63342#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.38.83
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuMTUuMTguNiIsImFkZCI6IjMxLjE1LjE4LjYiLCJwb3J0IjoxMDA4NiwiaWQiOiJhYjI5NzMxOS0xN2NhLTQ1ZDYtOTAwZC1kNDM0Njg2ZDViN2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://70d8e055-9062-4184-a224-fe7e60f2527e@46.8.231.197:3479?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 46.8.231.197
-vless://7748ec25-f530-40f2-90f2-9618ca084b80@finland.epiconline.ir:33727?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.227.96
-vless://34ff1d05-2021-40e7-984c-8413bba0c011@31.57.28.172:38107?type=ws&security=none&path=/@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.28.172
 vless://daredevill_404@46.8.78.214:56094?type=xhttp&security=none&path=/@daredevill_404@daredevill_404@daredevill_404#HK 🇭🇰 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 46.8.78.214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZU81bFFfNUhGeDMybDN4cmMyRURB@45.38.143.122:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 45.38.143.122
-vless://0a153e35-72db-4860-8da5-4b02ff13d698@46.8.229.85:41262?type=tcp&security=reality&sni=google.com&fp=firefox&pbk=qw6Eb9essNGXPtKYRQTX61DD9dCS2LJ-myCMjsxenBU&sid=ada95ed32013#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 46.8.229.85
-trojan://hogundzz-5ftd-karn-x1pv-wygrpoy16arb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://m8tsxo9f-8r6x-4lbv-abgk-skloka2ye5hx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://34ff1d05-2021-40e7-984c-8413bba0c011@31.57.28.172:38107?type=ws&security=none&path=/@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----@armanstore2--Telegram-----#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.28.172
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuMTUuMTguNiIsImFkZCI6IjMxLjE1LjE4LjYiLCJwb3J0IjoxMDA4NiwiaWQiOiJhYjI5NzMxOS0xN2NhLTQ1ZDYtOTAwZC1kNDM0Njg2ZDViN2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://xgefp11y-7ew4-8o3t-1bhu-e13cgjownm1k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://eii74ipd-rqn6-zorw-i6tv-kz8yz77kg2so@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
