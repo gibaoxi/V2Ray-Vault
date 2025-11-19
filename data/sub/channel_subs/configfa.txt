@@ -1,11 +1,9 @@
-trojan://agv0zhvh-7yiz-osxq-b6ix-90z4lhacavw7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/19 | 07:46
-trojan://z1hv8t8i-1s34-givp-9qj2-tph4rktq2gei@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://29vn437q-6bb9-ymge-s56f-0122kyp400gt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#38.244.136.233:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VW9TZjZFalRkS0xaMm1meDV4Rnp4@81.19.141.45:443#81.19.141.45:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NXFKNHdqSGhQYlZOeFdLVDFtSm5F@46.246.98.39:55818#46.246.98.39:55818
+trojan://j16vmyum-uwn1-vsso-94b3-vgt1sszd9kk9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/19 | 11:46
+trojan://9b33uroj-is03-z6i6-islq-45sabkl6biz4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://635b3bkh-ulz6-0hlo-voef-fjhz1hnk9z2o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkiLCJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsInBvcnQiOjU1NTU1LCJpZCI6ImE0YjQxZGM4LWI2ODQtNDllNC1iM2RiLWFkZTM4MmMxMTNkMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?type=grpc&security=none&sni=pqh29v7.ipforvetra.shop#pqh29v7.ipforvetra.shop:80
 vless://Kanale-DailyConfigs@104.21.2.155:80?type=xhttp&security=none&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048#104.21.2.155:80
@@ -20,6 +18,7 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&security=tl
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com&fp=chrome#77.37.33.39:443
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?type=ws&security=tls&path=/api/v1&sni=gb-8981.shenzogmbh.com#www.speedtest.net:443
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@104.26.9.133:443?type=ws&security=tls&path=/?ed=2048&sni=snippets.nneko.netlib.re&fp=random#104.26.9.133:443
+vless://72ca0721-3f1f-47f7-9060-e24156df0ca0@zone.ru.f2zone.ir:23209?type=tcp&security=none&path=/#zone.ru.f2zone.ir:23209
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=U7a8fftVopJsaR16LX0kEixkiT4axfOYQbthDvMoh3Y#legendary.zooboming.com:443
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443
 vless://kanaleDailyConfigs@bia-kanalemoon.vigilante.ir:443?type=grpc&security=reality&sni=tgju.com&fp=firefox&pbk=0PUc6kHXBAUkpjN6Zm3KkdpnpMHDl45vl-yL_Oyg4wE#bia-kanalemoon.vigilante.ir:443
@@ -39,7 +38,22 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?type=tcp&securit
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1#51.159.111.32:5355
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#91.149.238.71:30102
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#81.168.83.89:2083
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#xg.xn--mes13n8pi8x2b.shop:21072
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#xg.xn--mes13n8pi8x2b.shop:21072
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#xg.xn--mes13n8pi8x2b.shop:21072
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#xg.xn--mes13n8pi8x2b.shop:21072
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21494?insecure=0#xg.xn--mes13n8pi8x2b.shop:21494
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21828?insecure=0#tw.xn--mes13n8pi8x2b.shop:21828
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860?insecure=0#tw.xn--mes13n8pi8x2b.shop:21860
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545?insecure=0#rb.xn--mes13n8pi8x2b.shop:21545
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?insecure=0#rb.xn--mes13n8pi8x2b.shop:21842
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?insecure=0#mg.xn--mes13n8pi8x2b.shop:21349
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?insecure=0#mg.xn--mes13n8pi8x2b.shop:21639
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?insecure=0#trq.xn--mes13n8pi8x2b.shop:21112
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?insecure=0#trq.xn--mes13n8pi8x2b.shop:21910
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?insecure=0#agt.xn--mes13n8pi8x2b.shop:21440
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?insecure=0#agt.xn--mes13n8pi8x2b.shop:21654
 warp://162.159.192.1:4500?#162.159.192.1:4500
 warp://2606:4700:d0::a29f:c001:2408?#2606:4700:d0::a29f:c001:2408
-trojan://etjhqpwx-kbpy-y7oq-g71f-qxh3w0uowptn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9aqu18zq-q8mj-icax-jsa8-67o5oc6i0k4c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5wuw7nky-xnnz-qxnn-xtij-qal89iibojme@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n8jhuxhe-sxbr-u5x6-jz3z-lk7b42wbqyq3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
