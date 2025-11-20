@@ -1,7 +1,8 @@
-trojan://v8dhieky-526m-in8b-g4eg-rbvvwvyrk23i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 19:44
-trojan://xk33xsbt-z24t-7ddm-t6f9-6fchwgv62tkv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uqce0q7r-2qsb-ragv-sws9-73fec5xnxoon@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tzdotwbw-7viv-nhb7-lrdc-y5p80bmnwyys@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 23:44
+trojan://vgwuqwl8-suox-1dwm-vmfc-bs2vmzmigcy5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://he47aqzr-hr4i-as4o-oyfq-4kp9w0y40j5c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://YwuvGJk36B@creativecommons.org:2053?sni=kotlet.arshiacomplus.dpdns.org&peer=kotlet.arshiacomplus.dpdns.org&security=tls#creativecommons.org:2053
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?type=grpc&security=tls&sni=offged.sahandconfig.ir&fp=chrome#46.62.220.103:27802
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?type=ws&security=tls&path=/Tel-@V2ray_Alpha&sni=ARC-448.Pages.DEV#172.66.132.196:443
 vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?type=ws&security=tls&path=/ws&sni=nodegcf.azurka.org&fp=chrome#nodegcf.azurka.org:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?type=grpc&security=none#146.19.230.254:8880
@@ -13,5 +14,7 @@ vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.235:8880?type=grpc&secur
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.177:8880?type=grpc&security=none#94.232.247.177:8880
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369#de.nitroo-tech.ru:443
 vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?type=tcp&security=reality&sni=auto.quattro-tech.ru&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#auto.quattro-tech.ru:8443
-trojan://qwrlf1wh-d1m0-ayx5-pl8s-n8gxtcp4122u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://39iu1qbn-xboj-hnfn-f41g-daclexqqv68u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?sni=bing.com&insecure=1#nl1.oomz.ru:30000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
+trojan://4jyihh5r-l076-5m17-5b2h-inbg3pwqhlky@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yobsbsag-6m8k-2ald-09nl-vcwl82z3mhle@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
