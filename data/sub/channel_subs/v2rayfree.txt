@@ -1,10 +1,9 @@
-trojan://ky0k4adu-rfnf-pbyy-obwd-hri183eh4ph3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 07:45
-trojan://teqwchcm-88bd-zl24-4hi7-2unhx8a6xqch@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o8ac6t28-qg1m-vast-fkaf-qi5ysp5dtay5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://yqjiw8pt-b34r-xq6r-861c-oyeeb8ueit1h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 11:47
+trojan://aszao1m3-nnfa-vib5-7pmw-sgyud8nhh2u7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://w2dq2gjv-swt2-gupt-99gn-3o6ropacfcep@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#5.78.51.123:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#136.244.100.113:443
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2VcdWRkMmQiLCJhZGQiOiI4LjIxMS4xNjQuMjE1IiwicG9ydCI6MjA1MjIsImlkIjoiNzMxOTNjY2UtN2NhMS00YjA4LTkzZmYtNGVlOGIwMTQ3Mzc0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEifQ
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?type=grpc&security=none#91.98.33.242:443
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.111:2053?type=ws&security=tls&path=/&fp=chrome#54.38.137.111:2053
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&security=tls&path=/api/v1&sni=gb-021.shenzogmbh.com&fp=chrome#104.26.6.89:443
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?type=ws&security=tls&path=/api/v1&fp=chrome#45.139.196.153:443
@@ -13,8 +12,9 @@ vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?type=tcp&security=n
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=fast01.0860852.xyz#198.202.211.253:2096
 vless://1ef05b86-7cff-463d-87f7-13951706d72b@89.106.69.139:5100?type=tcp&security=none#89.106.69.139:5100
 vless://TELEGRAM-CONFiGLiNE-54@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.67.8:80
+vless://f1bca75b-909d-42ce-a63a-f15e8c21f62d@www.speedtest.net:2083?type=ws&security=tls&path=/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080&sni=golestan.hajalwi.ir.&fp=chrome#www.speedtest.net:2083
 vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?type=tcp&security=reality&sni=www.utexas.edu&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#usa82.freednet.org:443
 vless://eea14931-e72a-47c8-bc00-68069729e91a@62.60.149.108:443?type=tcp&security=reality&sni=st.ozone.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LR_lcmXBa0mcl4EBhsk52JrEbOjgh9zaxpqiuR2UiW8&sid=0e4ac0d87e3977e3#62.60.149.108:443
 vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?type=tcp&security=reality&sni=www.utexas.edu&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#usa82.freednet.org:443
-trojan://kq3ct0a4-grho-i1c0-b4no-su7j0benud5f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ex7t7rp1-kmej-hra3-j6d2-pcu1r3dpwv2y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://domx5uj3-9ghw-qi8q-493f-qk1qndibouhq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k8ce7nr7-sqzx-tj8z-lgag-c41cxemhsfb4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
