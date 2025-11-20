@@ -1,6 +1,6 @@
-trojan://bwbwydlq-p8fe-hfip-v9nc-0sdt1kf92mu5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 15:51
-trojan://cfg2px83-s1l1-6vmf-93vz-rx2cx55zkzq9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2p75ofe3-dnz8-diw9-3t3c-zhcqbhg3d1fd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://slxfkn2i-kocw-gbv3-eu2i-r90635gkfwh5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/20 | 19:44
+trojan://lsiretqo-13tm-ljlf-dtg4-gm0towapuh80@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://164x97ak-09br-invb-gftd-vt5cdedl164a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQFRFSFJBTkFSR08iLCJhZGQiOiIyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJwb3J0IjoyMzAwOCwiaWQiOiJlOTk0YjgwNC0zNDVjLTRlOGItYTgyNy03ZTAwNTY5NGQxNDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@173.245.58.113:443?type=ws&security=tls&path=/?ed=2048&sni=snippets.nneko.netlib.re&fp=chrome#173.245.58.113:443
 vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedtestsoft98.ir:443?type=ws&security=tls&path=/&sni=speedtestserversoft98server.speedtestsoft98.ir&fp=chrome#speedtestserversoft98server.speedtestsoft98.ir:443
@@ -21,6 +21,9 @@ vless://%65f0%61652d-5928-4310-8%6170-%61b9342%61c959%65@www.speedtest.net:2082?
 vless://82%6577741-f27%65-476d-8467-c054752f0673@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#www.speedtest.net:2095
 vless://727fa2dd-2920-4ed6-a451-fafcfdd9f914@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
 vless://82%6577741-f27%65-476d-8467-c054752f0673@172.67.146.171:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#172.67.146.171:2095
+vless://%61c94%6119b-%65f26-4844-d932-f29d91b%65344d@172.67.146.171:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#172.67.146.171:2095
+vless://%61c94%6119b-%65f26-4844-d932-f29d91b%65344d@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#www.speedtest.net:2095
+vless://aea0ea47-228f-4dbf-cb22-615e6aec707d@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
 vless://acacdb17-f35a-43b0-8829-dcf2d8fe76a6@srv18.towersflowerss.com:443?type=tcp&security=reality&sni=srv18.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#srv18.towersflowerss.com:443
-trojan://ud9j25up-ghdw-5l9z-sebo-c5uz04kxc72c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://msurdei8-zaow-trn6-3skj-emu3ktt1zeq0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://uc2vci0r-3eae-jn2k-7ilv-xwnc5tl5q2kh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hg6b5jlw-ulzj-mwam-oxam-apyuv0v6vfer@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
