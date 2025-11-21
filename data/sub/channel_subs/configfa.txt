@@ -1,14 +1,13 @@
-trojan://snn83kni-p1yq-qci3-zhv1-1azb6sgljyrp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 11:47
-trojan://qihnf2hi-gdoc-qkap-9ayy-r9ll5stl9yvt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bub272e1-255x-i54m-w0eq-3h414kz6rf9c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://98co1fj8-2pc4-d39n-uxkg-9ulykq2dxnmf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 15:50
+trojan://1mc90k6i-zp43-1ilu-2d4m-ypa16oplt4b3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://s7tasg6f-9rts-o3f8-i3vq-i61718viy7qu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.76.39.215:443#3.76.39.215:443
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.174.194:443#63.180.174.194:443
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.177.227.124:443#63.177.227.124:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkiLCJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsInBvcnQiOjU1NTU1LCJpZCI6ImE0YjQxZGM4LWI2ODQtNDllNC1iM2RiLWFkZTM4MmMxMTNkMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?type=grpc&security=none&sni=pqh29v7.ipforvetra.shop#pqh29v7.ipforvetra.shop:80
-vless://Kanale-DailyConfigs@104.21.2.155:80?type=xhttp&security=none&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048#104.21.2.155:80
-vless://Kanale-DailyConfigs@172.67.223.232:80?type=xhttp&security=none&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048#172.67.223.232:80
-vless://Kanale-DailyConfigs@www.speedtest.net:80?type=xhttp&security=none&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048#www.speedtest.net:80
 vless://3dcaac08-e7d7-4828-b229-d886d8a5661a@cloudfire.ir:443?type=ws&security=tls&path=/nlxs5P9vmukQHnOn/OTEuOTkuMTA5LjIwNw==?ed=2560&sni=toyota38.com&fp=random#cloudfire.ir:443
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@198.41.223.140:443?type=ws&security=tls&path=/?ed=2048_T&sni=snippets.nneko.netlib.re&fp=random#198.41.223.140:443
 vless://12345678-1234-1234-1234-123456789123@140.99.233.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de#140.99.233.61:2096
@@ -21,9 +20,6 @@ vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@104.26.9.133:443?type=ws&security=t
 vless://72ca0721-3f1f-47f7-9060-e24156df0ca0@zone.ru.f2zone.ir:23209?type=tcp&security=none&path=/#zone.ru.f2zone.ir:23209
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.127:8080?type=ws&security=none&path=/?ed#40.160.4.127:8080
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?type=tcp&security=tls&sni=bitva.mail.ru&fp=chrome#37.18.14.103:443
-vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=U7a8fftVopJsaR16LX0kEixkiT4axfOYQbthDvMoh3Y#legendary.zooboming.com:443
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443
-vless://kanaleDailyConfigs@bia-kanalemoon.vigilante.ir:443?type=grpc&security=reality&sni=tgju.com&fp=firefox&pbk=0PUc6kHXBAUkpjN6Zm3KkdpnpMHDl45vl-yL_Oyg4wE#bia-kanalemoon.vigilante.ir:443
 vless://3fda0600-4b0d-478f-aeb9-3ffa7deaedbc@p33.sepantamcloud.ir:8060?type=tcp&security=reality&sni=www.stackoverflow.com&fp=firefox&pbk=AhhyWwNmWdpMuLiVYaEN5XDG0U3lB60RK3F7oRkQ1l8&sid=7190dca211247ff3#p33.sepantamcloud.ir:8060
 vless://c081925c-a17a-4799-8643-5b00bfd687ac@butcher.fonixapp.org:23627?type=tcp&security=reality&sni=lowes.com&fp=chrome&flow=xtls-rprx-vision&pbk=XYH_zGUIMpC51F-Q9Kwto9ZttOumIexpEtXfTuBJ4lc&sid=3835#butcher.fonixapp.org:23627
 vless://b3ed90bf-5d36-4661-982a-cda4255dcda8@dl.darkterror.fonixapp.org:19737?type=tcp&security=reality&sni=ilovepdf.com&fp=firefox&flow=xtls-rprx-vision&pbk=C8j5dsJwK-i2cDVzt9QQ8HzpL7LfryWoAWHZ7ap4ERg&sid=62f7cd#dl.darkterror.fonixapp.org:19737
@@ -37,6 +33,7 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?type=tcp&security
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#nls.jykvpn.com:443
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@ges.jykvpn.com:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#ges.jykvpn.com:443
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#fis.jykvpn.com:443
+vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4#legendary.zooboming.com:443
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#91.149.238.71:30102
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#81.168.83.89:2083
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#xg.xn--mes13n8pi8x2b.shop:21072
@@ -55,5 +52,5 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:2191
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?insecure=0#agt.xn--mes13n8pi8x2b.shop:21440
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?insecure=0#agt.xn--mes13n8pi8x2b.shop:21654
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?sni=du.wish.ml&insecure=1#193.123.76.141:30102
-trojan://9dk3tpbs-rcpt-fkfc-29t8-tc6cffxrtxbv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://o2dhwn1w-3emb-ir2w-cb7n-mv7rhfh7nkv8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://j9si3n1j-iu9o-mrar-g6eu-rgn63t5poms7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bdkgm7by-ddpz-sxr9-mt67-lqaw9xae7il2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

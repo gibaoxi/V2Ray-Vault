@@ -1,6 +1,6 @@
-trojan://f7frzb4d-jpqa-brme-me9f-v6dqwyrcnny1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 11:47
-trojan://ca8qepjs-el4s-2494-lxg6-hnpg981q0x8l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://27kczoac-fh4i-vbz7-0r17-qn4kepo97gyr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://fejw15vf-w83i-ea54-aoo4-8oy80li29uaa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 15:50
+trojan://gok0o86w-c8f4-5dbr-db9i-buarwwimzyp1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cjylk3fu-xbcy-o7e2-1544-dt61qd1eitik@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRWdpZnpCakk5VFdHWnp6T1U2WE9n@147.45.178.24:56259#147.45.178.24:56259
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0tQElTVnZwbiIsImFkZCI6IjUuMTg4LjIwMC4yMjQiLCJwb3J0Ijo4NDQzLCJpZCI6IjM1MzEyMDM1LTMzMjAtNDkzOS1hMDM1LTM3MjAzMTMwMzIyMCIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJlZS0xLnN0dW5uZWwuY2MiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiZWUtMS5zdHVubmVsLmNjIn0
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0tQElTVnZwbiIsImFkZCI6IjY5LjQyLjIyMC4xOTMiLCJwb3J0Ijo4NDQzLCJpZCI6IjM1MzAyMDM1LTMwMjAtNDUzNS1hMDM1LTMxMjAzNTMwMjAzNSIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJkZS0yLnN0dW5uZWwuY2MiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiZGUtMi5zdHVubmVsLmNjIn0
@@ -29,13 +29,11 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?type=ws&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?type=grpc&security=none#103.231.75.74:8880
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vless.hubp.de&fp=chrome#104.18.82.55:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?type=grpc&security=none#89.221.224.239:8880
-vless://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?type=tcp&security=reality&sni=download-installer.cdn.mozilla.net&fp=chrome&flow=xtls-rprx-vision&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&sid=f2a496f4#de.xn--mes34jx0kfx3c.com:11013
-vless://83bafcc0-3639-443e-b14f-16ad8916629c@us.xn--mes34jx0kfx3c.com:11005?type=tcp&security=reality&sni=download-installer.cdn.mozilla.net&fp=firefox&flow=xtls-rprx-vision&pbk=rbqSU0Rrphxt7nPgz59Wbm8RRY0Z-wtLvgbrQiumMkw&sid=1d81f7eb#us.xn--mes34jx0kfx3c.com:11005
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.4:993?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=oS6X1GK-gYtOfvMbwhhxpRfXBJlgy2sO6MbblxYNsA4#166.1.131.4:993
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs#155.212.110.3:993
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.37.10:993?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc#155.212.37.10:993
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#166.1.131.2:443
 vless://28e8d9d8-3442-46e8-8697-0280c2917242@ezalor.fonixapp.org:46490?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=mNnK0d5tF-8FazWFmDLsp9YPAf1PL2k9S1bvKV8p_Uk&sid=fa41#ezalor.fonixapp.org:46490
 vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@bonefletcher.fonixapp.org:22925?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=Pzsb-3zlxbYLJwRE0ACSqzTL7h3ubqREGMEs17q_1z4&sid=886d#bonefletcher.fonixapp.org:22925
-trojan://7662b5cs-34sc-vbdp-othw-a1na4jcs65jr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8vchku2d-4a3q-xq7o-b860-sz2p2zukmzq4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://92azauf8-nncw-o6n0-2em4-hrm9w61w2q1g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://h133z6t1-m21y-zote-7qw4-dumf6f77ylgv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
