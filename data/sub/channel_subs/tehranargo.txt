@@ -1,8 +1,7 @@
-trojan://a5m4ob2m-tjlk-8cm0-9ufj-g9q3326vjiyv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 19:44
-trojan://udfz5jit-jmsm-39fi-p0cn-9q416tlchxfk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://75kmye9v-hrop-etfb-qbx3-n5bjghenik7v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://h52pezb6-63hi-osbd-8frx-mubhnvtyh0n3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 23:43
+trojan://znezhfs9-vs5i-xo9a-t577-0klmcak31ul0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mgnqbqan-lgbh-wshs-zmog-0u9h4jgx61ac@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQFRFSFJBTkFSR08iLCJhZGQiOiIyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJwb3J0IjoyMzAwOCwiaWQiOiJlOTk0YjgwNC0zNDVjLTRlOGItYTgyNy03ZTAwNTY5NGQxNDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0
-vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedtestsoft98.ir:443?type=ws&security=tls&path=/&sni=speedtestserversoft98server.speedtestsoft98.ir&fp=chrome#speedtestserversoft98server.speedtestsoft98.ir:443
 vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?type=xhttp&security=tls&sni=baznet.mmdmrx23.workers.dev&fp=chrome#104.18.0.0:443
 vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?type=xhttp&security=tls&sni=baznet.mmdmrx23.workers.dev&fp=chrome#104.18.0.0:443
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@104.17.147.22:443?type=ws&security=tls&path=/&sni=smart.otterglobalconf.org&fp=chrome#104.17.147.22:443
@@ -26,9 +25,8 @@ vless://aea0ea47-228f-4dbf-cb22-615e6aec707d@151.101.3.8:80?type=xhttp&security=
 vless://1789%65024-b6b%65-4489-9238-053d352%657473@172.67.146.171:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#172.67.146.171:2095
 vless://1789%65024-b6b%65-4489-9238-053d352%657473@www.speedtest.net:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#www.speedtest.net:2095
 vless://02d640ee-b48a-4b26-cc8e-18e82b566bc5@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
-vless://bd8ff551-b518-4f%65%61-826c-f8%61d2b2970%65%65@194.182.79.240:22732?type=grpc&security=none#194.182.79.240:22732
-vless://40be2b8c-fea8-4a6d-bb2f-b96679ff6db2@188.114.96.3:443?type=xhttp&security=tls&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&sni=zedmodeon.snapp-digikala.workers.dev&fp=firefox#188.114.96.3:443
-vless://40be2b8c-fea8-4a6d-bb2f-b96679ff6db2@www.speedtest.net:443?type=xhttp&security=tls&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&sni=zedmodeon.snapp-digikala.workers.dev&fp=firefox#www.speedtest.net:443
+vless://TelegramChannel%3Ad%61r%65d%65vill_404@91.107.187.5:20569?type=xhttp&security=none&path=/@daredevill_404#91.107.187.5:20569
+vless://8c8e3d85-7263-438d-ae3c-55e51338911b@deadseectelegram.slimshopboyss.ir:8080?type=xhttp&security=none&path=/?ed=2048#deadseectelegram.slimshopboyss.ir:8080
 vless://acacdb17-f35a-43b0-8829-dcf2d8fe76a6@srv18.towersflowerss.com:443?type=tcp&security=reality&sni=srv18.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#srv18.towersflowerss.com:443
-trojan://n9sddi0t-pil8-ukdt-u0xa-lqiawkqskwok@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9djfmjws-ftl0-omyt-qw8x-z31iihnyekco@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://nhptixar-56mw-ermo-ex75-4oh8u10u3f8i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://zf3z64i6-ytu4-s6ec-1yjz-b1nb4123bq5s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

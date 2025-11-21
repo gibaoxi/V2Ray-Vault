@@ -1,6 +1,6 @@
-trojan://zk5o073t-b8ly-y9qg-ims8-wt3bzyu5kx1n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 19:44
-trojan://kt0s5wku-8l0h-kkh0-mkxl-gkh3xcz5516e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://524fwxmf-vjhu-1ife-dkek-fknqaukh55qj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zgo2f1u1-wyww-0pzv-5lzf-c7nsjc7pelc5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 23:43
+trojan://3ladefdf-30xj-geu0-sf8r-msq21a2aecvb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sufofyvg-epo8-2hez-ossu-g5gp5kmosyl5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cW5ZclRIU3hMaXZ6cEFRd1ZwWmg1@194.87.216.218:52571#194.87.216.218:52571
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#45.87.175.158:8080
@@ -13,9 +13,13 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.106:8080?type=ws&security=
 vless://c8654a3a-16c8-4494-86d1-c4ac5b14fd5e@2001:41d0:701:1000::3aff:48107?type=grpc&security=none#2001:41d0:701:1000::3aff:48107
 vless://02d640ee-b48a-4b26-cc8e-18e82b566bc5@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
 vless://%57%61%72%70%69%2D%46%72%65%65%2D%56%70%6E%2D%49%6E%2D%47%6F%6F%67%6C%65%50%6C%61%79@95.217.233.18:443?type=tcp&security=none#95.217.233.18:443
+vless://a96d28ab-5018-4604-8fd6-2273f0eccaa4@188.114.96.3:443?type=xhttp&security=tls&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&sni=zedmodeon.snapp-digikala.workers.dev&fp=firefox#188.114.96.3:443
+vless://cd02a8a5-0e70-402b-dad6-50c9ddfeea15@test2.amin8263.ir:2095?type=ws&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048#test2.amin8263.ir:2095
+vless://63d650dc-f6cd-48bc-9303-dec2f8af4cc6@51.79.102.243:443?type=ws&security=none&path=/linkws?ed=2560#51.79.102.243:443
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@185.226.92.120:2080?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&sid=722ee6b369#185.226.92.120:2080
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@185.226.92.120:2080?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&sid=722ee6b369#185.226.92.120:2080
 vless://%57%61%72%70%69%2D%46%72%65%65%2D%56%70%6E%2D%49%6E%2D%47%6F%6F%67%6C%65%50%6C%61%79@168.119.48.122:443?type=xhttp&security=reality&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&sni=google.com&fp=chrome&pbk=lAQlZopyI2jjxnDeQNGb8tFNTs-ZDcQketxGd72FQiQ&sid=63a066#168.119.48.122:443
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@81.90.29.105:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#81.90.29.105:443
-trojan://0sbomjvr-8nf8-dgff-h17f-5y81hwchbj21@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9kvoxqrh-kpgu-aj0l-u840-2u9yqi4y50yn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://%57%61%72%70%69%2D%46%72%65%65%2D%56%70%6E%2D%49%6E%2D%47%6F%6F%67%6C%65%50%6C%61%79@168.119.48.122:443?type=xhttp&security=reality&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&sni=google.com&fp=chrome&pbk=lAQlZopyI2jjxnDeQNGb8tFNTs-ZDcQketxGd72FQiQ&sid=63a066#168.119.48.122:443
+trojan://mvwwl4r5-3xxu-979u-krw2-q1075azbsand@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xzhxptdr-sh06-7cq4-sblc-gq29sh23qqll@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
