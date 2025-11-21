@@ -1,26 +1,26 @@
-trojan://5pbt683k-b5jk-z7wg-87cf-o8rlv5vuxj5u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 04:17
-trojan://nepa7ir7-w5xk-gd7u-rude-s9up3a6szukk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rbdgo3ec-hmry-5xsd-i5qj-nsuy0jl48scp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - KAMATERA ┇ 185.47.172.105
+trojan://3shig1n1-48fp-pr8w-x6gx-d4z2muu9bmen@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/21 | 07:45
+trojan://lc0hr1w1-a1x9-jwto-0bat-jollivh6mmf4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bg1utyvn-p05j-q8ul-24sx-rm4a227q2wcs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://b0d42446-ab52-4d5c-85cd-54232723670c@141.227.140.189:30239?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.140.189
+vless://df30716f-abb7-4b23-b4f2-b7617c6d9c78@dl4.hydro-soft.ir:8880?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 80.211.132.67
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?type=tcp&security=reality&sni=vk.cc&fp=chrome&flow=xtls-rprx-vision&pbk=QW6neBOeONEjuXRaJE5T07gNWbYY2blQa81hurOUth8&sid=cff81baa#IT 🇮🇹 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 89.150.48.178
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.54.45
 vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#IT 🇮🇹 ┇ VLESS-TCP-RLT - WorkTitans B.V. ┇ 185.248.144.97
-vless://1276930d-05c0-41d6-a546-a037235a4a2b@content.darkhoursehome.com:9341?type=tcp&security=reality&sni=ajax.googleapis.com&fp=firefox&flow=xtls-rprx-vision&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&sid=a41949cbc7c41377#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.142.247
-vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 72.146.233.114
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#IT 🇮🇹 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 185.247.184.147
+vless://turboo-server@146.75.55.82:80?type=xhttp&security=none&path=/#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.55.82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.195.193
 vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?type=tcp&security=reality&sni=aws.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#IT 🇮🇹 ┇ VLESS-TCP-RLT - Seflow s.r.l. ┇ 95.141.37.73
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#IT 🇮🇹 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 204.216.216.23
-vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.140.105
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?type=tcp&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#IT 🇮🇹 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.51.160
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMmEwNTo1NDE6MTEwOjQzOjoxIiwiYWRkIjoiMmEwNTo1NDE6MTEwOjQzOjoxIiwicG9ydCI6MjA5OCwiaWQiOiI4Mzg3NjIyMi02NGE0LTQ5MTItYWExOC1iN2Q5ZDM0OTU5ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.195.193
 trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Global Connectivity Solutions Llp ┇ 185.247.184.186
-vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 80.211.133.72
-vless://turboo-server@146.75.55.82:80?type=xhttp&security=none&path=/#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.55.82
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - KAMATERA ┇ 185.47.172.105
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 72.146.233.114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 176.126.83.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.54.45
-vless://b0d42446-ab52-4d5c-85cd-54232723670c@141.227.140.189:30239?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.140.189
-vless://1a92321a-3612-47cc-9d8d-d298179295dd@151.101.242.172:80?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.242.172
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?type=tcp&security=reality&sni=vk.cc&fp=chrome&flow=xtls-rprx-vision&pbk=QW6neBOeONEjuXRaJE5T07gNWbYY2blQa81hurOUth8&sid=cff81baa#IT 🇮🇹 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 89.150.48.178
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#IT 🇮🇹 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 185.247.184.147
-vless://df30716f-abb7-4b23-b4f2-b7617c6d9c78@dl4.hydro-soft.ir:8880?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 80.211.132.67
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMmEwNTo1NDE6MTEwOjQzOjoxIiwiYWRkIjoiMmEwNTo1NDE6MTEwOjQzOjoxIiwicG9ydCI6MjA5OCwiaWQiOiI4Mzg3NjIyMi02NGE0LTQ5MTItYWExOC1iN2Q5ZDM0OTU5ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5@italy.pocomacho.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=w8fmqaWzMuOLi9qoV5ueSdrVel8xgr2R2Z1ayUE48EI&sid=40b4681581dae8#IT 🇮🇹 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.51.164
-trojan://92ks2a6v-s75x-ky24-e7yg-z0b81q9nl9cr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hpevri0d-4sef-vnio-p3da-on7mpzyrgmsb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://1a92321a-3612-47cc-9d8d-d298179295dd@151.101.242.172:80?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.242.172
+vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 80.211.133.72
+vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.140.105
+vless://1276930d-05c0-41d6-a546-a037235a4a2b@content.darkhoursehome.com:9341?type=tcp&security=reality&sni=ajax.googleapis.com&fp=firefox&flow=xtls-rprx-vision&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&sid=a41949cbc7c41377#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.142.247
+trojan://i0ac8tn8-x3sc-t75n-4dv6-hmdchtwhssv0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://g1yj5sqo-g9w5-7j3f-77s0-vgwj0qtayvli@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
