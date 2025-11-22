@@ -1,6 +1,6 @@
-trojan://s52fxc3w-afdy-nmi4-8yyz-7lejrhgqy9zn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 07:43
-trojan://12jivpe0-lqb3-67ef-seuc-75wtaq88vu2f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://y0h4r310-ff88-jhy7-53mc-qhlgs0t8902n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0u2eng61-8008-frln-m9sd-l15gwrbbw2j9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 11:45
+trojan://s9f56dr5-tbxm-0e3c-vokg-fxwurwv1u5yp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fzcjunve-6af5-0qe0-aosx-5q4a5rv1gfjq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#45.87.175.158:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
@@ -73,7 +73,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#134.209.147.198:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcG5STDlmNDZUbFF2MmxlY1ZIbWc3@213.111.142.140:8443#213.111.142.140:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNjdxMnBFeGlRc1NYS2JCTlE2ZFRx@213.173.33.38:8443#213.173.33.38:8443
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#160.16.81.84:2760
 trojan://3BLPOJr3OY@91.108.250.230:50191?sni=cloudflare.com&peer=cloudflare.com&security=reality#91.108.250.230:50191
 trojan://LxJCPOP40a@206.206.77.237:51469?sni=cloudflare.com&peer=cloudflare.com&security=reality#206.206.77.237:51469
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#160.16.81.84:2760
@@ -93,8 +92,6 @@ trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me&peer=agepw.
 trojan://SSorg@172.67.157.40:2096?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#172.67.157.40:2096
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#58.152.110.206:443
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@52.196.180.54:2890?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#52.196.180.54:2890
-vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoiNDcuMjM5LjEwMi4xMTUiLCJwb3J0Ijo1MzYxLCJpZCI6ImEwNTM2ODJlLTkzNzMtNGZlNy04Mjc3LTFkZTNmOGQxZWFjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoiNDcuMjQzLjE2OC4yMTEiLCJwb3J0IjoyNDY4MCwiaWQiOiIzM2NiOTczNy04OGE1LTQzNzItOWRiMC04NDI1NWUyNDNjMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZVx1MDBhZVx1ZmUwZk1hbGF5c2lhXHUwMGE5XHVmZTBmS3VhbGEgTHVtcHVyXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxODEuMzRtcyIsImFkZCI6IjQ3LjI1MC45NS41MyIsInBvcnQiOjI1MzEzLCJpZCI6IjllNzY0NDNhLTVkYjEtNGE5OC04YWM5LTBiOGU2OWM4NGZhZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0
 vmess://eyJ2IjoiMiIsInBzIjoiQEdwX0NvbmZpZyBcdWQ4M2NcdWRmMWQgXHUwNmFmXHUwNjMxXHUwNjQ4XHUwNjQ3IFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDY0MVx1MDZjY1x1MDZhZiIsImFkZCI6Ijg5LjE2OS4xMy42MCIsInBvcnQiOjI4ODM4LCJpZCI6ImI5ZDNjNDE0LTg5Y2MtNDU1ZC1iNzE3LTEwYzdjYTE2NjVhMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDEyIFZNRVNTIHwgQG1vd2pwcm94eSBbNV0iLCJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsInBvcnQiOjQwODc4LCJpZCI6ImYzZDQxNjdlLWIxNWUtNGU0Ni04MmU5LTkyODZlZjkzZmRhNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
@@ -111,10 +108,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyM2YwMTdAb25lY2xpY2t2cG5rZXlzIiwiYWRkIjoiMzguMTIu
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjM1NDNAb25lY2xpY2t2cG5rZXlzIiwiYWRkIjoiODIuMTk3LjY5LjEzMSIsInBvcnQiOjM5Njc0LCJpZCI6IjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwSEstNDcuMjM4LjI0Ny42OS0xNDcxIiwiYWRkIjoiNDcuMjM4LjI0Ny42OSIsInBvcnQiOjg1MzUsImlkIjoiYWNhNjg4OTYtMWQ0ZS00MWZjLWIxZWQtZTkyOTVjOGE1ZjVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwSEstOC4yMTguMTUyLjk3LTE1MjgiLCJhZGQiOiI4LjIxOC4xNTIuOTciLCJwb3J0IjoxNTgxNSwiaWQiOiJlY2U1YzNkNy05Yzc3LTQwN2EtOWY4OS05OTMxNTlmNzZlYTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@193.124.18.13:443?type=ws&security=tls&path=/?ed=2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&sni=snippets.mnmnm.netlib.re&fp=random#193.124.18.13:443
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?type=ws&security=tls&path=----Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&sni=snippets.nneko.netlib.re&fp=random#8.39.125.85:443
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@173.245.58.113:443?type=ws&security=tls&path=/?ed=2048Join---A&sni=snippets.nneko.netlib.re&fp=random#173.245.58.113:443
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@198.41.223.140:443?type=ws&security=tls&path=/?ed=2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&sni=snippets.nneko.netlib.re&fp=random#198.41.223.140:443
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?type=ws&security=tls&path=/&sni=54.img.avito.st&fp=chrome#37.18.14.192:443
 vless://269134a7-6f44-4f03-8fb7-560875e19f77@91.107.154.115:8443?type=tcp&security=none#91.107.154.115:8443
 vless://c495405a-41d7-429e-b999-94136197b211@104.21.7.162:2053?type=ws&security=tls&path=/J5aLQOY1R9ONWYCM&sni=dashboard.app-browser.org#104.21.7.162:2053
@@ -163,6 +156,9 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#132.226.162.10:30102
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#144.22.187.105:30102
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#140.238.137.165:30102
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#de.eyucdn.xyz:2056
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=🔒&insecure=1#lsj3.mangshe.xyz:2056
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&insecure=0#c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#40.233.77.57:52434
-trojan://mkdrmp65-m64r-eggx-rqdj-9wr0o954lny7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://yirvl9wm-up7l-b2sn-t6tx-l1yhqx3wc9ey@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://w7fx2ycc-7i5w-q07x-6jbc-misrha0l2smh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://honhdeh5-orxa-elby-e85c-iyjvue2fsf08@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
