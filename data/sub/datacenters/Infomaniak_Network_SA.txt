@@ -1,14 +1,14 @@
-trojan://83vvffa1-yy06-ca7r-j7eq-5fzzz01amfxf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 19:43
-trojan://7mahzw5r-9c94-gt2k-13d9-l6nuoatnin96@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8wgyta4i-a4i1-8mq2-krv4-69sg3piupslf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://850f5eed-3a08-4911-8121-c65eb0203276@api2.farzadyek.ir:42539?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.129.225
-ss://Y2hhY2hhMjAtcG9seTEzMDU6eUp6RUpHYTBBWTFQYUlkbm1jbG1RUTgyQ293MTM4eHpQekQrME5Iemo3RT0@195.15.255.120:52898#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.255.120
-vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?type=tcp&security=reality&sni=chess.com&fp=chrome&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&sid=4d01fba3#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.44.111
+trojan://k3dmsqln-f2so-gkwt-fkdf-5uv8m9vk36bc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 23:43
+trojan://z3ioerhu-7oji-gk0f-0cs4-vubhjyhs6kyg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2qxdey9q-c3t6-aid9-8eb4-mjwnj34ny8lg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://22d29719-4510-46f6-a26b-61fbb6963fcc@83.228.210.39:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=XSIaUifuSpo2bF-eYsY5fgTG3wzo09SY-oGn73zJPF0#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.210.39
+vless://850f5eed-3a08-4911-8121-c65eb0203276@api2.farzadyek.ir:42539?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.129.225
+vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?type=tcp&security=reality&sni=ok.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&sid=41f38b2355acf7bc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.210.214
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24471?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
+ss://Y2hhY2hhMjAtcG9seTEzMDU6eUp6RUpHYTBBWTFQYUlkbm1jbG1RUTgyQ293MTM4eHpQekQrME5Iemo3RT0@195.15.255.120:52898#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.255.120
+vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@margate2.superip.ir:3006?type=xhttp&security=none&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.225.86
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?type=tcp&security=reality&sni=chess.com&fp=chrome&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&sid=4d01fba3#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.44.111
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?type=tcp&security=reality&sni=telwebion.com&fp=chrome&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&sid=c3fe60ab#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.29.214
 vless://7045ed78-d73c-43f1-9ba5-9e20c704ac88@2margate.superip.ir:3041?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.227.147
-vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?type=tcp&security=reality&sni=ok.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&sid=41f38b2355acf7bc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.210.214
-vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@margate2.superip.ir:3006?type=xhttp&security=none&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.225.86
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24471?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
-trojan://v2x8pd0e-4rl4-0t6v-m74n-378kg2zr4148@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://po5nsz4o-xte5-fidv-wocd-o6n9fin96i6c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7rg85zzw-9t9s-2xxm-2t8r-e06c6dpvrvbn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m5ykex56-c6za-w8qx-ibdw-6ez4b07wc4du@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
