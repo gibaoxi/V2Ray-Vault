@@ -1,55 +1,51 @@
-trojan://rgwz228c-280d-txx4-uhvd-kx9t0gn27n5j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 04:16
-trojan://2y8ih21c-lian-flw0-hmgf-mj2qq05frhjm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9ecfw7oj-hig3-d2dn-e5c8-3tn4x1fmji0v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#81.90.29.126:53672
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
+trojan://n56xm980-68ga-xujv-5uyj-8da4342v1akx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/22 | 07:43
+trojan://3bdq2bry-3i0u-n09c-z7j7-zvxwrcrlhun2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ta5o8b2a-ry6x-wwhv-2jy5-e17q2j113iij@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#45.87.175.187:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#45.87.175.197:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#92.112.126.90:443
+trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?sni=pod-kr-g1.psusercontent.com&peer=pod-kr-g1.psusercontent.com&security=tls#psg2-ag.t.sgateway.link:5223
+trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?sni=pod-hk-z1.psusercontent.com&peer=pod-hk-z1.psusercontent.com&security=tls#hk3.t.sgateway.link:5223
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNlXHVkZDgxODJAQ29uZmlnVjJSYXlORyIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOjQ0NTc5LCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSJ9
-vless://TELEGRAM-CONFiGLiNE-55@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.67.8:80
-vless://TELEGRAM-CONFiGLiNE-54@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.67.8:80
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNlXHVkZTg2NDNAQ29uZmlnVjJSYXlORyIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoxODAsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://323e66b8-9214-487f-9499-8b5bcc68c3f4@lovetea1.dastur-amuzesh.ir:3002?type=tcp&security=none#lovetea1.dastur-amuzesh.ir:3002
 vless://270663ac-7abe-43e7-9f93-f0ee5ab4968c@2001:41d0:701:1000::5505:65531?type=grpc&security=none#2001:41d0:701:1000::5505:65531
-vless://TELEGRAM-CONFiGLiNE-53@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.67.8:80
+vless://270663ac-7abe-43e7-9f93-f0ee5ab4968c@2001:41d0:701:1000::5505:65531?type=grpc&security=none#2001:41d0:701:1000::5505:65531
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&security=none#95.217.233.18:443
-vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?type=tcp&security=none#91.98.153.140:443
-vless://Parsashonam-Bot-37@104.17.147.22:8080?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8080
+vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80?type=ws&security=none&path=/#usa.fastlynew.hosting-ip.com:80
+vless://Parsashonam-Bot-38@104.17.147.22:8080?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8080
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.106:8080?type=ws&security=none&path=/?ed#40.160.4.106:8080
-vless://TELEGRAM-CONFiGLiNE-52@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.67.8:80
-vless://204feb05-f696-4bc6-bd9f-8d92a3306f06@snapp.ir:80?type=ws&security=none&path=/#snapp.ir:80
-vless://Parsashonam-Bot-37@104.17.147.22:8880?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8880
-vless://04886592-934b-4914-a044-e65135940520@162.217.248.62:34886?type=grpc&security=tls&sni=src.cvbsoft.com&fp=chrome#162.217.248.62:34886
-vless://d988a5dc-35a4-44e6-8a78-a56659eee68c@193.46.81.151:50853?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69#193.46.81.151:50853
-vless://bccbecc9-c1d2-45d1-b3fa-771a19b9831c@nl.nodes.rocketnetwork.ru:443?type=tcp&security=reality&sni=nl.nodes.rocketnetwork.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#nl.nodes.rocketnetwork.ru:443
-vless://69d3a1cb-34a0-457f-89d4-28672c7aeabb@england.phantompanel.shop:3681?type=tcp&security=reality&sni=www.cloudflare.com&pbk=iEgw42MO585IunvN6WGEO6XlG7l0U3qmawuOBeXrMiM&sid=6fe14a1f66f4bb82#england.phantompanel.shop:3681
-vless://1555ff9a-837c-4d7f-9b5d-0794c9c31e71@154.12.179.154:2501?type=tcp&security=reality&sni=amazon.com&fp=random&flow=xtls-rprx-vision&pbk=N6DfpkpFe0ykYu9ofqjB5jXIMFfsf9T2Ry0L2-WcfAw&sid=b793cdadb1c785#154.12.179.154:2501
+vless://TELEGRAM-CONFiGLiNE-60@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
+vless://TELEGRAM-CONFiGLiNE-61@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
+vless://Parsashonam-Bot-38@104.17.147.22:8880?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8880
+vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?type=ws&security=tls&path=/websocketpl?ed=2047&sni=zcreat.ethervpn.fun&fp=chrome#zcreat.ethervpn.fun:8443
+vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?type=tcp&security=reality&sni=www.utexas.edu&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#usa82.freednet.org:443
+vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?type=tcp&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#wolfy.ufavpn.ru:27121
+vless://1eff6d61-2f9f-4689-82a9-4232a8f48949@47.79.32.82:42037?type=tcp&security=reality&sni=itunes.apple.com&flow=xtls-rprx-vision&pbk=3XDxoCztHymlFMXbG1BtoHyWRHpZ9Uvzwa5z9JrQC1E&sid=e978d721cd#47.79.32.82:42037
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#77.90.41.197:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#77.90.41.197:35000
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#206.71.158.41:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?insecure=1&obfs=salamander#2a0c:4ac1:8::121:35000
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#206.71.158.23:45000
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&insecure=1&obfs=salamander#70.34.215.221:20335
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#206.71.158.40:35000
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#2001:bc8:32d7:302::11:20088
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=🔒&insecure=1#2001:bc8:32d7:302::11:20088
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#2001:bc8:32d7:302::11:20088
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#dir.cybsecguru.com:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?insecure=1&obfs=salamander#2a14:3f87:f001:1a::a:35000
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#206.71.158.23:45000
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35000?insecure=1&obfs=salamander#2a14:3f87:f001:13::a:35000
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=🔒&insecure=1#2001:bc8:32d7:302::11:20088
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#206.71.158.40:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?insecure=1&obfs=salamander#2a14:3f87:f001:1a::a:35000
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#2001:bc8:32d7:302::11:20088
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#2001:bc8:32d7:302::11:20088
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#dir.cybsecguru.com:35000
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#de.eyucdn.xyz:2056
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@46.17.43.71:30102?sni=du.wish.ml&insecure=1#46.17.43.71:30102
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?sni=hl01.mistea.top&insecure=1#193.142.59.41:23899
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@40.233.76.38:30102?sni=du.wish.ml&insecure=1#40.233.76.38:30102
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?sni=🔒&insecure=1#mg1.mangshe.xyz:2056
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=🔒&insecure=1#lsj3.mangshe.xyz:2056
 hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?sni=us11.588878.xyz&insecure=1&obfs=salamander#us11.588878.xyz:443
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#140.238.137.165:30102
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?sni=phoenix-1.nezhasu.com&insecure=1#phoenix-1.nezhasu.com:443
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1#xg1.mangshe.xyz:2056
+hysteria2://1b609740-eec2-11ef-8543-f23c93136cb3@c0a37350-t4x400-tdtx5w-au6.la.shifen.uk:443?insecure=1#c0a37350-t4x400-tdtx5w-au6.la.shifen.uk:443
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?sni=xjp1.mangshe.xyz&insecure=1#xjp1.mangshe.xyz:2055
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#144.24.101.176:30102
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@148.135.106.185:30102?insecure=1#148.135.106.185:30102
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.223.153:30102?insecure=1#144.22.223.153:30102
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#132.226.162.10:30102
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443?sni=Valparaiso-1.nezhasu.cn&insecure=1#valparaiso-1.nezhasu.cn:443
-trojan://10h5rhec-c0vm-9pzm-xw5q-as448kpr75cz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tlmrgcy3-j4oy-364e-r864-tmd373807zue@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://dongtaiwang.com@2001:bc8:1203:209::60:33880?insecure=1#2001:bc8:1203:209::60:33880
+trojan://5sdtnlzs-qnyc-oa8f-47td-1qg619t4eo5i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://honi6lfe-847d-cf3m-ts2f-1tzni9jglzl2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
