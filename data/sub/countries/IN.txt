@@ -1,28 +1,26 @@
-trojan://68z0bu1v-osge-6g90-xw3n-8e65k49l26tt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/23 | 15:48
-trojan://ndurld92-7fbk-niqv-9jga-qr96i40yxgmg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qiecjmkb-lcs0-e7sx-34ut-i2ljmzvj3gq2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?sni=mumbai-4.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 80.225.219.253
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.57.184
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb250YWJvIEFzaWEgUHJpdmF0ZSBMaW1pdGVkIFx1MjUwNyA5NC4xMzYuMTg3Ljc3IiwiYWRkIjoibm9kZTQucnR4Y29uZmlnei5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsInBhdGgiOiIvQE1hbGluZGE2MTA0IiwidGxzIjoidGxzIiwic25pIjoibm9kZTQucnR4Y29uZmlnei5jb20ifQ
-vless://976191fd-e929-467e-98b4-1349f58907d5@139.59.46.188:37548?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.46.188
+trojan://kvyait29-66tx-xrp0-5y8z-51oaf0u0ik39@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/23 | 19:43
+trojan://n3a934du-6th2-ojyl-bzfk-ryx02iwjm7a4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gaxd7vqv-b4r8-0n7r-ssz9-myee4ocy9z9a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?sni=mumbai-2.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.193.250
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.101.176
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.44.216
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
 vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?type=ws&security=none&path=/olem/ws?ed=64Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&sni=zmaoz.faculty.ucdavis.edu.&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.158.204
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExFQVBTV0lUQ0ggTkVUV09SS1MgUFJJVkFURSBMSU1JVEVEIFx1MjUwNyAxODguMjA4LjE0MS4xNzciLCJhZGQiOiIxODguMjA4LjE0MS4xNzciLCJwb3J0Ijo0NDMsImlkIjoiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-trojan://Tg3RnK7Xp8B1@65.20.82.136:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&peer=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 65.20.82.136
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.135.13
+vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.57.184
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?sni=mumbai-1.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.121.249
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
+vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?type=grpc&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e#IN 🇮🇳 ┇ VLESS-GRPC-RLT - Contabo Asia Private Limited ┇ 194.61.31.126
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.235.105.146:443?type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&sni=ak.suoni.nyc.mn&fp=random#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.235.105.146
+trojan://Tg3RnK7Xp8B1@65.20.82.136:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&peer=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 65.20.82.136
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.97.203.227
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMjAuMTkzLjEzMS4xNTIiLCJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsInBvcnQiOjIzMjk0LCJpZCI6ImU2ZjA1NDFmLWFmNzEtNGUxNi05Y2Q4LTVhNjEyOTM0YjdhNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@98.70.151.163:443?type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&sni=ak.suoni.nyc.mn&fp=random#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 98.70.151.163
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.44.216
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?sni=mumbai-2.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.193.250
-vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?type=grpc&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e#IN 🇮🇳 ┇ VLESS-GRPC-RLT - Contabo Asia Private Limited ┇ 194.61.31.126
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.101.176
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?sni=mumbai-4.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 80.225.219.253
+vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.135.13
+vless://976191fd-e929-467e-98b4-1349f58907d5@139.59.46.188:37548?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.46.188
 vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.58.120
-trojan://ztdoiybu-4w8q-ah0q-1e9k-g54ih5oh4onf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f53t4ijw-qzwm-lztz-0h51-gbjqo9cs5jbu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExFQVBTV0lUQ0ggTkVUV09SS1MgUFJJVkFURSBMSU1JVEVEIFx1MjUwNyAxODguMjA4LjE0MS4xNzciLCJhZGQiOiIxODguMjA4LjE0MS4xNzciLCJwb3J0Ijo0NDMsImlkIjoiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://o0i74pf2-xz5o-fyg8-yfr0-pm6c7awufrew@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://t9ysup41-mc6t-tfkb-uhp1-x9umxw9rlfgl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
