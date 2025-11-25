@@ -1,6 +1,6 @@
-trojan://h5nzv1ue-i9t3-0dfo-623u-3d8496mjb3pg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/25 | 15:52
-trojan://csr0ibp3-17mj-ab79-bppq-v8qaeeon704p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6g79wqz0-g3rx-we45-60eo-15i73wyy6z3m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://s9u3l921-svkr-p4cl-sei8-ipilt9mkazvi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/25 | 19:46
+trojan://qsinc7o3-g3ps-ud3c-zjwl-c1p8nin2783u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vwgtncc5-u39l-gnnc-asc5-l9inv0xqqaqk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHByb3h5X2thZmVlIiwiYWRkIjoibWNpLnlla3RhbmV0LmluZm8iLCJwb3J0Ijo1NTU1NSwiaWQiOiJhNGI0MWRjOC1iNjg0LTQ5ZTQtYjNkYi1hZGUzODJjMTEzZDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?type=ws&security=tls&path=/ljrnxaws&sni=638990351320529492.prius-amshz.info#norman.ns.cloudflare.com:443
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?type=tcp&security=none#45.88.183.157:23803
@@ -28,5 +28,25 @@ vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?type=tcp&se
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@de.monkeyisland.xyz:443?type=tcp&security=reality&sni=de.monkeyisland.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc#de.monkeyisland.xyz:443
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?type=tcp&security=reality&sni=www.cybo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#nld26.luckernld.org:443
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?type=tcp&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#wolfy.ufavpn.ru:27121
-trojan://ch03ii4c-s2w5-zm7k-gudb-l0boadxsimm8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kbrri0ut-7rnb-vt8m-8f3p-zuqvn3jaztf9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#206.71.158.23:45000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
+hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443?sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk&insecure=0#9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443?sni=Ab.ac&insecure=1&obfs=salamander#2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443
+hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?sni=gavazn.55994421.xyz&insecure=0&obfs=salamander#2a14:3f87:f001:9::a:45000
+hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&insecure=0#e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk:443?sni=eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk&insecure=0#eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk:443
+hysteria2://7a2512b4-09ee-11f0-8d46-f23c9313b177@8b56a93d-t58800-tcm6ys-deip.la.shifen.uk:443?sni=8b56a93d-t58800-tcm6ys-deip.la.shifen.uk&insecure=0#8b56a93d-t58800-tcm6ys-deip.la.shifen.uk:443
+hysteria2://92b2a3d4-f353-11ef-b714-f23c93136cb3@9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk:443?sni=9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk&insecure=0#9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk:443
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#de.eyucdn.xyz:2056
+hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk&insecure=0#98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=0#14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&insecure=0#6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743
+hysteria2://331cae90-f7e9-11ed-b4e2-f23c913c8d2b@ccf35140-t6e740-tb3p3s-lj7z.hk2.hyhuawei.com:443?sni=ccf35140-t6e740-tb3p3s-lj7z.hk2.hyhuawei.com&insecure=0#ccf35140-t6e740-tb3p3s-lj7z.hk2.hyhuawei.com:443
+hysteria2://331cae90-f7e9-11ed-b4e2-f23c913c8d2b@bb06bea8-t6e740-tb3p3s-lj7z.hk1.hyhuawei.com:443?sni=bb06bea8-t6e740-tb3p3s-lj7z.hk1.hyhuawei.com&insecure=0#bb06bea8-t6e740-tb3p3s-lj7z.hk1.hyhuawei.com:443
+hysteria2://b87fc10c-73c2-4a83-855c-050fe17b8c0d@us.xn--gmq00sc0nuve.shop:21190?sni=us.xn--gmq00sc0nuve.shop&insecure=0#us.xn--gmq00sc0nuve.shop:21190
+hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@71f0c743-t6e740-t7t5pe-1s0a7.us.hyhuawei.com:443?sni=71f0c743-t6e740-t7t5pe-1s0a7.us.hyhuawei.com&insecure=0#71f0c743-t6e740-t7t5pe-1s0a7.us.hyhuawei.com:443
+tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#40.233.77.57:52434
+tuic://5b7124d0-7092-466c-b9fa-c13be64f0cb0:5b7124d0-7092-466c-b9fa-c13be64f0cb0@detuic.yydzx.xyz:15081?sni=detuic.yydzx.xyz&congestion_control=bbr&udp_relay_mode=native&alpn=h3#detuic.yydzx.xyz:15081
+trojan://d8tqkvwx-j1be-f5m6-2v4i-caqgzj8zwnzb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ap4ugcei-5wm3-w0lc-q944-y066lil58kzy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
