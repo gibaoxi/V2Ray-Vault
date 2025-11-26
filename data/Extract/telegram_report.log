@@ -1,11 +1,11 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-11-26 04:16:43
+Timestamp: 2025-11-26 07:47:41
 Total Channels: 117
 Successful Scrapes: 90
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 336 configs
+DailyV2RY: 337 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 229 configs
 LonUp_M: 200 configs
@@ -22,7 +22,6 @@ ViProxys: 100 configs
 vpnaloo: 98 configs
 Awlix_ir: 85 configs
 Outline_Vpn: 82 configs
-heyatserver: 68 configs
 hopev2ray: 64 configs
 viturey: 61 configs
 v2rayngvpn: 60 configs
@@ -58,9 +57,9 @@ FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 v2ray_configs_pool: 18 configs
 freedom_config: 18 configs
-V2RAYROZ: 17 configs
 ArV2ray: 17 configs
 PrivateVPNs: 16 configs
+V2RAYROZ: 16 configs
 freedomofinfor: 16 configs
 v2ray_for_free: 14 configs
 v2rayvpnchannel: 14 configs
@@ -76,6 +75,7 @@ vip_vpn_2022: 8 configs
 server_nekobox: 8 configs
 GrizzlyVPN: 8 configs
 ConfigWireguard: 8 configs
+heyatserver: 8 configs
 iraniv2ray: 8 configs
 ServerNett: 7 configs
 v2raymelliii: 6 configs
