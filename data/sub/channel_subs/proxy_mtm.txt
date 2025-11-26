@@ -1,11 +1,10 @@
-trojan://0wuj9rfa-yx23-ryo9-xqne-jsexk2srs8g4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/26 | 19:44
-trojan://eiqi1zq9-4bd0-ig7y-w2hz-caqv2fh6ms77@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bdj1w5hx-k5n2-kywc-paj3-l0b09sngmi1o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://91c924oy-i8qd-hvnk-tez4-j4b66yd7w7v5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/26 | 23:43
+trojan://0autbijk-j6wl-tlcm-zdgg-h2w4ckbpa92g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gyhyv8je-ak5r-47jf-1hhh-rd1js7n0a3v5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#90.156.203.62:5112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#136.244.100.113:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@185.162.124.215:8618#185.162.124.215:8618
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW1fX19tdG12cG4iLCJhZGQiOiI4OS40NC4yNDIuMjQ5IiwicG9ydCI6MjA0MCwiaWQiOiI1NTNmMTVjMy1kODY0LTRkMzMtOGM0ZC00YmRjMWJjNDgzYWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3JlZ2lzdGVyL25ldy9uYW1lL2Rhdi9yZXNwb25zZS9jbVYwYVhKbFpDQm9aV3hzYnlCb2IzY2dZWEpsSUhsdmRTQjBhR2x6SUdseklHMTVJRzVsZHlCb1pXRmtaWElnZCJ9
-vless://ceda78db-4968-450a-8e5b-f1d46cb02687@141.227.130.86:53023?type=grpc&security=none#141.227.130.86:53023
 vless://87077ed3-cbcd-41e0-a2dc-48f41add5e8e@151.101.3.8:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.3.8:80
 vless://bd4a7b19-f3c6-4bfd-8d37-cac67ddad226@am8.amin-1.ir:2082?type=xhttp&security=none&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android#am8.amin-1.ir:2082
 vless://51b74eac-aa1a-4de0-c6b5-7ee9e8afdffc@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam#151.101.3.8:80
@@ -32,9 +31,10 @@ vless://f1e6e774-d809-4b04-a110-6d006d55bdfc@0wtadbshb4f3.zozodogg.com:2053?type
 vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@178.17.51.244:443?type=tcp&security=reality&sni=firebase.com&fp=chrome&flow=xtls-rprx-vision&pbk=YbcsLbM-ZxDJJZj3IYGsSReprZPs2chlo1tSFpnk2C0&sid=bc541f8a6ad839c3#178.17.51.244:443
 vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.159.152:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=bKTT2iUUThS1Hqxmo48vUCkLYdmTQw_mnrtFg69ZJlg&sid=25#147.45.159.152:443
 vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.49.152:443?type=tcp&security=reality&sni=ameba.jp&fp=chrome&flow=xtls-rprx-vision&pbk=xx7kFsgSVU_ovUPxmnKruzMKAs6oSUO8SvcvTRs6GnY&sid=aea7080e57#147.45.49.152:443
+vless://b8b5c7da-3c2a-4c7b-a79c-237739a72937@91.99.215.235:2053?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=_80k9z8fjFgVyF8jg79QuH6hc0gm0eztMq04rgBu8lw&sid=e1be54#91.99.215.235:2053
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#lundun1.nezhasu.com:443
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#206.71.158.40:35000
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&insecure=0#6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743
-trojan://wach28c1-gmc5-7674-dr8c-d5n3p3hk9bz1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ctbr354r-fva6-7xx3-d6i4-vijnexq85uq8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hbcc3y25-k6e0-ix02-4e9y-hgyi2ej4v4ua@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://52zushgg-ofar-10ck-5iz6-zvkvpbphlsw9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
