@@ -1,6 +1,6 @@
-trojan://9oeofzom-7ro1-7q8n-320o-bcn8rzkfelx1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/28 | 07:46
-trojan://3l4hqedi-v01d-yr7f-lait-hvpotuatsz4q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f7jryxc6-f42e-3rzh-8i8z-ocaovi9odwyi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://id1kae7b-kmw5-vsjt-xlqp-4qnefsyjc82a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/28 | 11:47
+trojan://gui4o73a-cdr1-dol8-seqh-923dyz2zjh6s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://75d2vw33-eqvb-t9qg-53r7-vkakt0otiuxq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNjdxMnBFeGlRc1NYS2JCTlE2ZFRx@213.173.33.38:8443#213.173.33.38:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcG5STDlmNDZUbFF2MmxlY1ZIbWc3@213.111.142.140:8443#213.111.142.140:8443
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5aW5nIiwiYWRkIjoibTV1OWMyLmtlZW9vbWJvb20uZGUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im01dTljMi5rZWVvb21ib29tLmRlIiwicGF0aCI6Ii92aWRlby8yNmlmY2F0Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtNXU5YzIua2Vlb29tYm9vbS5kZSJ9
@@ -20,12 +20,11 @@ vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?type=ws&secur
 vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.232.161:8080?type=ws&security=none&path=/?ed#92.118.232.161:8080
 vless://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?type=tcp&security=tls&sni=shop.frnsoft.com&fp=chrome#45.136.5.178:7070
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=jnir-cdn.javidnaman.com#www.speedtest.net:443
-vless://dd8eac42-15c9-48bb-944a-7046fe75eeec@151.101.3.8:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.3.8:80
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?type=tcp&security=reality&sni=www.cybo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#nld26.luckernld.org:443
 vless://4547275f-bb40-4b8b-b581-bd619459ae6d@193.46.81.151:50853?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69#193.46.81.151:50853
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?type=tcp&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#wolfy.ufavpn.ru:27121
 vless://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#fl.mizbanandata.com:443
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?type=tcp&security=reality&sni=www.cybo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#nld26.luckernld.org:443
 vless://4547275f-bb40-4b8b-b581-bd619459ae6d@193.46.81.151:50853?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69#193.46.81.151:50853
-trojan://3g89u6ag-m85y-9vo2-j4gs-osv16pyz6j73@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://z197fgz1-db9f-j93p-isdb-84mo442vpaxl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5vnp62ec-bqpw-feq6-s7ur-lv2or3ffpfcj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0j6u3u0n-7qh4-i3ne-vvn8-qyifonn09409@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
