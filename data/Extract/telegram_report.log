@@ -1,34 +1,34 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-11-29 07:44:22
+Timestamp: 2025-11-29 11:44:46
 Total Channels: 117
 Successful Scrapes: 88
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 313 configs
+DailyV2RY: 312 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 282 configs
 LonUp_M: 200 configs
-ShadowsocksM: 172 configs
 V2RAY_VMESS_free: 164 configs
 configV2rayNG: 158 configs
 V2rayNG3: 156 configs
-oneclickvpnkeys: 145 configs
+ShadowsocksM: 146 configs
 CaV2ray: 132 configs
+oneclickvpnkeys: 131 configs
 v2rayng_1378: 109 configs
-FreakConfig: 108 configs
+FreakConfig: 101 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 meli_proxyy: 85 configs
 Outline_Vpn: 82 configs
 Awlix_ir: 82 configs
-heyatserver: 82 configs
+heyatserver: 78 configs
 ZibaNabz: 64 configs
+v2rayngvpn: 61 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
 hopev2ray: 58 configs
 VmessProtocol: 54 configs
-v2rayngvpn: 52 configs
 v2rayngconfig: 52 configs
 vmessiran: 48 configs
 yaney_01: 41 configs
@@ -37,7 +37,6 @@ configfa: 37 configs
 OutlineReleasedKey: 34 configs
 ISVvpn: 32 configs
 customv2ray: 30 configs
-V2RAYROZ: 26 configs
 v2raying: 25 configs
 ev2rayy: 25 configs
 tehranargo: 24 configs
@@ -53,15 +52,16 @@ Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-v2ray_configs_pool: 19 configs
 vpnstorefast: 18 configs
 orange_vpns: 18 configs
 freedom_config: 18 configs
+V2RAYROZ: 17 configs
 ArV2ray: 17 configs
-PrivateVPNs: 16 configs
 freedomofinfor: 16 configs
 v2rayvpnchannel: 16 configs
+v2ray_configs_pool: 16 configs
 proxy_mtm: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 Network_442: 13 configs
 NoForcedHeaven: 13 configs
@@ -87,11 +87,11 @@ proSSH: 5 configs
 ultrasurf_12: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
+v2rayfree: 2 configs
 vmess_iran: 1 configs
 AzadNet: 1 configs
 Ln2Ray: 1 configs
 ZeusVPN_Net: 1 configs
 V2rey_vless: 1 configs
-v2rayfree: 1 configs
 
 --- Failed Channels ---
