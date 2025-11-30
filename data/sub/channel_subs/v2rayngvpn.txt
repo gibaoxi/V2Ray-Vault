@@ -1,8 +1,6 @@
-trojan://k9zh2f0d-8etr-xhlk-c7k6-65uppj0vg7ya@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 11:44
-trojan://p3x2u95q-f9s0-zjbi-3obj-mhnb21x3dx2y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://t3hdjm8a-qw08-rl0s-p5g9-0wd9gaya8gea@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#82.38.31.191:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
+trojan://wkxnmlcx-l8ai-hhrz-4q9r-p8rltxdxm9mh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 15:49
+trojan://syhut50a-jdd3-qoq8-4brw-k477qekoo5qh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x98930i8-ma2f-y991-n4i0-lmv682lskcy4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#82.38.31.218:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#82.38.31.218:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.65:990#38.54.4.65:990
@@ -15,11 +13,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.95.187:8618#45.93.95.187:8618
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
 vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5TkdWUE4gPD0gXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiIsImFkZCI6IjQ1LjEzNi4yNDQuMjAxIiwicG9ydCI6NDk5MzQsImlkIjoiOTBhZmE0N2QtMzQxYS00OTdkLWFlMjUtMWQ4MTI1ODgwNGQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5TkdWUE4gPD0gXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiIsImFkZCI6IjQ1LjEzNi4yNDQuMjAxIiwicG9ydCI6NDk5MzQsImlkIjoiOTBhZmE0N2QtMzQxYS00OTdkLWFlMjUtMWQ4MTI1ODgwNGQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://5db7b242-c82c-4991-9b32-d597805b32ee@141.227.180.236:17275?type=grpc&security=none#141.227.180.236:17275
-vless://8b78a1cb-fe3b-47b8-bbb6-ad78af4cb581@141.227.134.128:14407?type=grpc&security=none#141.227.134.128:14407
-vless://5b9db8d4-6309-49b5-b72e-41162a81321d@91.107.128.126:8443?type=tcp&security=none#91.107.128.126:8443
-vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?type=tcp&security=none#213.176.0.80:222
 vless://9da7c06a-1a37-4157-aa70-b5f410e714cb@151.101.207.6:443?type=xhttp&security=tls&path=/&sni=google.tm&fp=chrome#151.101.207.6:443
 vless://9da7c06a-1a37-4157-aa70-b5f410e714cb@151.101.195.6:443?type=xhttp&security=tls&path=/&sni=google.tm&fp=chrome#151.101.195.6:443
 vless://9da7c06a-1a37-4157-aa70-b5f410e714cb@151.101.131.6:443?type=xhttp&security=tls&path=/&sni=google.tm&fp=chrome#151.101.131.6:443
@@ -39,15 +32,9 @@ vless://9cea414e-fe28-41ff-ae56-b5817aa03473@141.227.178.176:34718?type=grpc&sec
 vless://c192de5f-85a5-4d73-8bfe-6d2d12f1637d@141.227.160.163:25536?type=grpc&security=none#141.227.160.163:25536
 vless://9683cde1-1ec4-422b-9c43-00c33df3e239@141.227.134.128:14408?type=grpc&security=none#141.227.134.128:14408
 vless://TELEGRAM-CONFiGLiNE-76@151.101.0.0:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#151.101.0.0:80
-vless://TelPJ51@pj2.bestirstorei.top:51714?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&sid=0dcf095d23b3a490#pj2.bestirstorei.top:51714
-vless://TelPJ51@pj2.bestirstorei.top:51714?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&sid=0dcf095d23b3a490#pj2.bestirstorei.top:51714
-vless://be3b4d70-9922-4f58-83f3-e767a9c809ce@62.133.63.18:31599?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=NppMSXpIT34fvmvoUYHUJUiY101cXqTb9ElNiNIFWGE&sid=299f242bde816695#62.133.63.18:31599
-vless://TelPJ54@pj2.bestirstorei.top:51714?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&sid=0dcf095d23b3a490#pj2.bestirstorei.top:51714
-vless://TelPJ55@pj2.bestirstorei.top:51714?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&sid=0dcf095d23b3a490#pj2.bestirstorei.top:51714
-vless://72763ff4-51c0-4985-af1e-5931f1c53cca@facelessvoid.fonixapp.org:56546?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=j-RXSyW0NwhPe_fLBRK0wpxM80gCEy5EO28pN-g0ZUc&sid=9ec128#facelessvoid.fonixapp.org:56546
-vless://6873298f-8256-4315-88c8-13dc8da308cf@tuskar.fonixapp.org:45352?type=tcp&security=reality&sni=smallpdf.com&fp=firefox&flow=xtls-rprx-vision&pbk=a3usSjtSaH2XGzG5oi3oqPYKlhsJOmmJYI4nitX1rn8&sid=2b#tuskar.fonixapp.org:45352
-vless://4b83aa50-6adf-4759-a928-b4a974e2ece6@graygoat.fonixapp.org:44144?type=tcp&security=reality&sni=smallpdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=R-p92Ot1K9sL-_biDhao1v-0SVbi89Di7r65CzZQURk&sid=3fd623#graygoat.fonixapp.org:44144
-vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059?type=tcp&security=reality&sni=yelp.com&fp=chrome&flow=xtls-rprx-vision&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&sid=1ec404fc#istanbul.fonixapp.org:25059
+vless://53958b8e-8fa9-4566-a7d4-0f81611d7dbf@46.151.26.197:443?type=xhttp&security=tls&path=/&sni=newser3.ultimateserv.ru#46.151.26.197:443
+vless://53958b8e-8fa9-4566-a7d4-0f81611d7dbf@46.151.26.197:443?type=xhttp&security=tls&path=/&sni=newser3.ultimateserv.ru#46.151.26.197:443
+vless://a0c4af6d-c1d9-454a-9d3f-bb85a471cd6c@151.101.3.8:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.3.8:80
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&sid=6d3e7476fd#abaddon.fonixapp.org:24401
 vless://4945561d-534d-488f-b367-436513e43349@alchemistss.fonixapp.org:49067?type=tcp&security=reality&sni=study.com&fp=chrome&flow=xtls-rprx-vision&pbk=krhP4LVv8U-nFUhPdJmEsA4ojmhFPmNV7dNJBWB_5SM&sid=9cdd24503fce#alchemistss.fonixapp.org:49067
 vless://7bd25979-cbc3-4184-83b8-3b6a14deb010@ezalor.fonixapp.org:51481?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=7X3ayYDMuYR4Vz8Px8hDjOIxOMnRncjapXpWIzaKyls&sid=47#ezalor.fonixapp.org:51481
@@ -67,5 +54,17 @@ vless://72763ff4-51c0-4985-af1e-5931f1c53cca@facelessvoid.fonixapp.org:56546?typ
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@gb.capybara.press:443?type=grpc&security=reality&sni=gb.capybara.press&fp=random&pbk=tNONoleEJI0_4QR5w5f_xzZyyYmKLl3ys4zKMMRkGic&sid=4fa44664f6a566d3#gb.capybara.press:443
 vless://4b0735b5-672b-468f-af98-d6901d620e50@autos.jykvpn.com:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#autos.jykvpn.com:443
 vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd#45.88.182.24:25380
-trojan://ql86j6vt-yljz-psus-gput-iewomqn8olr5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8cy8t6xi-pxtv-wt0v-18wx-bh9re12l2dpj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://596a828c-2eab-4d42-ab05-57049c4985b8@huskar.fonixapp.org:28705?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=Bk2ghdUIo2U2JdU9oVlTyUcVp2_pLbqhqe58F7hcJEw&sid=ac#huskar.fonixapp.org:28705
+vless://050312e8-b555-44f0-93e5-e13ccf3845b9@invoker.fonixapp.org:12702?type=tcp&security=reality&sni=grammarly.com&fp=chrome&flow=xtls-rprx-vision&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&sid=b19de72e#invoker.fonixapp.org:12702
+vless://3dd436be-a129-4336-ac3a-3ac82b09b519@clinkz.fonixapp.org:24781?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=_tS59sZPNLteaD8lXkqEOWmqYJkEMqP1zltupMsfm34&sid=42042690#clinkz.fonixapp.org:24781
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?type=tcp&security=reality&sni=marmiton.org&fp=chrome&flow=xtls-rprx-vision&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&sid=9103#magnataur.fonixapp.org:19739
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#cdi.chekino.ir:20811
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@gr.dl9movis.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#gr.dl9movis.ir:20811
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@rez1.dezful.top:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#rez1.dezful.top:20811
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@gr.dl9movis.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#gr.dl9movis.ir:20811
+vless://596a828c-2eab-4d42-ab05-57049c4985b8@huskar.fonixapp.org:28705?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=Bk2ghdUIo2U2JdU9oVlTyUcVp2_pLbqhqe58F7hcJEw&sid=ac#huskar.fonixapp.org:28705
+vless://050312e8-b555-44f0-93e5-e13ccf3845b9@invoker.fonixapp.org:12702?type=tcp&security=reality&sni=grammarly.com&fp=chrome&flow=xtls-rprx-vision&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&sid=b19de72e#invoker.fonixapp.org:12702
+vless://3dd436be-a129-4336-ac3a-3ac82b09b519@clinkz.fonixapp.org:24781?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=_tS59sZPNLteaD8lXkqEOWmqYJkEMqP1zltupMsfm34&sid=42042690#clinkz.fonixapp.org:24781
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?type=tcp&security=reality&sni=marmiton.org&fp=chrome&flow=xtls-rprx-vision&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&sid=9103#magnataur.fonixapp.org:19739
+trojan://442w17ni-yz4k-lupz-zxv6-r6xw0xn4mn5z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ve4zfmex-dzd3-9jfu-vaae-266mp8cdhckv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
