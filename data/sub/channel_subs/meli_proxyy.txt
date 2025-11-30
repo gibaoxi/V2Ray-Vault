@@ -1,7 +1,6 @@
-trojan://nnra7v0v-kmtb-6qg4-pyq4-7dlqx4j60d07@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 04:25
-trojan://vrrhboem-vp1e-dbtz-2fhi-ssgv0lr3nsum@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qcqqop69-iatg-kmzl-xqjy-n89jtet1kbyk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#77.238.224.29:55702
+trojan://2g7qykok-5arr-qef6-macy-4wr18ghzffhf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 07:57
+trojan://ysf7bqlm-44px-jt5d-gdvj-tlvqeb34lgwj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t9gevfvc-tnnj-9tjq-55ry-61ttcf4kqxr8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#136.244.100.113:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#82.38.31.218:8080
@@ -11,9 +10,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiMzguMTQuOTkuMTc5IiwicG9y
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6NDQ1NzksImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiNDUuMTM2LjI0NC4yMDEiLCJwb3J0Ijo0OTkzNCwiaWQiOiI5MGFmYTQ3ZC0zNDFhLTQ5N2QtYWUyNS0xZDgxMjU4ODA0ZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8zMTEyMjcyMjI4MDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiNjguNjQuMTc2LjE0OCIsInBvcnQiOjExMzI1LCJpZCI6IjhhZmI1YjZkLTUxZjYtNGJmOC1mNGUyLTAzNzg4MjIyMDBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?type=ws&security=tls&path=/&sni=holo.mrconfigur.site#www.speedtest.net:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh27v5.hiddendom.shop#all.tellmethetrue.shop:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?type=grpc&security=none#95.179.217.208:8880
 vless://bd60e683-4da1-4856-9451-991d40fed6a4@blog.ghazatehran.ir:8443?type=ws&security=tls&path=/video&sni=blog.ghazatehran.ir&fp=chrome#blog.ghazatehran.ir:8443
 vless://bd60e683-4da1-4856-9451-991d40fed6a4@blogtest.ghazatehran.ir:8443?type=tcp&security=tls&sni=blogtest.ghazatehran.ir&fp=chrome#blogtest.ghazatehran.ir:8443
 vless://bd60e683-4da1-4856-9451-991d40fed6a4@blogtest.ghazatehran.ir:2096?type=xhttp&security=tls&path=/game&sni=blogtest.ghazatehran.ir&fp=chrome#blogtest.ghazatehran.ir:2096
@@ -63,6 +59,12 @@ vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@65.109.188.4:33801?type=tcp&securit
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?type=ws&security=none&path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#37.120.186.241:80
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=gaosir.unfeeling.sbs#25.25.25.253:2096
 vless://0c9b80aa-9eb4-4608-da57-ffcef6f24afb@deadseectelegram.slimshopboyss.ir:8080?type=xhttp&security=none&path=/?ed=2048#deadseectelegram.slimshopboyss.ir:8080
+vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@www.speedtest.net:8443?type=ws&security=tls&path=/video&sni=blog.ghazatehran.ir&fp=chrome#www.speedtest.net:8443
+vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@blogtest.ghazatehran.ir:8443?type=tcp&security=tls&sni=blogtest.ghazatehran.ir&fp=chrome#blogtest.ghazatehran.ir:8443
+vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@blogtest.ghazatehran.ir:2096?type=xhttp&security=tls&path=/game&sni=blogtest.ghazatehran.ir&fp=chrome#blogtest.ghazatehran.ir:2096
+vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@www.speedtest.net:2096?type=xhttp&security=tls&path=/game&sni=blog.ghazatehran.ir&fp=chrome#www.speedtest.net:2096
+vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@2a01:4f8:1c1e:7de4::1:8443?type=tcp&security=tls&sni=blogtest.ghazatehran.ir&fp=chrome#2a01:4f8:1c1e:7de4::1:8443
+vless://e609c53f-8745-428f-aac8-103657919e2b@103.27.239.225:58360?type=tcp&security=none#103.27.239.225:58360
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@165.232.155.192:443?type=tcp&security=reality&sni=www.gstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#165.232.155.192:443
 vless://299b2817-019f-4891-9adc-9200e591852f@91.107.143.3:443?type=grpc&security=reality&sni=tabdeal.org&fp=firefox&pbk=CScR8Drc2BwdPZnATWnB_g-mPoF72dfEipMs6rfzfQ4#91.107.143.3:443
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?type=tcp&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#wolfy.ufavpn.ru:27121
@@ -136,5 +138,6 @@ hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@amsterdam.nezhasu.com:443?sni=A
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@lundun2.nezhasu.com:443?sni=lundun2.nezhasu.com&insecure=1#lundun2.nezhasu.com:443
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=1#gy5.nezhasu.com:443
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#37.18.14.169:443
-trojan://8xqb448c-nga1-ssga-eoyv-kmv4lv8n2jwd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j7b10413-q1ud-fsuv-tpxu-jpvdphpt7nvb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://83ee741e-4357-4e7c-bfdd-b259c8d1b981@blogtest.ghazatehran.ir:4431?sni=blogtest.ghazatehran.ir&insecure=1&obfs=salamander#blogtest.ghazatehran.ir:4431
+trojan://qrddg7my-ibkb-kb0b-2gcw-hcnbs3unr78o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://g7aeo6f5-3u2d-wbin-zifm-qj86ceusmq8x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
