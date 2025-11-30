@@ -1,14 +1,14 @@
-trojan://r9ng3hg9-tglm-g4yq-ucw0-7gizx8ohbwrr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 15:49
-trojan://o0rqneg6-ntmz-iwpm-8wz4-4bvhbuci3us7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://k79j8kv9-tiou-8npp-177v-a8a334xvdpei@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://957l1kjf-lzrp-7gbx-ww8z-9dm6wipt527p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 19:43
+trojan://96ossx21-s8v7-mkfu-oou0-u54m4e9mh6mr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oyb93tph-swzt-upeq-rziy-5ru9lbg5usmy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#77.238.224.29:55702
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@2001:bc8:1203:106::300:33333#2001:bc8:1203:106::300:33333
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#213.176.16.71:4966
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#213.176.16.71:4966
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#82.38.31.217:8080
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDY0N1x1MDYyN1x1MDZjYyBcdTA2MjhcdTA2Y2NcdTA2MzRcdTA2MmFcdTA2MzE6IEBjdXN0b212MnJheSIsImFkZCI6IjkxLjEwNy4xODUuMjI0IiwicG9ydCI6NDQzLCJpZCI6ImU3ZmYzOTcxLTUwNDAtNGM4OC04ODUzLTkxNGUyY2Y0YzJjYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.169.122:443?type=grpc&security=none#91.98.169.122:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?type=ws&security=tls&path=/&sni=a.azadnet002.ddns-ip.net&fp=chrome#time.is:443
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?type=ws&security=tls&path=/cahttingws&sni=638989641566694428.tucson-amshx.info#brenna.ns.cloudflare.com:443
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?type=grpc&security=none#91.98.33.242:443
@@ -30,14 +30,16 @@ vless://5db7b242-c82c-4991-9b32-d597805b32ee@141.227.180.236:17275?type=grpc&sec
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.24.247.158:80?type=xhttp&security=none&path=/#104.24.247.158:80
 vless://2d535288-d08e-4de4-b674-fd8cb3c6e4d3@141.227.172.96:56089?type=grpc&security=none#141.227.172.96:56089
 vless://2d535288-d08e-4de4-b674-fd8cb3c6e4d3@141.227.172.96:56089?type=grpc&security=none#141.227.172.96:56089
-vless://46702e96-1e51-4f3b-a46d-0077b61bde3f@amsterdam.fonixapp.org:10526?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=rIISOOtkQvOOr6Q6Lah9RnCRRqJnvVAufnUbkf2qZXg&sid=aab454b749#amsterdam.fonixapp.org:10526
-vless://951df723-eeeb-4b37-9b3f-90edae01a519@istanbul.fonixapp.org:44562?type=tcp&security=reality&sni=yelp.com&fp=chrome&flow=xtls-rprx-vision&pbk=yRloJ0181HiXI70DUAtTlQOtahow4phMkJBL1dfTJBw&sid=1ec404fc#istanbul.fonixapp.org:44562
-vless://f7140d34-dcc0-440c-bb51-bbd8ed7d8b11@paris.fonixapp.org:16607?type=tcp&security=reality&sni=expedia.com&fp=chrome&flow=xtls-rprx-vision&pbk=MIDSDaDAnyD3LPtHE8oLcGJjQP2Qj1RVJR853N1T924&sid=78#paris.fonixapp.org:16607
-vless://07b21c46-7b7a-4af8-aec9-a0f0c63ccff8@magnataur.fonixapp.org:40875?type=tcp&security=reality&sni=marmiton.org&fp=chrome&flow=xtls-rprx-vision&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&sid=9103#magnataur.fonixapp.org:40875
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.25.211.160:80?type=xhttp&security=none&path=/#104.25.211.160:80
 vless://58a3efa1-94a6-4e03-b5b7-c4a398585979@antimage.fonixapp.org:29000?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=lbo1jWRdkDrMcBkRcVXUBGoEbOun23CERmtkOWDS7Go&sid=a941df4328#antimage.fonixapp.org:29000
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?type=tcp&security=reality&sni=www.cybo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#nld26.luckernld.org:443
 vless://4a8256b2-8627-4f35-bbcc-6ae3ae9fff1c@ezalor.fonixapp.org:49292?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=7X3ayYDMuYR4Vz8Px8hDjOIxOMnRncjapXpWIzaKyls&sid=47#ezalor.fonixapp.org:49292
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@trk.originalproxy.sbs:20936?type=grpc&security=reality&sni=refersion.com&fp=firefox&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&sid=ed1e5b7d7bf22a70#trk.originalproxy.sbs:20936
 vless://14c9809c-8f92-4b58-9949-cf243beb9147@dubai.fonixapp.org:41192?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=p8HqeoS_56Y8_M1fJgO8WOnULqUW7tva4sxOVsqH4C4&sid=0014de#dubai.fonixapp.org:41192
-trojan://uhbhdhoj-w7qw-oxw6-tsfo-bkouyppdg6o9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ea6cfgp0-37rq-uc0a-2dq4-y9fgg1w2j1i0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4b83aa50-6adf-4759-a928-b4a974e2ece6@graygoat.fonixapp.org:44144?type=tcp&security=reality&sni=smallpdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=R-p92Ot1K9sL-_biDhao1v-0SVbi89Di7r65CzZQURk&sid=3fd623#graygoat.fonixapp.org:44144
+vless://050312e8-b555-44f0-93e5-e13ccf3845b9@invoker.fonixapp.org:12702?type=tcp&security=reality&sni=grammarly.com&fp=chrome&flow=xtls-rprx-vision&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&sid=b19de72e#invoker.fonixapp.org:12702
+vless://81ea0b43-0362-4f7f-b75b-11b2dc5b504a@sandking.fonixapp.org:54399?type=tcp&security=reality&sni=cloudtalk.io&fp=chrome&flow=xtls-rprx-vision&pbk=6ZX2uZOQb7FbLPeIyQLz3BIyCusoDlz1SmtlPXUALTo&sid=ca#sandking.fonixapp.org:54399
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#cdi.chekino.ir:20811
+vless://050312e8-b555-44f0-93e5-e13ccf3845b9@invoker.fonixapp.org:12702?type=tcp&security=reality&sni=grammarly.com&fp=chrome&flow=xtls-rprx-vision&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&sid=b19de72e#invoker.fonixapp.org:12702
+trojan://9d6i2epk-uzi2-hxcz-na0s-mok2ba44ea29@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u550svw6-ky2t-n9y0-tn8m-kyayvjpv3qlu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
