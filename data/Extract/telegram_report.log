@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-01 19:45:52
+Timestamp: 2025-12-01 23:41:21
 Total Channels: 117
 Successful Scrapes: 87
 Failed Scrapes: 0
@@ -10,11 +10,11 @@ freev2rayssr: 300 configs
 V2ray_Alpha: 285 configs
 LonUp_M: 200 configs
 V2RAY_VMESS_free: 170 configs
+oneclickvpnkeys: 157 configs
 V2rayNG3: 156 configs
+meli_proxyy: 154 configs
 configV2rayNG: 151 configs
-meli_proxyy: 146 configs
-oneclickvpnkeys: 141 configs
-FreakConfig: 139 configs
+FreakConfig: 138 configs
 CaV2ray: 132 configs
 ShadowsocksM: 117 configs
 v2rayng_1378: 103 configs
@@ -22,7 +22,7 @@ heyatserver: 101 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 Awlix_ir: 82 configs
-v2rayngvpn: 77 configs
+v2rayngvpn: 78 configs
 Outline_Vpn: 76 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
@@ -36,9 +36,9 @@ dailyv2ray: 40 configs
 configfa: 37 configs
 customv2ray: 36 configs
 OutlineReleasedKey: 34 configs
-v2raying: 33 configs
 ISVvpn: 31 configs
-proxy_kafee: 26 configs
+v2raying: 28 configs
+V2RAYROZ: 25 configs
 ev2rayy: 25 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
@@ -55,17 +55,16 @@ vpnstorefast: 18 configs
 orange_vpns: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
-PrivateVPNs: 16 configs
-V2RAYROZ: 16 configs
 freedomofinfor: 16 configs
 v2rayvpnchannel: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 Network_442: 13 configs
 NoForcedHeaven: 13 configs
 Vpnstable: 13 configs
+proxy_kafee: 13 configs
 ConfigWireguard: 12 configs
 vpn_ocean: 10 configs
-v2rayfree: 10 configs
 v2ngfast: 10 configs
 configV2rayForFree: 9 configs
 sinavm: 9 configs
@@ -73,7 +72,9 @@ freev2raym: 9 configs
 v2rayngfreee: 9 configs
 server_nekobox: 8 configs
 GrizzlyVPN: 8 configs
+v2rayfree: 8 configs
 iraniv2ray: 8 configs
+tehranargo: 7 configs
 ServerNett: 6 configs
 vip_vpn_2022: 6 configs
 v2raymelliii: 6 configs
@@ -82,7 +83,6 @@ redfree8: 5 configs
 golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
-tehranargo: 4 configs
 ultrasurf_12: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
