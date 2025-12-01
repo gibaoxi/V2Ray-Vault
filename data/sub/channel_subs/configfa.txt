@@ -1,6 +1,6 @@
-trojan://jv6kjowv-80xt-1std-ao7q-ck8nc9wipfvw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/30 | 23:43
-trojan://v5peixkj-9pge-fjdx-tuwy-mjqmbx9zp693@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://462qn11t-2s3o-wneo-fzix-8d5p41jm4krv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://lmzxmrz9-o6y6-jnct-k3aq-mw0lfj4jfu1q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/01 | 04:29
+trojan://2lej0fc1-sq8r-id98-d6v6-r4sk3n1js0rd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://584sifw7-0x1m-as6s-w50r-oeksjfwth9qw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.76.39.215:443#3.76.39.215:443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.174.194:443#63.180.174.194:443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.177.227.124:443#63.177.227.124:443
@@ -23,7 +23,6 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.127:8080?type=ws&security=
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?type=ws&security=tls&path=/snippets/ip&sni=vless.hubp.de&fp=chrome#27.50.48.8:443
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&security=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree#www.speedtest.net:80
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#statue.lnmarketplace.net:443
-vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4#legendary.zooboming.com:443
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=q8Y-CDO0-mCVfl5ZTbwhlac0nAYKrKe1e9ioyAVa7G8#legendary.zooboming.com:443
 vless://f3231f54-cbfb-4bda-a649-fce2e39de021@newv2.irancpi.info:30413?type=xhttp&security=reality&path=/302f29b4&sni=google.com&fp=chrome&pbk=F_cF-ym_h7DaKvCTzGyFW6_XkumEQuKV_sf94-iuYDE&sid=1ae2#newv2.irancpi.info:30413
 vless://e58facde-fbbe-479b-bcc2-1c9edf1020f5@necrolyte.fonixapp.org:25617?type=tcp&security=reality&sni=lowes.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ch2wiP52dq6Uau7gXBZVp3F7ysXqLQY-6uVLsH5CjHY&sid=0f39fc8e#necrolyte.fonixapp.org:25617
@@ -33,10 +32,11 @@ vless://f44d9862-e607-486a-8927-f0f31d685c9f@dwarvensniper.fonixapp.org:39838?ty
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=I15cWUpCkpmCjtEuynH1vqzxHh1ejz2clhPEad5odRM#legendary.zooboming.com:443
 vless://ae431007-4a30-4d16-bfc5-b11b0ab21da1@serverfpwazz.irancpi.info:443?type=xhttp&security=reality&path=/dfoaow7e&sni=google.com&fp=chrome&pbk=pvb813CmxlshvmwTJtY6IlcEXWDh4VUV2O01rz-YVSY&sid=ec#serverfpwazz.irancpi.info:443
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ#legendary.zooboming.com:443
+vless://49bf382e-4eee-49c0-b22e-c16daa1f19cc@london.fonixapp.org:44478?type=tcp&security=reality&sni=medicalnewstoday.com&fp=chrome&flow=xtls-rprx-vision&pbk=UJt_5rWa8ZDvpVS-oDKKHiPwm__36IvHNI1KDfvja3Y&sid=ee84f20171b2ae#london.fonixapp.org:44478
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#de.eyucdn.xyz:2056
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=🔒&insecure=1#lsj3.mangshe.xyz:2056
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&insecure=0#c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743
 hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#2a14:3f87:f001:9::a:45000
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=1&obfs=salamander#dd.openaccessnode.com:989
-trojan://f0o56zwk-fu08-b3rs-ynmh-88p7mmd140on@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1cr6ncic-f19n-4b2c-ybpa-qj0whwepn8j4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6z55ffo0-kt3y-15wn-ody2-mturqxlwvcyj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wtbti9gu-9feb-ouk1-lhny-44zo2upd9lo3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
