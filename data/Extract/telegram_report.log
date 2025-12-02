@@ -1,22 +1,21 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-02 04:18:10
+Timestamp: 2025-12-02 07:52:34
 Total Channels: 117
 Successful Scrapes: 86
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 347 configs
+DailyV2RY: 348 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 286 configs
 LonUp_M: 200 configs
 meli_proxyy: 171 configs
 V2RAY_VMESS_free: 170 configs
 V2rayNG3: 156 configs
-configV2rayNG: 151 configs
-FreakConfig: 137 configs
+FreakConfig: 138 configs
 CaV2ray: 132 configs
 oneclickvpnkeys: 127 configs
-ShadowsocksM: 117 configs
+configV2rayNG: 122 configs
 v2rayng_1378: 103 configs
 heyatserver: 101 configs
 ViProxys: 100 configs
@@ -24,6 +23,7 @@ vpnaloo: 99 configs
 Awlix_ir: 82 configs
 Outline_Vpn: 76 configs
 v2rayngvpn: 67 configs
+ShadowsocksM: 61 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
 VmessProtocol: 59 configs
@@ -68,7 +68,6 @@ v2ngfast: 10 configs
 configV2rayForFree: 9 configs
 sinavm: 9 configs
 freev2raym: 9 configs
-v2rayfree: 9 configs
 v2rayngfreee: 9 configs
 server_nekobox: 8 configs
 GrizzlyVPN: 8 configs
@@ -82,6 +81,7 @@ redfree8: 5 configs
 golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
+v2rayfree: 5 configs
 bypass_filter: 3 configs
 ultrasurf_12: 2 configs
 Ahmedhamoomi_Servers: 2 configs
