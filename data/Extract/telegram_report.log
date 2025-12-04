@@ -1,29 +1,29 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-04 11:47:21
+Timestamp: 2025-12-04 15:51:38
 Total Channels: 117
-Successful Scrapes: 85
+Successful Scrapes: 86
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 DailyV2RY: 341 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 286 configs
-heyatserver: 273 configs
 LonUp_M: 200 configs
+heyatserver: 180 configs
+oneclickvpnkeys: 162 configs
 V2rayNG3: 156 configs
 V2RAY_VMESS_free: 153 configs
+FreakConfig: 148 configs
 configV2rayNG: 144 configs
-oneclickvpnkeys: 132 configs
 CaV2ray: 132 configs
-FreakConfig: 130 configs
 ViProxys: 100 configs
 vpnaloo: 100 configs
 v2rayng_1378: 83 configs
 Outline_Vpn: 80 configs
 Awlix_ir: 77 configs
 VmessProtocol: 76 configs
-v2rayngvpn: 75 configs
 ZibaNabz: 72 configs
+v2rayngvpn: 63 configs
 ShadowsocksM: 62 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
@@ -42,6 +42,7 @@ V2RAYROZ: 21 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
 GetConfigIR: 20 configs
+IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
 v2nodes: 20 configs
 freeconfigsplus: 20 configs
@@ -49,30 +50,30 @@ Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-IP_CF_Config: 19 configs
+PrivateVPNs: 18 configs
 vpnstorefast: 18 configs
 orange_vpns: 18 configs
+proxy_kafee: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
 freedomofinfor: 16 configs
-PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
-v2rayvpnchannel: 14 configs
 Network_442: 13 configs
 NoForcedHeaven: 13 configs
 Vpnstable: 13 configs
+v2rayvpnchannel: 13 configs
 ConfigWireguard: 12 configs
 v2rayfree: 12 configs
 vpn_ocean: 10 configs
+configV2rayForFree: 9 configs
 sinavm: 9 configs
 freev2raym: 9 configs
 v2rayngfreee: 9 configs
 v2ngfast: 9 configs
-configV2rayForFree: 8 configs
 server_nekobox: 8 configs
 GrizzlyVPN: 8 configs
-proxy_kafee: 8 configs
 iraniv2ray: 8 configs
+tehranargo: 7 configs
 ServerNett: 6 configs
 vip_vpn_2022: 6 configs
 v2raymelliii: 6 configs
@@ -81,7 +82,6 @@ redfree8: 5 configs
 golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
-tehranargo: 5 configs
 bypass_filter: 3 configs
 ultrasurf_12: 2 configs
 Ahmedhamoomi_Servers: 2 configs
@@ -90,5 +90,6 @@ vmess_iran: 1 configs
 Ln2Ray: 1 configs
 ZeusVPN_Net: 1 configs
 V2rey_vless: 1 configs
+shadowproxy66: 1 configs
 
 --- Failed Channels ---
