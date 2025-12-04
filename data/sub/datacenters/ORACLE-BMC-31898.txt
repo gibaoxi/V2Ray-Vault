@@ -1,58 +1,64 @@
-trojan://809f2gab-jx4m-ng0z-g9gf-ay9rhhkmzqcx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/04 | 15:52
-trojan://bruaugu7-thoy-lo2d-9m51-zjemjzjwa7pl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0c8gw8e9-yr51-j907-bwo7-oknpn0ye445u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jej686fp-9sjo-p2hi-en7x-92t60i1xpg1z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/04 | 19:46
+trojan://r4exe0pq-2bg6-yqax-lryg-mddv3l3awrle@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://tyaysh0r-oqtm-qn9m-nrpk-a4jhnyw6r5d1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#CA 🇨🇦 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.77.57
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@uk1.oomz.ru:30000?sni=bing.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.101.212
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.224
-vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116#AU 🇦🇺 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 192.9.162.122
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us1.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.31.188
-hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?sni=bing.com&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.231.140
-trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.242.130
-trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.43.89
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@141.147.191.85:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 141.147.191.85
-vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTI5LjE1MS4xNjQuMTUyIiwiYWRkIjoiMTI5LjE1MS4xNjQuMTUyIiwicG9ydCI6NTU2MDAsImlkIjoiZTMwZjg1ODgtMjU1NS00OGI4LWMzNTQtYzhlNjNmNTcyMzJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@sg4.oomz.ru:30000?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 161.118.203.61
-trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz&peer=nodes.830901.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.101.11.204
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDEyOS4xNTkuNDEuMjMzIiwiYWRkIjoiMTI5LjE1OS40MS4yMzMiLCJwb3J0IjozMjU4NiwiaWQiOiIzNDFhOTE4Mi1jNDIzLTQ5OWMtYzQ2ZS1kMTc4MzhiMjkwMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.189.17
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTkzLjEyMi4xMTkuMzQiLCJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwicG9ydCI6MTE4MjcsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYnZkZnl1ZXVzZiJ9
-hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@uk2.oomz.ru:30000?sni=bing.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.145.18.43
-vless://bc9a8522-d884-41cd-de9c-9a29812b55ef@138.2.50.155:38487?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#JP 🇯🇵 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 138.2.50.155
-trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.162.166
-trojan://6bb546f2-5528-31b2-8d8e-cf1eed4076a0@phxv002.jd0001.top:44303?sni=phxv002.jd0001.top&peer=phxv002.jd0001.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.190.219
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.123.200
-hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.101.207.1
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us6.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.55.212
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.230.96.103
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us5.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.101.19.113
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr1.oomz.ru:30000?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.145.196.112
-trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.178.206.197
-hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?sni=bing.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 130.61.215.106
-trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 155.248.205.39
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@155.248.172.87:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 155.248.172.87
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#BR 🇧🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 167.234.255.2
-vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQ0LjIyLjE3MS4xODIiLCJhZGQiOiIxNDQuMjIuMTcxLjE4MiIsInBvcnQiOjE3MjA3LCJpZCI6ImEwYTA5OGFmLTZhNzYtNDI3Zi1kZjkxLTNjM2RkNjc5NmUyMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 130.162.230.82
-trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.135.157
 trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 155.248.193.254
-trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.179.67
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 204.216.216.23
-trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.113.84
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=reality&sni=yahoo.com&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.100.35
-trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?sni=www.tokyo2023.ga&peer=www.tokyo2023.ga&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.5.246
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.189.146
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?type=ws&security=tls&path=/freecodes/&sni=gaosir.unfeeling.sbs&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.245.48.42
-hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr2.oomz.ru:30000?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.145.216.230
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.76.54
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.137.165
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.68.133
-trojan://auto@129.146.254.39:443?sni=tg.cmliussss.us.kg&peer=tg.cmliussss.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.254.39
-trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.45.243
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.145.51.172
-trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.30
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.71.149
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.160.174
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.145.21.45
+trojan://6bb546f2-5528-31b2-8d8e-cf1eed4076a0@phxv002.jd0001.top:44303?sni=phxv002.jd0001.top&peer=phxv002.jd0001.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.190.219
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.137.165
+trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.230.217.213
+vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116#AU 🇦🇺 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 192.9.162.122
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 204.216.216.23
+trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.178.206.197
+trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.145.51.172
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.145.216.230:443?type=tcp&security=reality&sni=www.orange.fr&fp=random&flow=xtls-rprx-vision&pbk=NUffGJDBoJtfgQl_vUK3KN_VIn0UJbLfPdgoGJ8OKVg&sid=f13fae#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 141.145.216.230
+trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 155.248.205.39
+trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz&peer=nodes.830901.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 158.101.11.204
+trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.113.84
+hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.101.207.1
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@89.168.123.93:443?type=tcp&security=reality&sni=www.siemens.com&fp=random&flow=xtls-rprx-vision&pbk=DXfeLkECbadHHOfCrxAp7LvzQFcxllDbYzpWcJPVX3Y&sid=83f5a4f8#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 89.168.123.93
+trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.43.89
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@140.238.101.212:443?type=tcp&security=reality&sni=www.bp.com&fp=random&flow=xtls-rprx-vision&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&sid=d923#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.101.212
+hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@sg4.oomz.ru:30000?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 161.118.203.61
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.189.17
+trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.45.243
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us1.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.31.188
+trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.30
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.148.231.140:443?type=tcp&security=reality&sni=www.microsoft.com&fp=random&flow=xtls-rprx-vision&pbk=-bkNK7-q7YQA5mL7kFehmXllIxym7q5mLAL-69bA7jo&sid=fb#NL 🇳🇱 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 141.148.231.140
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.145.196.112:443?type=tcp&security=reality&sni=www.orange.fr&fp=random&flow=xtls-rprx-vision&pbk=qwOpC7eb-w7uUSdUrDbxyodquipemBp0bSKhcHrZWF0&sid=fe8f653b55#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 141.145.196.112
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=reality&sni=yahoo.com&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.100.35
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@130.61.215.106:443?type=tcp&security=reality&sni=www.siemens.com&fp=random&flow=xtls-rprx-vision&pbk=5BDrHCgL-NmS2gITODTRRX3Oj62T7CsKNkdw2u9wl3A&sid=6129a6414f#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 130.61.215.106
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#BR 🇧🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 167.234.255.2
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.179.67
+trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.255.158
+trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.242.130
+trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.136.57.125
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDEyOS4xNTkuNDEuMjMzIiwiYWRkIjoiMTI5LjE1OS40MS4yMzMiLCJwb3J0IjozMjU4NiwiaWQiOiIzNDFhOTE4Mi1jNDIzLTQ5OWMtYzQ2ZS1kMTc4MzhiMjkwMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.123.200
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?type=ws&security=tls&path=/freecodes/&sni=gaosir.unfeeling.sbs&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.245.48.42
+trojan://auto@129.146.254.39:443?sni=tg.cmliussss.us.kg&peer=tg.cmliussss.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.254.39
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 130.162.230.82
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQ0LjIyLjE3MS4xODIiLCJhZGQiOiIxNDQuMjIuMTcxLjE4MiIsInBvcnQiOjE3MjA3LCJpZCI6ImEwYTA5OGFmLTZhNzYtNDI3Zi1kZjkxLTNjM2RkNjc5NmUyMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://bc9a8522-d884-41cd-de9c-9a29812b55ef@138.2.50.155:38487?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#JP 🇯🇵 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 138.2.50.155
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@132.145.18.43:443?type=tcp&security=reality&sni=www.bp.com&fp=random&flow=xtls-rprx-vision&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 132.145.18.43
+trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.162.166
+vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTI5LjE1MS4xNjQuMTUyIiwiYWRkIjoiMTI5LjE1MS4xNjQuMTUyIiwicG9ydCI6NTU2MDAsImlkIjoiZTMwZjg1ODgtMjU1NS00OGI4LWMzNTQtYzhlNjNmNTcyMzJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.8.86
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://1jrfymyf-mzfv-v2gm-5a9x-ujqzircglly5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qs4fc26h-611v-6bkf-e9la-uismpooy0nm8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.68.133
+trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?sni=www.tokyo2023.ga&peer=www.tokyo2023.ga&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.5.246
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.224
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTkzLjEyMi4xMTkuMzQiLCJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwicG9ydCI6MTE4MjcsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYnZkZnl1ZXVzZiJ9
+trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.190.42
+hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us5.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.101.19.113
+hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us6.oomz.ru:30000?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.55.212
+trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.135.157
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 146.56.189.146
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@155.248.172.87:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 155.248.172.87
+trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.76.54
+trojan://vabt2y0q-y0rp-52l0-avy2-6im6e4s16odv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vhzcix02-a0a2-ueg4-2232-c8s1ujdlazi3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
