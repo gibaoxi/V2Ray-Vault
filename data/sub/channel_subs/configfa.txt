@@ -1,7 +1,6 @@
-trojan://0577bav4-bpgm-eaac-w6xg-gcgpenpd5x61@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/07 | 07:56
-trojan://uf06pk3q-wlhm-fswn-8vli-rcsnk44lq6vs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vhkj1st7-mv0q-lyuo-h0b1-i46h51x3qfz9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#109.201.152.181:443
+trojan://p03p65e7-fcgg-mvcd-ckz7-4yo4hypmre1a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/07 | 11:44
+trojan://w4tfb8x1-yj67-m2ks-tqaq-gli56yo51mso@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lz76zht8-0929-xi5d-4fu2-fw0asuvdkplw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#109.201.152.181:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZWZsSm9Xa3dTeEhUMXlFMU1JcHhZ@78.129.140.11:443#78.129.140.11:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#82.38.31.187:8080
@@ -68,18 +67,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#95.174.68.33:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#109.61.39.28:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#45.87.175.193:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#192.71.244.150:990
 trojan://telegram-id-privatevpns@18.197.203.30:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#18.197.203.30:22222
 trojan://79314e99f0a473fe86efc7827942ad00@203.198.122.13:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#203.198.122.13:443
 trojan://telegram-id-privatevpns@13.37.103.10:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.103.10:22222
 trojan://79314e99f0a473fe86efc7827942ad00@16.163.0.29:4054?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#16.163.0.29:4054
 vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlcyIsImFkZCI6IjE5OC4yMy4xNzQuMTY4IiwicG9ydCI6MjAwODYsImlkIjoiMmIzNjMwNGItNGY4OC00ZmY1LTkwMzMtZjRkNTdkYmI1NDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzAyXHVmZTBmIEBHaGV5Y2hpQW1vb3plc2gtMzQiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0Ijo0NDU3OSwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvIn0
-vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&security=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree#www.speedtest.net:80
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#statue.lnmarketplace.net:443
+vless://2dea744d-69b5-4a8c-aa28-8c8aa5c36143@nodemaazvk.irancpi.info:80?type=ws&security=tls&path=/api&fp=chrome#nodemaazvk.irancpi.info:80
 vless://ae431007-4a30-4d16-bfc5-b11b0ab21da1@serverfpwazz.irancpi.info:443?type=xhttp&security=reality&path=/dfoaow7e&sni=google.com&fp=chrome&pbk=pvb813CmxlshvmwTJtY6IlcEXWDh4VUV2O01rz-YVSY&sid=ec#serverfpwazz.irancpi.info:443
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ#legendary.zooboming.com:443
 vless://49bf382e-4eee-49c0-b22e-c16daa1f19cc@london.fonixapp.org:44478?type=tcp&security=reality&sni=medicalnewstoday.com&fp=chrome&flow=xtls-rprx-vision&pbk=UJt_5rWa8ZDvpVS-oDKKHiPwm__36IvHNI1KDfvja3Y&sid=ee84f20171b2ae#london.fonixapp.org:44478
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#37.18.14.169:443
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#37.18.14.169:443
-trojan://n97ovwsa-5bq9-i2bo-8oql-pg4r5s3yudaz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jq6ui4ta-25uk-n9in-g9t5-13cksbmqpfoq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bq6kbbv1-kjbb-3jin-jp6d-429qwb6yuk96@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://iivjysay-d1ay-cet7-zwia-cet27dhxdb8b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
