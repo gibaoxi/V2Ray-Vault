@@ -1,20 +1,10 @@
-trojan://sdf9d63t-39kf-0yjl-oogw-d6km8gcz0di0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/07 | 11:44
-trojan://rr9xhajj-so4d-tbr0-nzg9-s2720tu0n4vg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://im28722x-ruc7-73io-tihh-umunh26tlcyn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8ydttyxo-tqwe-9luh-gebk-6mjdegir8cft@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/07 | 15:48
+trojan://a51tjvfh-d50r-7sbl-nl65-4p5014gfypwf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ujh8g80q-3to2-ay7m-egbn-hkterzo3bhae@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#38.180.195.193:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#119.59.127.129:990
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0gXHVkODNjXHVkZjFmIGRhaWx5djJyeSIsImFkZCI6ImswMWt3eS56ZWVvb21ib29tLmRlIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJrMDFrd3kuemVlb29tYm9vbS5kZSIsInBhdGgiOiIvdmlkZW8vZTk5anQ4Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrMDFrd3kuemVlb29tYm9vbS5kZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0gXHVkODNjXHVkZjNhIGRhaWx5djJyeSIsImFkZCI6IjEwNC4xOS4xNTAuMTAiLCJwb3J0Ijo4MCwiaWQiOiIxNzU1Yjc4Ni1hYTFjLTRkMzEtODZhNS02Njg1MDc4Y2Y2MWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh29v1.carwashipdir.shop#all.tellmethetrue.shop:443
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.198.7:443?type=grpc&security=none#70.34.198.7:443
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.209.207:443?type=grpc&security=none#70.34.209.207:443
-vless://86825b06-ee56-4dc9-9128-b3abda5c31e8@www.speedtest.net:443?type=ws&security=tls&path=/&sni=spl01.hatlikarious.org#www.speedtest.net:443
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.201.151:443?type=grpc&security=none#70.34.201.151:443
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.196.36:443?type=grpc&security=none#70.34.196.36:443
-vless://fad329ac-313b-471c-8d94-a6e8f598990e@www.speedtest.net:80?type=xhttp&security=none&path=/#www.speedtest.net:80
-vless://bcf754d2-a095-40b9-90da-1f3bc2f5a1ef@161.35.213.101:443?type=grpc&security=none#161.35.213.101:443
-vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?type=ws&security=tls&path=/assets?ed=2560&sni=RR-FF.pages.DEV&fp=chrome#141.101.114.197:2083
-vless://3bdf1812-863a-4056-a548-952a384b88df@ziro11.zarashop0.ir:2087?type=grpc&security=tls&sni=ziro11.zarashop0.ir&fp=chrome#ziro11.zarashop0.ir:2087
 vless://bcf754d2-a095-40b9-90da-1f3bc2f5a1ef@164.90.237.182:443?type=grpc&security=none#164.90.237.182:443
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?type=ws&security=tls&path=/perform&sni=xwqdq.jet-nimejam.info#meg.ns.cloudflare.com:443
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&security=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree#www.speedtest.net:80
@@ -198,11 +188,17 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?type=ws&secu
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.170.237.92:59483?type=grpc&security=none#54.170.237.92:59483
 vless://4b1c96fb-0892-4ccf-9e12-de3f7172be0a@delilah.ns.cloudflare.com:443?type=ws&security=tls&path=/yzbacvws&sni=639005752550617685.accord-lmnxa.info#delilah.ns.cloudflare.com:443
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&security=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree#www.speedtest.net:80
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.96.176.155:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#3.96.176.155:443
-vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo#38.54.122.118:443
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@159.203.135.191:443?type=tcp&security=reality&sni=www.gstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#159.203.135.191:443
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.222.63.114:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#34.222.63.114:443
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@44.249.175.33:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#44.249.175.33:443
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?type=ws&security=tls&path=/perform&sni=kdymp.del-nimejam.info#meg.ns.cloudflare.com:443
+vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?type=tcp&security=none&path=/#m11a.vip784.com:33801
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh29v3.carwashipdir.shop#all.tellmethetrue.shop:443
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.214.150:443?type=grpc&security=none#70.34.214.150:443
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.196.157:443?type=grpc&security=none#70.34.196.157:443
+vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&security=none&path=/#156.244.16.60:443
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.198.96:443?type=grpc&security=none#70.34.198.96:443
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.220.167:443?type=grpc&security=none#70.34.220.167:443
+vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&security=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree#www.speedtest.net:80
+vless://3e72edf8-3ef4-4055-9bcc-99db796ca478@cosmin.ns.cloudflare.com:443?type=ws&security=tls&path=/dsfpytws&sni=639005752551053139.accord-lmnxa.info#cosmin.ns.cloudflare.com:443
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@www.speedtest.net:80?type=xhttp&security=none&path=/#www.speedtest.net:80
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.93.212.45:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#35.93.212.45:443
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8#158.220.82.224:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.222.14.205:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#15.222.14.205:443
@@ -284,5 +280,9 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.19.64.165:443?type=tcp&security=r
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?type=grpc&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019#38.134.189.186:443
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@137.184.237.123:443?type=tcp&security=reality&sni=www.gstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#137.184.237.123:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.14.27.23:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#3.14.27.23:443
-trojan://xuxd4430-220o-umfl-t2en-ym80tqeuutb8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://w9hbti6c-5kw1-pb6l-xdhj-8s1xi07c9nud@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.129.5.245:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#3.129.5.245:443
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.219.87.49:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#13.219.87.49:443
+vless://4468ae8a-7741-42dd-be69-d75cd94c9b0e@216.106.189.107:8443?type=tcp&security=reality&sni=www.microsoft.com&fp=safari&flow=xtls-rprx-vision&pbk=iHDnFIEsw6lD514kP0JNtP1h7zlQ6AEZn6nKICyOYlY&sid=5eac66585cbd595c#216.106.189.107:8443
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.83.139.106:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#3.83.139.106:443
+trojan://myt1c0q1-cb04-cfex-8otu-7johb997n9qp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kg4gr98x-tdll-vujz-e484-os7ce6a12ssc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
