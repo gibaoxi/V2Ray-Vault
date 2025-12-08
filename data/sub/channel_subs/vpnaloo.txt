@@ -1,9 +1,6 @@
-trojan://gc3dsj0u-yojm-yup4-b7w3-0cs6phy96926@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/07 | 23:43
-trojan://nnzvbyvg-ran7-3v3d-o1xb-1pnw1vgczjh7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pssmo7x5-zq6i-01w6-32ni-itqiplz8ouel@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://1a99075a-0ac0-40ec-bb86-3cc1b6fe211f@51.79.102.230:443?type=ws&security=none&path=/linkws?ed=2560#51.79.102.230:443
-vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?type=ws&security=tls&path=/getupdates&sni=fl-3-direct.djarbnet.ru&fp=chrome#fl-3-direct.djarbnet.ru:443
-vless://1725f6ff-96b3-40fa-bc31-a9261967f056@45.138.183.73:42866?type=tcp&security=none#45.138.183.73:42866
+trojan://yl7vjnon-x62w-unds-e8py-k54sctg5578s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/08 | 04:19
+trojan://zbu5b6o4-tyop-hisd-dtdo-5c8oe38bbjhv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cazvjbck-bta9-7ion-atjn-dc9j8hcdfoao@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.5.58:8080?type=ws&security=none&path=/?ed#40.160.5.58:8080
 vless://0a079dd2-86dc-4209-b2b2-0069c5d6f1de@norman.ns.cloudflare.com:443?type=ws&security=tls&path=/kbsozzws&sni=638990351278603478.civic-amshz.info#norman.ns.cloudflare.com:443
 vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?type=ws&security=tls&path=/ufoxglws&sni=638991681638525311.jetta-amsia.info#cosmin.ns.cloudflare.com:443
@@ -41,8 +38,6 @@ vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?type=ws&security
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?type=ws&security=tls&path=/mcqvlfws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=639002745868715407.golf-amsir.info#cosmin.ns.cloudflare.com:443
 vless://270b7522-bda3-4381-bffb-6156076e271e@172.64.33.91:443?type=ws&security=tls&path=/amglzgws&sni=639004042094803957.legacy-amsit.info#172.64.33.91:443
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?type=ws&security=tls&path=/mcqvlfws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=639002745868715407.golf-amsir.info#cosmin.ns.cloudflare.com:443
-vless://b20c12e7-f071-4829-94e7-17dc4e43a37a@silverzebra.fonixapp.org:31502?type=tcp&security=reality&sni=marmiton.org&fp=chrome&flow=xtls-rprx-vision&pbk=oenAlMhG602prGwOqnAt5yZ55yuDEfZwGZXn-WaxizM&sid=e1814a#silverzebra.fonixapp.org:31502
-vless://a089b99e-734b-4c5c-b749-8a7242b7970a@abaddon.fonixapp.org:50621?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=IwbPnmOaIGCZcvIXPQSqE3zX1duqqJhzWq7G2QNlr3s&sid=6d3e7476fd#abaddon.fonixapp.org:50621
 vless://a308ddf6-cf9a-49ac-b128-27cf52052853@tu.soreanapanel.com:31724?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=-rqtKEhyEldsxEbNVfdTr9kjVH507vQnDXpHLcgpYQE&sid=27#tu.soreanapanel.com:31724
 vless://3a8171ea-a706-40f6-a97a-97264263dc1c@84.201.174.159:443?type=tcp&security=reality&sni=cdn.tracker.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd#84.201.174.159:443
 vless://6f0d0074-c227-4370-84aa-4b198955398a@145.249.109.54:10343?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=0D54zil8NeTzPPOBQgx1nXaITEE14UqeTJ4IUyvLvTk&sid=cdbd76ca6912d8c9#145.249.109.54:10343
@@ -102,5 +97,10 @@ vless://7e281f58-63b0-4e9a-a3fe-537e33e374b9@node1.svoy.run:443?type=tcp&securit
 vless://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@france.phantompanel.shop:2024?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&sid=650bbd4b5cae0713#france.phantompanel.shop:2024
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?type=tcp&security=reality&sni=medicalnewstoday.com&fp=chrome&flow=xtls-rprx-vision&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&sid=5d#152.53.142.189:11487
 vless://b77ce9ea-feed-40f6-8cd0-3da007208050@progr.soreanapanel.com:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=ce83bcae62c7c148#progr.soreanapanel.com:443
-trojan://r8836149-qgc7-i0b0-gaqc-4qoat6pdxjgf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e0onhgyj-3d05-4slm-4qo1-g42mlyse1zw7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://23914cf2-2d38-4402-8862-4b02c60b84d9@earthshaker.fonixapp.org:443?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=dqzabPbB3PzzynPZdUe6AtyKH0FIdi0eIyQBvn9azE0&sid=23#earthshaker.fonixapp.org:443
+vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?type=tcp&security=reality&sni=xp.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&sid=640054#beast-masters.fonixapp.org:443
+vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?type=tcp&security=reality&sni=workers.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&sid=48#drow-ranger.fonixapp.org:443
+vless://50122bf3-218b-4182-b2e0-6a28b24459a6@invoker.fonixapp.org:443?type=tcp&security=reality&sni=cdn.steamstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZNKJSYo6NIxLxFtgo3IjNmDqEjtuGpLZYs_sLAOkNks&sid=1c#invoker.fonixapp.org:443
+vless://5aad18e2-f53b-4927-a1ff-cda06c5d5b02@shadowshaman.fonixapp.org:443?type=tcp&security=reality&sni=init.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=nc1sfrAmREkpj15hupqKM-l0t1_qlxvhUxgp2KvnpmE&sid=d0#shadowshaman.fonixapp.org:443
+trojan://9f8ei7c0-993l-xyj8-h0jt-nnbn5la4m3ta@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wg2nss3m-9wfp-bbw8-vs9y-1sdkgl9svwn8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
