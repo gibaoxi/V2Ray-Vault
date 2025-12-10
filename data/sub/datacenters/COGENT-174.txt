@@ -1,10 +1,11 @@
-trojan://2w9z6sku-hl56-31ug-8leh-p494usf7tlbf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/10 | 15:52
-trojan://c0qfjc7c-e7mn-8xjp-wcf6-2l7d3yd6zrka@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dt8o9qsv-1fr9-wc2b-rvq0-eawdvq2n3ss2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8kbeptld-j0ox-wo7s-bfg8-mjyzbomxy43h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/10 | 19:48
+trojan://nupsh0al-62ds-agv8-spyy-2htlvqvezduk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://iluw3kz2-llfj-yts1-7v5u-8uw1dy7mqb4e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HRU5ULTE3NCBcdTI1MDcgMTg1LjE5NS42Ny4xMzYiLCJhZGQiOiIxODUuMTk1LjY3LjEzNiIsInBvcnQiOjQ0MywiaWQiOiJlZmJkNWE3Yy05YzllLTQyMTYtOGYwMS1lMzlmNWNlZTEwMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-vless://06909812-7bd8-4e39-aa4f-911b1ce7c45c@38.131.1.85:443?type=tcp&security=reality&sni=miui.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 38.131.1.85
-vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 38.134.189.186
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HRU5ULTE3NCBcdTI1MDcgMzguOTIuMTAuMjI2IiwiYWRkIjoiMzguOTIuMTAuMjI2IiwicG9ydCI6NDU5NzksImlkIjoiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdGVzdCJ9
+trojan://bs6KJkPBW9MP74uHEa@de1.trojan-lite.com:443?sni=de1.trojan-lite.com&peer=de1.trojan-lite.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - COGENT-174 ┇ 149.50.74.62
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENPR0VOVC0xNzQgXHUyNTA3IDE1NC42Mi4xODUuMTYyIiwiYWRkIjoiMTU0LjYyLjE4NS4xNjIiLCJwb3J0IjozNTgxNiwiaWQiOiI2Y2ViYmRhYS03NGNlLTQzY2UtZGZlMi0xY2VjYmE5Y2VjYjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://wdjw7ypn-jqy6-8zje-4ao1-m34727l66cfn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://t4s4k7n0-knw7-1mpo-n86f-05huf7uic42s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?type=grpc&security=reality&sni=www.microsoft.com&fp=chrome&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019#SG 🇸🇬 ┇ VLESS-GRPC-RLT - COGENT-174 ┇ 38.134.189.186
+vless://06909812-7bd8-4e39-aa4f-911b1ce7c45c@38.131.1.85:443?type=tcp&security=reality&sni=miui.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 38.131.1.85
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HRU5ULTE3NCBcdTI1MDcgMzguOTIuMTAuMjI2IiwiYWRkIjoiMzguOTIuMTAuMjI2IiwicG9ydCI6NDU5NzksImlkIjoiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdGVzdCJ9
+trojan://2qkrqcex-1ynr-clzt-4pmy-n3nus9m2kttn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3u2ktr1m-0r1b-0kb4-dn9s-isdxwuv9p492@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
