@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-11 04:20:44
+Timestamp: 2025-12-11 07:57:53
 Total Channels: 117
 Successful Scrapes: 83
 Failed Scrapes: 0
@@ -12,8 +12,8 @@ LonUp_M: 200 configs
 V2RAY_VMESS_free: 176 configs
 heyatserver: 162 configs
 V2rayNG3: 157 configs
-configV2rayNG: 155 configs
-FreakConfig: 138 configs
+configV2rayNG: 145 configs
+FreakConfig: 139 configs
 CaV2ray: 132 configs
 oneclickvpnkeys: 102 configs
 ViProxys: 100 configs
@@ -83,10 +83,10 @@ proSSH: 5 configs
 ultrasurf_12: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
+AzadNet: 2 configs
 Ln2Ray: 2 configs
 shadowproxy66: 2 configs
 vmess_iran: 1 configs
-AzadNet: 1 configs
 ZeusVPN_Net: 1 configs
 
 --- Failed Channels ---
