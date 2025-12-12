@@ -1,23 +1,21 @@
-trojan://lzeq58nb-pdc9-xjzf-kt2i-rz8bcot8e4ar@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/12 | 15:52
-trojan://xk0425et-ube5-ni24-v7sn-qonnmmxrolen@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ktq6j66z-glk8-4plb-illb-9u00yl89cg5v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.57.184
+trojan://nmt8lb2k-r4s1-t1pa-gdg7-5se8z5s381hn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/12 | 19:44
+trojan://kumg8um7-ogr0-99gh-i3jv-dln25dz2tmpd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mtro043i-9413-h2nr-jwqs-ietvoz1he41q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 159.65.147.91
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.160.174
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.97.203.227
+hysteria2://e22d2366-ac58-47e0-8362-89df9aa6349f@144.24.99.141:53?sni=www.hoyoverse.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.99.141
+vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.58.120
+vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.57.184
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.235.105.146:443?type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&sni=ak.suoni.nyc.mn&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.235.105.146
 vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&security=tls&path=/VLESS@PlanAsli&sni=aslivpn.pages.dev&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 172.69.178.43
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.135.13
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 159.65.147.91
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
-vless://976191fd-e929-467e-98b4-1349f58907d5@139.59.46.188:37548?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.46.188
-vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?type=ws&security=none&path=/olem/ws?ed=64Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&sni=zmaoz.faculty.ucdavis.edu.&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.158.204
-vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.58.120
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.235.105.146:443?type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&sni=ak.suoni.nyc.mn&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.235.105.146
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExFQVBTV0lUQ0ggTkVUV09SS1MgUFJJVkFURSBMSU1JVEVEIFx1MjUwNyAxODguMjA4LjE0MS4xNzciLCJhZGQiOiIxODguMjA4LjE0MS4xNzciLCJwb3J0Ijo0NDMsImlkIjoiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko@159.65.149.72:51348#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 159.65.149.72
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb250YWJvIEFzaWEgUHJpdmF0ZSBMaW1pdGVkIFx1MjUwNyA5NC4xMzYuMTg3Ljc3IiwiYWRkIjoibm9kZTQucnR4Y29uZmlnei5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsInBhdGgiOiIvQE1hbGluZGE2MTA0IiwidGxzIjoidGxzIiwic25pIjoibm9kZTQucnR4Y29uZmlnei5jb20ifQ
-trojan://6bugon72-1t1p-xpw8-akcv-kdc3pflvq9n6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://taggwbp4-2u13-3l57-ln3x-u3s0ko7i9sa8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
+vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?type=ws&security=none&path=/olem/ws?ed=64Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&sni=zmaoz.faculty.ucdavis.edu.&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.158.204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.97.203.227
+vless://976191fd-e929-467e-98b4-1349f58907d5@139.59.46.188:37548?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.46.188
+trojan://mg3ck6g3-kdwz-uru1-bcgh-dqryv4swi3hx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sepnxwlf-3tbu-w8tf-e4va-tv4otnoa4lt7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
