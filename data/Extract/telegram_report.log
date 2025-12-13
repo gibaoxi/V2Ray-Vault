@@ -1,18 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-13 19:42:54
+Timestamp: 2025-12-13 23:41:50
 Total Channels: 117
-Successful Scrapes: 85
+Successful Scrapes: 84
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 266 configs
 V2ray_Alpha: 230 configs
+DailyV2RY: 228 configs
+heyatserver: 219 configs
 LonUp_M: 200 configs
 V2RAY_VMESS_free: 172 configs
 oneclickvpnkeys: 172 configs
-heyatserver: 170 configs
-FreakConfig: 166 configs
+FreakConfig: 159 configs
 V2rayNG3: 153 configs
 CaV2ray: 132 configs
 configV2rayNG: 117 configs
@@ -24,11 +24,11 @@ Awlix_ir: 89 configs
 configfa: 80 configs
 Outline_Vpn: 77 configs
 hopev2ray: 65 configs
+v2raying: 64 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
-v2raying: 57 configs
-v2rayngvpn: 55 configs
+v2rayngvpn: 58 configs
 v2rayngconfig: 52 configs
 VmessProtocol: 44 configs
 yaney_01: 41 configs
@@ -37,7 +37,6 @@ customv2ray: 36 configs
 OutlineReleasedKey: 34 configs
 ZibaNabz: 28 configs
 ev2rayy: 25 configs
-V2RAYROZ: 21 configs
 tehranargo: 21 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
@@ -51,29 +50,30 @@ Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-v2ray_configs_pool: 19 configs
+sinavm: 18 configs
 vpnstorefast: 18 configs
-v2rayvpnchannel: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
-PrivateVPNs: 16 configs
-sinavm: 16 configs
+v2ray_configs_pool: 17 configs
+v2rayvpnchannel: 16 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
+V2RAYROZ: 14 configs
 freedomofinfor: 14 configs
+v2rayfree: 14 configs
 Vpnstable: 13 configs
 ConfigWireguard: 12 configs
 vpn_ocean: 10 configs
 NoForcedHeaven: 10 configs
-configV2rayForFree: 9 configs
 freev2raym: 9 configs
 v2rayngfreee: 9 configs
 v2ngfast: 9 configs
+configV2rayForFree: 8 configs
 Network_442: 8 configs
 GrizzlyVPN: 8 configs
 proxy_kafee: 8 configs
 iraniv2ray: 8 configs
 server_nekobox: 7 configs
-v2rayfree: 7 configs
 ServerNett: 6 configs
 vip_vpn_2022: 6 configs
 v2raymelliii: 6 configs
@@ -87,7 +87,6 @@ AzadNet: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
-shadowproxy66: 2 configs
 vmess_iran: 1 configs
 ZeusVPN_Net: 1 configs
 
