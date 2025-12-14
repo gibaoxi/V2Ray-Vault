@@ -1,10 +1,7 @@
-trojan://gnds10ei-8a1p-c83s-1dw7-wd122lrfwbcw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 08:00
-trojan://df3qwo4o-byag-7hhu-gdbk-d8q333lrms5n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4vsbnunz-m43d-osfw-6ceg-f2ch1fsglohb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dyc2h0ma-3qdb-qj34-tw5x-dz4ftf25koyq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 11:45
+trojan://uci92yiz-fcxs-ykkh-y38a-m1et56sc62m3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4cvqp3xn-2vkr-6p67-f1oi-xsa9c62zg1r8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?sni=runningshoes.purpletornado.click&peer=runningshoes.purpletornado.click&security=tls#5.188.108.13:11790
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.66:8880?type=grpc&security=none#185.234.64.66:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?type=grpc&security=none#185.231.205.192:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.66:8880?type=grpc&security=none#185.234.64.66:8880
 vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?type=ws&security=tls&path=/uywlzkws&sni=638991166348691947.corolla-amsia.info#betty.ns.cloudflare.com:443
 vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?type=ws&security=tls&path=/uywlzkws&sni=638991166348691947.corolla-amsia.info#betty.ns.cloudflare.com:443
 vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@abmive.abmivenaser-18.ir:1520?type=tcp&security=none#abmive.abmivenaser-18.ir:1520
@@ -17,8 +14,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?type=grpc&secur
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?type=ws&security=tls&path=/sghiyws&sni=terazhedi.info&fp=chrome#brenna.ns.cloudflare.com:443
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?type=ws&security=tls&path=/sghiyws&sni=terazhedi.info&fp=chrome#brenna.ns.cloudflare.com:443
 vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?type=ws&security=tls&path=/egakxows&sni=639002592262919469.sentra-amsir.info&fp=chrome#delilah.ns.cloudflare.com:443
-vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?type=tcp&security=reality&sni=pcmag.com&fp=chrome&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&sid=96016aaff14b#212.134.84.115:443
-vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?type=tcp&security=reality&sni=pcmag.com&fp=chrome&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&sid=96016aaff14b#212.134.84.115:443
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@at.monkeyisland.life:443?type=tcp&security=reality&sni=at.monkeyisland.life&fp=chrome&flow=xtls-rprx-vision&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=c06a59f9d546bd63#at.monkeyisland.life:443
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@se.monkeyisland.life:443?type=tcp&security=reality&sni=se.monkeyisland.life&fp=chrome&flow=xtls-rprx-vision&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=c06a59f9d546bd63#se.monkeyisland.life:443
 vless://77a33d77-7af9-4c33-9556-d6711becca04@195.154.200.156:33009?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=vQxUlk2tCENv9crfrUAp5JdJOZTKhMH7XnoKLqbAYx0&sid=c0d304da0c4dcadc#195.154.200.156:33009
@@ -43,5 +38,5 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?sni=hl01.mi
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443?sni=Ab.ac&insecure=1&obfs=salamander#2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com&insecure=1#21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com&insecure=1#21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443
-trojan://up5ztr89-t7zw-r10d-nw8b-wg95m9mpzp6h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kqfhth5k-it90-f1ks-a5e6-o2bu8b7yb5ug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7d38k59y-keoi-6jba-knq0-xebzpwhdyaie@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d8e810ht-pfxc-kznb-w37b-miox3r2ha3d3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,12 +1,6 @@
-trojan://xvlexqgb-97ta-iqao-ytg2-g4ga0o5l88xy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 08:00
-trojan://8ul3zmpg-425p-6xlf-fuo5-xye2ygpevobu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5s8tvf61-2v55-fvkl-nxyo-1gdqlew4url6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#82.38.31.187:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV05zS3k2MXFQeW9EdHJFWUV0WnVr@5.129.214.186:6403#5.129.214.186:6403
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#185.47.253.227:990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg@167.150.100.115:443#167.150.100.115:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#82.38.31.210:8080
+trojan://bfsk43q2-eq11-19sh-28ae-n2u7unvflni8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 11:45
+trojan://uexaugfi-lcj6-ri7o-pcpu-awf0zjghk99t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://e3w5bixv-jas7-1gn6-jfuv-3533ub5w0hwa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#82.38.31.214:8080
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#109.201.152.181:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#82.38.31.218:8080
@@ -72,14 +66,17 @@ trojan://telegram-id-privatevpns@18.197.203.30:22222?sni=trojan.burgerip.co.uk&p
 trojan://79314e99f0a473fe86efc7827942ad00@203.198.122.13:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#203.198.122.13:443
 trojan://telegram-id-privatevpns@13.37.103.10:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.103.10:22222
 trojan://79314e99f0a473fe86efc7827942ad00@16.163.0.29:4054?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#16.163.0.29:4054
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlcyIsImFkZCI6IjE5OC4yMy4xNzQuMTY4IiwicG9ydCI6MjAwODYsImlkIjoiMmIzNjMwNGItNGY4OC00ZmY1LTkwMzMtZjRkNTdkYmI1NDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzAyXHVmZTBmIEBHaGV5Y2hpQW1vb3plc2gtMzQiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0Ijo0NDU3OSwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOjM5NjUxLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://2dea744d-69b5-4a8c-aa28-8c8aa5c36143@nodemaazvk.irancpi.info:80?type=ws&security=tls&path=/api&fp=chrome#nodemaazvk.irancpi.info:80
 vless://6b92fc29-d721-4571-a616-e3ae4239ca05@vpscynk.samanidempire.org:443?type=ws&security=tls&path=/565c05ea&fp=chrome#vpscynk.samanidempire.org:443
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#statue.lnmarketplace.net:443
+vless://51be809d-3e82-4090-b14f-a42a32100ff9@deu637.webunlocked.org:443?type=tcp&security=tls&sni=deu637.webunlocked.org&fp=chrome&flow=xtls-rprx-vision-udp443#deu637.webunlocked.org:443
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&sni=ak.suoni.nyc.mn&fp=random#20.247.137.183:443
+vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@bitpay.com:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&fp=chrome#bitpay.com:443
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#37.18.14.169:443
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#37.18.14.169:443
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#2a01:4f9:4b:f378::1:13599
-trojan://vbfhvcgh-ovf5-35ry-my56-r3f6ot2c47pf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0fuubac6-nqgk-igvt-mpwk-qn9bxcekhlpy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#2001:bc8:32d7:302::11:20088
+trojan://6qj1d7c3-l7zk-ador-8xu1-x3d1j4bkcok7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://w112iqqr-yll9-vl8v-13mt-0r5vfjrrkwk3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
