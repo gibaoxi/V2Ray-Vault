@@ -1,10 +1,6 @@
-trojan://nsch08kq-ax93-2ufy-enki-gvr2h5h2c84p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 19:43
-trojan://tlmdjhq1-a79j-d0b7-l9w6-k4n3zobri7ub@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zyjzrn85-nz3g-rypm-20p6-h6x7jtw09qbz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#45.87.175.158:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4dzR4R0IwejdvZjc0TDVreldvM1g5@92.118.112.101:9483#92.118.112.101:9483
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#15.204.247.49:12000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#134.209.147.198:990
+trojan://fymuklth-m6w9-yy3n-aoxk-gtmz84n8oh2l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/14 | 23:43
+trojan://c5436377-giy6-1kfe-7tbf-3seuyi6fj69s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i3wxr3he-8eo8-8ht4-052u-d9y3ksp8272w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#185.47.254.87:990
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#217.30.10.18:9060
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#136.244.100.113:443
@@ -30,9 +26,6 @@ trojan://bpb-trojan@45.80.111.9:443?sni=bpb.my79801.com&peer=bpb.my79801.com&sec
 trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872?sni=ads.x5.ru&peer=ads.x5.ru&security=tls#172.236.2.42:19872
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.38.213:1331?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#153.121.38.213:1331
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443?security=tls#133.242.55.38:443
-vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?type=tcp&security=none#78.47.80.152:443
-vless://Warpi-Free-Vpn-In-GooglePlay@91.99.216.175:443?type=tcp&security=none#91.99.216.175:443
-vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?type=tcp&security=tls&sni=bitva.mail.ru&fp=chrome#37.18.14.103:443
 vless://a9791c57-9017-4151-a6e2-823930d4017c@91.107.255.79:443?type=grpc&security=none#91.107.255.79:443
 vless://0267c264-2d80-4eec-fc61-6a77e3e2fa93@128.140.14.218:8585?type=tcp&security=none#128.140.14.218:8585
 vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?type=ws&security=none&path=/#51.75.82.192:52167
@@ -62,5 +55,5 @@ hysteria2://a5a81a34-f257-11ef-ba82-f23c913c8d2b@4e96e80f-t6g1s0-t7wiup-1teuc.hk
 hysteria2://11303a62-9a33-11ee-be7f-f23c9164ca5d@6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com:443?sni=6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com&insecure=0#6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com:443
 hysteria2://0720c874-35e8-11ef-aa88-f23c913c8d2b@86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com:443?sni=86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com&insecure=0#86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com:443
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&congestion_control=cubic&udp_relay_mode=native&alpn=h3#40.233.77.57:52434
-trojan://sabb8n76-pwz9-hjhj-281o-e5metwwp6n9g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://oc27ulp4-foqt-qa3r-2o7x-idivi95l6u2s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0610yotk-z5qt-8grn-sgkh-aa7zjr1yyfdm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pc9kbrxz-14l0-tgq8-hfd8-nfybddbclm1u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
