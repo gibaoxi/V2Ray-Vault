@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-15 08:03:20
+Timestamp: 2025-12-15 11:49:05
 Total Channels: 117
 Successful Scrapes: 83
 Failed Scrapes: 0
@@ -9,12 +9,12 @@ freev2rayssr: 300 configs
 V2ray_Alpha: 246 configs
 LonUp_M: 200 configs
 DailyV2RY: 169 configs
+oneclickvpnkeys: 167 configs
 V2RAY_VMESS_free: 166 configs
+heyatserver: 165 configs
 V2rayNG3: 153 configs
-heyatserver: 139 configs
-oneclickvpnkeys: 137 configs
+FreakConfig: 134 configs
 CaV2ray: 132 configs
-FreakConfig: 128 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 v2rayng_1378: 93 configs
@@ -28,16 +28,16 @@ hopev2ray: 65 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
+v2rayngvpn: 53 configs
 v2rayngconfig: 52 configs
 yaney_01: 41 configs
-v2rayngvpn: 40 configs
 dailyv2ray: 40 configs
 VmessProtocol: 39 configs
 OutlineReleasedKey: 34 configs
-V2RAYROZ: 29 configs
 ZibaNabz: 28 configs
-customv2ray: 27 configs
 ev2rayy: 25 configs
+V2RAYROZ: 24 configs
+customv2ray: 22 configs
 sinavm: 21 configs
 tehranargo: 21 configs
 vmess_vless_v2rayng: 20 configs
@@ -55,8 +55,9 @@ FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
-PrivateVPNs: 16 configs
+v2ray_configs_pool: 17 configs
 v2rayvpnchannel: 16 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 freedomofinfor: 14 configs
 Vpnstable: 13 configs
@@ -67,14 +68,13 @@ freev2raym: 9 configs
 v2rayngfreee: 9 configs
 v2ngfast: 9 configs
 configV2rayForFree: 8 configs
-Network_442: 8 configs
 GrizzlyVPN: 8 configs
-proxy_kafee: 8 configs
 iraniv2ray: 8 configs
 ServerNett: 6 configs
 vip_vpn_2022: 6 configs
 server_nekobox: 6 configs
 v2raymelliii: 6 configs
+Network_442: 5 configs
 v2Source: 5 configs
 redfree8: 5 configs
 golestan_vpn: 5 configs
@@ -82,11 +82,11 @@ xroVPN: 5 configs
 proSSH: 5 configs
 AzadNet: 4 configs
 ultrasurf_12: 3 configs
-v2ray_configs_pool: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
 vmess_iran: 1 configs
 ZeusVPN_Net: 1 configs
+v2rayfree: 1 configs
 
 --- Failed Channels ---
