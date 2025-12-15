@@ -1,20 +1,20 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-15 19:47:19
+Timestamp: 2025-12-15 23:43:35
 Total Channels: 117
-Successful Scrapes: 82
+Successful Scrapes: 83
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-V2ray_Alpha: 246 configs
+V2ray_Alpha: 268 configs
 LonUp_M: 200 configs
-heyatserver: 198 configs
-oneclickvpnkeys: 164 configs
+heyatserver: 173 configs
+oneclickvpnkeys: 167 configs
 V2RAY_VMESS_free: 156 configs
 V2rayNG3: 153 configs
-DailyV2RY: 149 configs
 FreakConfig: 142 configs
 CaV2ray: 132 configs
+DailyV2RY: 125 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 Awlix_ir: 89 configs
@@ -24,11 +24,11 @@ v2rayng_1378: 71 configs
 Outline_Vpn: 69 configs
 configV2rayNG: 68 configs
 v2raying: 68 configs
-v2rayngvpn: 65 configs
 hopev2ray: 65 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
+v2rayngvpn: 55 configs
 v2rayngconfig: 52 configs
 VmessProtocol: 44 configs
 yaney_01: 41 configs
@@ -36,9 +36,8 @@ dailyv2ray: 40 configs
 OutlineReleasedKey: 34 configs
 sinavm: 30 configs
 ev2rayy: 25 configs
-V2RAYROZ: 24 configs
+tehranargo: 25 configs
 ZibaNabz: 24 configs
-tehranargo: 24 configs
 customv2ray: 22 configs
 vmess_vless_v2rayng: 20 configs
 free4allVPN: 20 configs
@@ -56,17 +55,18 @@ vpnstorefast: 18 configs
 v2rayvpnchannel: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
-PrivateVPNs: 16 configs
+V2RAYROZ: 16 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 freedomofinfor: 14 configs
 Vpnstable: 13 configs
 ConfigWireguard: 12 configs
 vpn_ocean: 10 configs
 NoForcedHeaven: 10 configs
-configV2rayForFree: 9 configs
 freev2raym: 9 configs
 v2rayngfreee: 9 configs
 v2ngfast: 9 configs
+configV2rayForFree: 8 configs
 GrizzlyVPN: 8 configs
 iraniv2ray: 8 configs
 ServerNett: 6 configs
@@ -77,11 +77,12 @@ v2raymelliii: 6 configs
 Network_442: 5 configs
 v2Source: 5 configs
 redfree8: 5 configs
-AzadNet: 5 configs
 golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
+AzadNet: 4 configs
 ultrasurf_12: 3 configs
+v2ray_configs_pool: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
