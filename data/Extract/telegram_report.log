@@ -1,20 +1,21 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-16 07:57:34
+Timestamp: 2025-12-16 11:47:45
 Total Channels: 117
-Successful Scrapes: 85
+Successful Scrapes: 84
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 V2ray_Alpha: 268 configs
+heyatserver: 202 configs
 LonUp_M: 200 configs
-oneclickvpnkeys: 167 configs
+ShadowsocksM: 161 configs
+FreakConfig: 156 configs
 V2RAY_VMESS_free: 156 configs
-FreakConfig: 154 configs
+oneclickvpnkeys: 154 configs
 V2rayNG3: 153 configs
 CaV2ray: 132 configs
 DailyV2RY: 125 configs
-heyatserver: 125 configs
 ViProxys: 100 configs
 vpnaloo: 99 configs
 Awlix_ir: 89 configs
@@ -23,22 +24,20 @@ v2raying: 76 configs
 v2rayng_1378: 71 configs
 Outline_Vpn: 69 configs
 hopev2ray: 65 configs
-ShadowsocksM: 63 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
 configfa: 59 configs
+v2rayngvpn: 55 configs
 v2rayngconfig: 52 configs
-v2rayngvpn: 47 configs
-VmessProtocol: 44 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
+VmessProtocol: 39 configs
 OutlineReleasedKey: 34 configs
-sinavm: 29 configs
 ZibaNabz: 28 configs
 ev2rayy: 25 configs
 tehranargo: 25 configs
-customv2ray: 22 configs
+sinavm: 24 configs
 vmess_vless_v2rayng: 20 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
@@ -50,16 +49,16 @@ freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
+v2nodes: 19 configs
 vpnstorefast: 18 configs
 v2rayvpnchannel: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
-v2nodes: 17 configs
-PrivateVPNs: 16 configs
 V2RAYROZ: 16 configs
+customv2ray: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 freedomofinfor: 14 configs
-v2ray_configs_pool: 14 configs
 Vpnstable: 13 configs
 ConfigWireguard: 12 configs
 proxy_kafee: 11 configs
@@ -87,8 +86,8 @@ ultrasurf_12: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
-v2rayfree: 2 configs
 vmess_iran: 1 configs
 ZeusVPN_Net: 1 configs
+v2rayfree: 1 configs
 
 --- Failed Channels ---
