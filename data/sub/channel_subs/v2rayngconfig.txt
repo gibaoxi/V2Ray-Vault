@@ -1,6 +1,16 @@
-trojan://3esgk0nx-bszd-i36v-oy5j-q59vhuqurm5n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/17 | 19:47
-trojan://9c2ucdfw-ihxf-nj7i-1dl2-wf3u01c6dhbt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rgisidkx-qphr-fhdq-jeff-ihm7q6nsvsff@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://36xn3izn-w7yj-k2ix-ibeb-94wb9puvsdgg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/17 | 23:44
+trojan://jzfef1zn-kgrv-2dht-n5um-fr6qshzxzq92@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vn24ny5j-j2pf-f9ib-mgdt-9svzc8yez984@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?sni=$fr1.trojanvh.xyz&peer=$fr1.trojanvh.xyz&security=tls#51.91.11.29:80
+trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?sni=vzwzasc.cn&peer=vzwzasc.cn&security=tls#104.149.155.13:443
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls#upload.soft98.download:443
+trojan://2380f07e-e54c-4645-8abe-50575b31f45f@ccfr1.cutcloudjd.site:458?security=tls#ccfr1.cutcloudjd.site:458
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@18-222-63-50.ipv4.rush.ml:8443?sni=18-222-63-50.ipv4.rush.ml&peer=18-222-63-50.ipv4.rush.ml&security=tls#18-222-63-50.ipv4.rush.ml:8443
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443?sni=170-187-134-190.ipv4.rush.ml&peer=170-187-134-190.ipv4.rush.ml&security=tls#170-187-134-190.ipv4.rush.ml:8443
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@18-222-63-50.ipv4.rush.ml:8443?sni=18-222-63-50.ipv4.rush.ml&peer=18-222-63-50.ipv4.rush.ml&security=tls#18-222-63-50.ipv4.rush.ml:8443
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443?sni=170-187-134-190.ipv4.rush.ml&peer=170-187-134-190.ipv4.rush.ml&security=tls#170-187-134-190.ipv4.rush.ml:8443
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443?sni=170-187-134-190.ipv4.rush.ml&peer=170-187-134-190.ipv4.rush.ml&security=tls#170-187-134-190.ipv4.rush.ml:8443
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443?sni=170-187-134-190.ipv4.rush.ml&peer=170-187-134-190.ipv4.rush.ml&security=tls#170-187-134-190.ipv4.rush.ml:8443
 trojan://xxoo@146.19.230.241:443?security=tls#146.19.230.241:443
 trojan://xxoo@138.124.183.226:443?security=tls#138.124.183.226:443
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@2.hg.kr.cat77.cloud:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#2.hg.kr.cat77.cloud:8443
@@ -24,6 +34,18 @@ trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&pe
 trojan://telegram-id-directvpn@15.222.9.61:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#15.222.9.61:22222
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?sni=$fr1.trojanvh.xyz&peer=$fr1.trojanvh.xyz&security=tls#51.91.11.29:80
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?sni=vzwzasc.cn&peer=vzwzasc.cn&security=tls#104.149.155.13:443
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6InZkZTIuMGJhZC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvY2hhdCIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6IjEyOS4xNTEuMTY0LjE1MiIsInBvcnQiOjU1NjAwLCJpZCI6ImUzMGY4NTg4LTI1NTUtNDhiOC1jMzU0LWM4ZTYzZjU3MjMyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6IjE0MS4xMDEuMTE0LjIyIiwicG9ydCI6NDQzLCJpZCI6IjkzNzlmZWEwLTAwNmQtNGZkMy04ZTM1LWQ0NWE1YWY3MmFhMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL1VNVzM2MjYyIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6IjE3Mi4xMDQuMTcxLjY0IiwicG9ydCI6ODAsImlkIjoiNWJiNmI1YzMtNDBkZC00YTFmLTlmNDMtODAyMzIwY2M1YjU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcHJvamVjdDRneXVuYS5wdyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjE5MC45My4yNDYuMiIsInBvcnQiOjQ0MywiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9FQ1RDSjBERiIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjE4NS4xNjIuMjI4LjIyOCIsInBvcnQiOjQ0MywiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9FQ1RDSjBERiIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjIwMy4zMC4xOTEuMTgiLCJwb3J0Ijo0NDMsImlkIjoiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjIwMy4zMC4xOTAuMTkwIiwicG9ydCI6NDQzLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0VDVENKMERGIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjE0MS4xMDEuMTE0LjE3IiwicG9ydCI6NDQzLCJpZCI6IjVmNjRmYTY1LTdiMTQtNDljNS05NTRkLWFhMTVjNmJmY2FjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjE3Mi42NC4xNTIuMTUwIiwicG9ydCI6NDQzLCJpZCI6IjVmNjRmYTY1LTdiMTQtNDljNS05NTRkLWFhMTVjNmJmY2FjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjIwMy4zMC4xOTEuMjAiLCJwb3J0Ijo0NDMsImlkIjoiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQmVzaGthbiIsImFkZCI6IjI1LnYyLXJheS5jeW91IiwicG9ydCI6MjM2MjUsImlkIjoiMGRkMTlkMjAtZWM4Ni0zNjgwLWIyNTYtODcyMzdiYWZhODllIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkgMjAiLCJhZGQiOiJuZXc2Lmh1Y2xvdWQtZG5zLnh5eiIsInBvcnQiOjQ0MywiaWQiOiIwYTVkYzg3Ny0wMjExLTQzNTItZjczYS04ZmJkYWU4MWQ2NzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzSU4tMTcyLjEwNS4zNy4xMTktNTI4OSIsImFkZCI6InZpbjEuMGJhZC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvY2hhdCIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhaHR0cHM6Ly90Lm1lL3Zwbl9pb3NzXHUwNjM5XHUwNjM2XHUwNjQ4IFx1MDYzNFx1MDY0OCIsImFkZCI6InZpcC5pcmFuY29pbnZpcC54eXoiLCJwb3J0Ijo4MCwiaWQiOiIwNjk1NzIzYi01NDgzLTRjYzAtYmY2MC04YWJkNTYzMTZiYTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
@@ -52,5 +74,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6Im15LmNvaWVueC5kZSIsInBvcnQiOjg4
 vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6InNob3AuY29pZW54LmRlIiwicG9ydCI6MjA1MiwiaWQiOiJlNTI2YTc0ZC0xZTQzLTRlNzYtODkwNC03NDlmOTQ2NjQwY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6IjE2Ny4xNzIuMTA4LjYwIiwicG9ydCI6NTg1MDIsImlkIjoiMTdkYWY1YzUtODkzMC00MDAzLTg2ZWEtZDYyMWJiZjE1Y2ViIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQkVTSEtBTiIsImFkZCI6Ijk1LjE3OS4xMjguMTQ1IiwicG9ydCI6MjA4MywiaWQiOiIxY2YyNjc5Zi04ZWM0LTRiMDctZDc1OC0xMzI1NzM4MjU4NTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://qzsv3sto-ct6b-bgtj-txfk-zrtvxpdpe28c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://m8bmzj8g-egj0-frp4-gpu4-xofhz3p1rp4d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ysao2p52-kuv0-p4et-sswc-wrvu7s6ojcm3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://892jq2vf-tg7e-a4u3-5sp6-ntqzkfup7vml@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
