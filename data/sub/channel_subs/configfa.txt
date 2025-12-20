@@ -1,6 +1,6 @@
-trojan://t4tpf3uq-4bll-vx4u-v20v-mhcsrqqasti7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/20 | 07:48
-trojan://ijlt0h0a-c4ec-rfb9-2aef-39jeh6oyq09v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e2h01m95-430d-7tkf-e7jp-eyyaa4jd6cil@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3aq11p4l-o6jl-bvok-0ggr-7t7g1ux5u50b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/20 | 11:45
+trojan://51p4jxe0-b002-flct-7k2g-8pk7smza5ghs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5dmu3guv-zmry-6u32-xe7d-w09j2e2bxkyr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#82.38.31.208:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#45.87.175.158:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#193.29.139.144:8080
@@ -22,7 +22,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsImFkZCI6
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IDI4IC0gQlIgLSBWTWVzcyAtIDM4MDM5IiwiYWRkIjoiMzguMTgwLjE2Ljg2IiwicG9ydCI6MzgwMzksImlkIjoiMjQ0YTM0NjQtMTI2OS00M2IzLWI0OTEtNGRjMjcxM2ViM2Y2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IDI5IC0gQlIgLSBWTWVzcyAtIDM2MTA0IiwiYWRkIjoiMzguMTgwLjE2Ljg2IiwicG9ydCI6MzYxMDQsImlkIjoiRTE0NkE4Q0ItOUQyRi00NDlDLUFEQ0EtODczNkZCIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IDMwIC0gQlIgLSBWTWVzcyAtIDM2MjM2IiwiYWRkIjoiMzguMTgwLjE2Ljg2IiwicG9ydCI6MzYyMzYsImlkIjoiYTU4YmMxYTUtOGMxOC00OWZmLTk0NTMtYzMzMWI1MmY0NWRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-vless://2dea744d-69b5-4a8c-aa28-8c8aa5c36143@nodemaazvk.irancpi.info:80?type=ws&security=tls&path=/api&fp=chrome#nodemaazvk.irancpi.info:80
 vless://6b92fc29-d721-4571-a616-e3ae4239ca05@vpscynk.samanidempire.org:443?type=ws&security=tls&path=/565c05ea&fp=chrome#vpscynk.samanidempire.org:443
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#statue.lnmarketplace.net:443
 vless://51be809d-3e82-4090-b14f-a42a32100ff9@deu637.webunlocked.org:443?type=tcp&security=tls&sni=deu637.webunlocked.org&fp=chrome&flow=xtls-rprx-vision-udp443#deu637.webunlocked.org:443
@@ -53,5 +52,6 @@ hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#2a01:
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#2001:bc8:32d7:302::11:20088
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#2a01:4f9:4b:f378::1:13599
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#77.90.41.197:35000
-trojan://cxysraff-7o6u-c31d-yhye-ql3nmmxd7mtx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://v4qjzt8w-w3c9-pgs8-0dkz-2c5pir5ebrjm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#77.90.41.197:35000
+trojan://qd5bwj5j-hqno-3de5-rha7-ntnepgcz08pb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jtegk632-feuf-1u8l-mlou-t1qso5mu2cej@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
