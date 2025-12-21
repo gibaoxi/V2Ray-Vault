@@ -1,35 +1,35 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-21 11:44:27
+Timestamp: 2025-12-21 15:48:48
 Total Channels: 117
 Successful Scrapes: 84
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-V2ray_Alpha: 270 configs
+V2ray_Alpha: 253 configs
+heyatserver: 211 configs
 LonUp_M: 200 configs
 ShadowsocksM: 191 configs
-heyatserver: 180 configs
-FreakConfig: 154 configs
+FreakConfig: 170 configs
 V2rayNG3: 152 configs
 CaV2ray: 132 configs
 V2RAY_VMESS_free: 129 configs
+oneclickvpnkeys: 119 configs
 configfa: 112 configs
 DailyV2RY: 109 configs
 configV2rayNG: 104 configs
 ViProxys: 100 configs
-oneclickvpnkeys: 100 configs
 vpnaloo: 98 configs
 Awlix_ir: 88 configs
-v2raying: 85 configs
+v2raying: 80 configs
 v2rayngconfig: 74 configs
 hopev2ray: 68 configs
-Outline_Vpn: 66 configs
 v2rayng_1378: 65 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
-v2rayngvpn: 55 configs
+Outline_Vpn: 58 configs
+v2rayngvpn: 57 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
 sinavm: 34 configs
@@ -44,26 +44,26 @@ FreeV2rays: 20 configs
 V2RAYROZ: 20 configs
 orange_vpns: 20 configs
 GetConfigIR: 20 configs
-IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
 v2nodes: 20 configs
 freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
+IP_CF_Config: 19 configs
 vpnstorefast: 18 configs
-v2rayfree: 18 configs
 freedom_config: 18 configs
-v2rayvpnchannel: 16 configs
 customv2ray: 15 configs
+v2rayfree: 15 configs
 PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 freedomofinfor: 14 configs
+v2rayvpnchannel: 14 configs
 Vpnstable: 13 configs
 ArV2ray: 12 configs
-NoForcedHeaven: 11 configs
 v2rayngfreee: 11 configs
 vpn_ocean: 10 configs
+NoForcedHeaven: 10 configs
 AzadNet: 10 configs
 An0nymousTeam: 10 configs
 v2ngfast: 10 configs
@@ -84,10 +84,10 @@ xroVPN: 5 configs
 proSSH: 5 configs
 bypass_filter: 3 configs
 Network_442: 2 configs
-ultrasurf_12: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
 vmess_iran: 1 configs
+ultrasurf_12: 1 configs
 ZeusVPN_Net: 1 configs
 
 --- Failed Channels ---
