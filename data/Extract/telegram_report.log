@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-23 08:00:18
+Timestamp: 2025-12-23 11:04:43
 Total Channels: 117
-Successful Scrapes: 84
+Successful Scrapes: 85
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -9,10 +9,10 @@ freev2rayssr: 300 configs
 V2ray_Alpha: 258 configs
 ShadowsocksM: 199 configs
 LonUp_M: 195 configs
+heyatserver: 185 configs
 V2rayNG3: 183 configs
-FreakConfig: 142 configs
 oneclickvpnkeys: 139 configs
-heyatserver: 135 configs
+FreakConfig: 133 configs
 CaV2ray: 132 configs
 V2RAY_VMESS_free: 129 configs
 configfa: 123 configs
@@ -23,20 +23,19 @@ vpnaloo: 98 configs
 Awlix_ir: 92 configs
 v2rayngconfig: 74 configs
 hopev2ray: 68 configs
+v2raying: 65 configs
+v2rayngvpn: 64 configs
 Outline_Vpn: 61 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
-v2raying: 59 configs
-v2rayngvpn: 50 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
 OutlineReleasedKey: 34 configs
 tehranargo: 34 configs
 sinavm: 31 configs
-v2rayng_1378: 27 configs
 ev2rayy: 25 configs
-V2RAYROZ: 22 configs
+v2rayng_1378: 22 configs
 vmess_vless_v2rayng: 20 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
@@ -48,11 +47,11 @@ v2nodes: 20 configs
 ZibaNabz: 20 configs
 freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
+V2RAYROZ: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 An0nymousTeam: 19 configs
 vpnstorefast: 18 configs
-v2ray_configs_pool: 18 configs
 freedom_config: 18 configs
 PrivateVPNs: 16 configs
 v2ray_for_free: 14 configs
@@ -70,6 +69,7 @@ NoForcedHeaven: 10 configs
 v2ngfast: 10 configs
 freev2raym: 9 configs
 GrizzlyVPN: 8 configs
+v2ray_configs_pool: 8 configs
 iraniv2ray: 8 configs
 configV2rayForFree: 7 configs
 ServerNett: 6 configs
@@ -81,12 +81,13 @@ golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
 server_nekobox: 4 configs
+v2rayfree: 3 configs
 bypass_filter: 3 configs
 Network_442: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 Ln2Ray: 2 configs
-v2rayfree: 2 configs
 vmess_iran: 1 configs
+ultrasurf_12: 1 configs
 ZeusVPN_Net: 1 configs
 shadowproxy66: 1 configs
 
