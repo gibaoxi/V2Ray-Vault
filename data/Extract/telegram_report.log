@@ -1,13 +1,13 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-23 11:55:11
+Timestamp: 2025-12-23 11:59:27
 Total Channels: 117
-Successful Scrapes: 85
+Successful Scrapes: 84
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 V2ray_Alpha: 258 configs
-heyatserver: 217 configs
+heyatserver: 222 configs
 ShadowsocksM: 199 configs
 LonUp_M: 195 configs
 V2rayNG3: 183 configs
@@ -80,8 +80,7 @@ golestan_vpn: 5 configs
 xroVPN: 5 configs
 proSSH: 5 configs
 server_nekobox: 4 configs
-v2ray_configs_pool: 4 configs
-v2rayfree: 3 configs
+v2rayfree: 4 configs
 bypass_filter: 3 configs
 Network_442: 2 configs
 Ahmedhamoomi_Servers: 2 configs
