@@ -62,8 +62,8 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb.mmdb"
 
-    # REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/gibaoxi/V2Ray-Vault/refs/heads/main/data/telegram_channels.json"
-    # REMOTE_SUBS_URL = "https://raw.githubusercontent.com/gibaoxi/V2Ray-Vault/refs/heads/main/data/subscription_link.json"
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/gibaoxi/V2Ray-Vault/refs/heads/main/data/telegram_channels.json"
+    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/gibaoxi/V2Ray-Vault/refs/heads/main/data/subscription_link.json"
     GEOIP_DB_URL = "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
     GEOIP_ASN_DB_URL = "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-ASN.mmdb"
 
