@@ -32,8 +32,8 @@ jobs:
 
       - name: Download GeoLite databases
         run: |
-          curl -L -o data/GeoLite2-Country.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb
-          curl -L -o data/GeoLite2-ASN.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb
+          curl -L -o data/Country.mmdb https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+          curl -L -o data/GeoLite2-ASN.mmdb https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-ASN.mmdb
 
       - name: Run script
         run: |
