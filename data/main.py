@@ -55,7 +55,7 @@ class AppConfig:
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
-    SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
+    SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_link.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     SEEN_CONFIGS_FILE = DATA_DIR / "seen_configs.json"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
