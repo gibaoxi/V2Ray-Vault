@@ -46,8 +46,6 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "action@github.com"
           git add -A
-          git add working_proxy_test_results.txt
-          git add full_proxy_test_results.txt
           if ! git diff --staged --quiet; then
             git commit -m "🌐 Update configs $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S %Z')"
             git push --force
