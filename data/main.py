@@ -928,9 +928,16 @@ class ConfigProcessor:
             console=console
         ) as progress:
             ping_task = progress.add_task("pinging", total=len(configs_to_test))
-            
-            tasks = [self._test_tcp_connection(config) for config in configs_to_test]
+            # 添加并发控制
+            semaphore = asyncio.Semaphore(CONFIG.CONNECTIVITY_TEST_CONCURRENCY)
+
+            async def bounded_test(config):
+                async with semaphore:
+                    return await self._test_tcp_connection(config)
+
+            tasks = [bounded_test(config) for config in configs_to_test]
             results = await asyncio.gather(*tasks)
+
 
             for config, ping_result in zip(configs_to_test, results):
                 if ping_result is not None:
