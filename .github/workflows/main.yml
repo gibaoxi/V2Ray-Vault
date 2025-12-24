@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
+          pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich aiohttp
 
       - name: Create data and sub directories
         run: |
@@ -38,6 +38,7 @@ jobs:
       - name: Run script
         run: |
           python data/main.py
+          python data/test.py
         continue-on-error: false
 
       - name: Commit and push if there are changes
@@ -45,6 +46,8 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "action@github.com"
           git add -A
+          git add working_proxy_test_results.txt
+          git add full_proxy_test_results.txt
           if ! git diff --staged --quiet; then
             git commit -m "🌐 Update configs $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S %Z')"
             git push --force
