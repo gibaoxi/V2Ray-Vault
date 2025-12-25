@@ -37,6 +37,7 @@ jobs:
 
       - name: Run script
         run: |
+          python data/add.py
           python data/main.py
         continue-on-error: false
 
