@@ -5,7 +5,7 @@ from datetime import datetime
 def update_subscription_links():
     """更新订阅链接JSON文件"""
     # 当前脚本在data文件夹下，Extract也在data文件夹下
-    json_file_path = "Extract/subscription_link.json"
+    json_file_path = "./Extract/subscription_link.json"
     
     print(f"当前工作目录: {os.getcwd()}")
     print(f"JSON文件路径: {json_file_path}")
