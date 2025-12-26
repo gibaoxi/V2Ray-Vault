@@ -22,7 +22,7 @@ def get_valid_link(max_days_back=7):
     获取有效的链接，最多回溯max_days_back天
     返回: 有效的链接
     """
-    base_url = "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v"
+    base_url = "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v1"
     current_date = datetime.now()
     
     print(f"开始检测链接有效性（最多回溯{max_days_back}天）...")
