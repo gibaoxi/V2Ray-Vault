@@ -1,9 +1,10 @@
-trojan://5jll5vgf-dv1c-mf38-3szo-pbfznfmvkqrq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/27 | 05:38
-trojan://7d0maguq-ghyf-hj7a-j4t5-mgxcziez8l9g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uy3xxbre-rc89-2s5d-igs7-fm6kylijz1lw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&security=reality#CA 🇨🇦 ┇ VLESS-TCP-RLT - TANGRAM-CANADA-INC ┇ 85.208.108.136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 193.203.203.66
+trojan://xdqxvtc7-aubz-jdmp-g6y1-82soa8yqxihk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/27 | 23:51
+trojan://o8iqdvtc-pvjx-ulzs-xhix-6pkbgdhalbxe@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://61dvi34y-20mk-p9vm-ucwg-wg8qvqpfzgbx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 79.127.200.169
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 144.217.164.29
-trojan://mbdcfj0n-f0ci-g9jq-gjx2-z2z12xobpnrf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kfzunycv-c4tu-uhmr-yt34-63v2jh92m2mz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#CA 🇨🇦 ┇ VLESS-TCP-RLT - TANGRAM-CANADA-INC ┇ 85.208.108.136
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&security=none&path=/39427/Nextlife#CA 🇨🇦 ┇ VLESS-WS-NTLS - IWEB-AS ┇ 198.50.119.86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - TANGRAM-CANADA-INC ┇ 193.203.203.66
+trojan://6xn735i0-nn54-okmd-9rau-7r42fit3jeks@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://92xp7wl1-mhqb-v7bg-xrxr-l9t8blmom06s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
