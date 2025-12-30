@@ -1,68 +1,84 @@
-trojan://otdgjh3w-b0jn-1hta-y506-eejmzkhi3ok0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/29 | 23:54
-trojan://rdgnmt19-sjz5-k9qs-l5si-xht27vgw80jf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tmgaubtj-7g04-9hl4-fm2b-l0joc6aw4yuh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?sni=www.bing.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 92.5.77.25
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.147.52.24
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.84.168.238
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.231.56
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?sni=batam3.nezhasu.com&insecure=1#ID 🇮🇩 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 168.110.200.69
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0Ni41Ni4xMTIuMTEwIiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0Ijo4ODg4LCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@marseille-1.nezhasu.com:443?sni=marseille-1.nezhasu.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.255.22
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.253.247:443?sni=mumbai-4.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 80.225.253.247
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?sni=johannesburg-4.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.134.242
-vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@fr1.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.polytechnique.edu&fp=chrome&flow=xtls-rprx-vision&pbk=rwVEzFYApBX36aesyNs4kHYdTtWLjXa50n1PQgGVxC8&sid=f8324be96bf7b2#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 141.145.195.21
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.153.59.26
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@137.131.149.26:443?sni=bx1.nezhasu.com&insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 137.131.149.26
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?sni=SanJose.nezhasu.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.55.17
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?sni=yn2.nezhasu.com&insecure=1#ID 🇮🇩 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 168.110.193.212
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDYuNTYuMTc3LjE2NiIsImFkZCI6InNlb3VsMDMuemdqb2suY29tIiwicG9ydCI6NDQzLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZW91bDAzLnpnam9rLmNvbSJ9
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#BR 🇧🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 167.234.255.2
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?sni=lundun2.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.145.68.142
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun4.nezhasu.com:443?sni=lundun4.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 143.47.255.104
-hysteria2://bb780ec8-8c7b-4830-9902-880bdbbd4704@143.47.32.143:443?sni=www.lamer.com.hk&insecure=1#ES 🇪🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 143.47.32.143
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=tls&sni=yahoo.com&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.100.35
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?sni=gysbl-2.nezhasu.com&insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 152.67.50.33
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNjEuMTE4LjE0OC4yMjciLCJhZGQiOiJsdjQuNzg5OTAwLnh5eiIsInBvcnQiOjIwODcsImlkIjoiN2RkMTZhYjEtMmEzNi00YjMyLTg2ZmQtZWI0OWZiMDM5NzUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibHY0Ljc4OTkwMC54eXoiLCJwYXRoIjoiLzdkZDE2YWIxLTJhMzYtNGIzMi04NmZkLWViNDlmYjAzOTc1Mi12bSIsInRscyI6InRscyIsInNuaSI6Imx2NC43ODk5MDAueHl6In0
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@89.168.80.242:443?sni=gydeguo-4.nezhasu.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 89.168.80.242
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.82.111
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTkzLjEyMi4xMTkuMzQiLCJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwicG9ydCI6MTE4MjcsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYnZkZnl1ZXVzZiJ9
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.68.133
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@140.238.247.224:443?sni=mumbai-2.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.247.224
+trojan://97molq9i-61cv-tnxp-e5ge-jnj3aank0v0z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/30 | 23:54
+trojan://njyljdrq-2w1o-qbb4-ceb5-djxz7f1dcyo3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uvivn98v-hix1-b85d-w5cx-7r7oncc98ov3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@158.180.79.168:64413?sni=chuncheon-2.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.180.79.168
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.196.14:443?sni=mumbai-3.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 80.225.196.14
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 204.216.216.23
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjE2MS4xNTUiLCJhZGQiOiIxNTIuNjcuMTYxLjE1NSIsInBvcnQiOjE3MzU1LCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIn0
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?sni=phoenix-1.nezhasu.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 137.131.49.27
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?sni=moxige1.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.132.55
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.139.236
-vless://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@132.145.96.111:40106?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=gqmHb9i4USmQ78auzhAFJMQIrUpnq8QaykJgnjHDTBg&sid=f44fd3dd#CA 🇨🇦 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 132.145.96.111
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@161.153.219.158:443?sni=gysdyg-2.nezhasu.com&insecure=1#CL 🇨🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 161.153.219.158
-vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@nl2.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.philips.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI&sid=883d8dad940eb1#NL 🇳🇱 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.101.217.52
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.101.207.1
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.180.77.90
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.101.176
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun3.nezhasu.com:443?sni=lundun3.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.230.205
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.246.181:443?sni=amsterdam.nezhasu.com&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.246.181
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.137.165
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.83.110
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?sni=glby1.nezhasu.com&insecure=1#CL 🇨🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.115.91
-vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@nl1.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.philips.com&fp=chrome&flow=xtls-rprx-vision&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#NL 🇳🇱 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.101.208.130
-vless://bb780ec8-8c7b-4830-9902-880bdbbd4704@130.162.220.137:443?type=tcp&security=reality&sni=www.lamer.com&fp=chrome&flow=xtls-rprx-vision&pbk=UV34T0S_VyVcChA2Tb9MIbg4tr1mHGMr_Lw5Gvb17F8&sid=66ed2fdd#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 130.162.220.137
-vless://2429bee3-e0c1-47dd-b420-75e6512b184b@140.238.155.160:42557?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d#CA 🇨🇦 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.155.160
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?sni=johannesburg-3.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.134.187
-hysteria2://bb780ec8-8c7b-4830-9902-880bdbbd4704@129.151.251.122:443?sni=www.lamer.com.hk&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.251.122
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.138.123:443?sni=johannesburg-1.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.138.123
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@144.24.181.150:443?sni=falankefu1.nezhasu.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.181.150
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.80.237
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi43MC45Mi42OSIsImFkZCI6IjE1Mi43MC45Mi42OSIsInBvcnQiOjgwLCJpZCI6ImJiOWMzOTkzLWE0YjktNGRhZC1hZWI5LWFjODYzNzFhZTY4YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.162.10
-vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@fr2.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.polytechnique.edu&fp=chrome&flow=xtls-rprx-vision&pbk=K-I11Oh3xcz6Rgya6uqF1fts86xQSOEGNgoeN39TMk4&sid=0bbfa66b#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.178.207.120
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?sni=mumbai-1.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.23.60
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?sni=johannesburg-2.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.187.70
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?sni=du.wish.ml&insecure=1#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 193.123.76.141
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.137.165
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?sni=glby1.nezhasu.com&insecure=1#CL 🇨🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.115.91
+vless://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@132.145.96.111:40106?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=gqmHb9i4USmQ78auzhAFJMQIrUpnq8QaykJgnjHDTBg&sid=f44fd3dd#CA 🇨🇦 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 132.145.96.111
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTY4LjEzOC42OC4zNiIsImFkZCI6IjE2OC4xMzguNjguMzYiLCJwb3J0IjoxNDI1MiwiaWQiOiI1Mjc2ODU1Mi1jMmIyLTQ0NjAtODlmMS1lNzQwY2MxNDViOTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MtcGF0aCJ9
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.103.51
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@140.238.247.224:443?sni=mumbai-2.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.247.224
+vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@nl1.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.philips.com&fp=chrome&flow=xtls-rprx-vision&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#NL 🇳🇱 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.101.208.130
+hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.147.52.24
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.80.237
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@uk1.miyazono-kaori.com:443?type=tcp&security=tls&sni=www.bp.com&fp=safari&flow=xtls-rprx-vision-udp443#GB 🇬🇧 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 132.145.25.169
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?sni=mumbai-1.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.23.60
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun3.nezhasu.com:443?sni=lundun3.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.230.205
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.153.59.26
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDYuNTYuMTc3LjE2NiIsImFkZCI6InNlb3VsMDMuemdqb2suY29tIiwicG9ydCI6NDQzLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.231.56
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@140.245.50.48:60717?sni=singaporex-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#SG 🇸🇬 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.50.48
+vless://bb780ec8-8c7b-4830-9902-880bdbbd4704@130.162.220.137:443?type=tcp&security=reality&sni=www.lamer.com&fp=chrome&flow=xtls-rprx-vision&pbk=UV34T0S_VyVcChA2Tb9MIbg4tr1mHGMr_Lw5Gvb17F8&sid=66ed2fdd#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 130.162.220.137
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@nl2.miyazono-kaori.com:443?type=tcp&security=tls&sni=www.philips.com&fp=firefox&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 158.101.217.52
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@144.24.181.150:443?sni=falankefu1.nezhasu.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.181.150
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.139.236
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?sni=phoenix-1.nezhasu.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 137.131.49.27
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.101.176
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@marseille-1.nezhasu.com:443?sni=marseille-1.nezhasu.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.255.22
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@150.230.4.133:57277?sni=db1.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#JP 🇯🇵 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 150.230.4.133
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@us12.miyazono-kaori.com:443?type=tcp&security=tls&sni=download-porter.hoyoverse.com&fp=ios&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.87.65
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@us10.miyazono-kaori.com:443?type=tcp&security=tls&sni=download-porter.hoyoverse.com&fp=qq&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.78.18
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.180.77.90
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@89.168.80.242:443?sni=gydeguo-4.nezhasu.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 89.168.80.242
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?sni=SanJose.nezhasu.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.55.17
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 204.216.216.23
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?sni=gysbl-2.nezhasu.com&insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 152.67.50.33
+vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?type=ws&security=none&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 158.178.234.153
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0Ni41Ni4xMTIuMTEwIiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0Ijo4ODg4LCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=tls&sni=yahoo.com&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.100.35
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@137.131.149.26:443?sni=bx1.nezhasu.com&insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 137.131.149.26
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@129.153.204.12:62103?sni=phoenix-3.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.153.204.12
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.246.181:443?sni=amsterdam.nezhasu.com&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.246.181
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?sni=moxige1.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 163.192.132.55
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#BR 🇧🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 167.234.255.2
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.138.123:443?sni=johannesburg-1.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.138.123
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@us1.miyazono-kaori.com:443?type=tcp&security=tls&sni=download-porter.hoyoverse.com&fp=firefox&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.248.29
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?sni=falankefu1.nezhasu.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 79.76.111.33
-trojan://nlbkqxk5-0lch-jt1w-fg5e-vr3pcplryday@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://t62wx1fo-wh2o-wr0b-72qf-c8gb0f3poeti@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.103.51
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@144.24.2.103:54759?sni=phoenix-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.2.103
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?sni=johannesburg-3.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.134.187
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.162.10
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=1#MX 🇲🇽 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.84.168.238
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.44.35:51500?sni=ashburn-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.44.35
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?sni=johannesburg-2.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 145.241.187.70
+hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?sni=www.bing.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 92.5.77.25
+vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@fr1.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.polytechnique.edu&fp=chrome&flow=xtls-rprx-vision&pbk=rwVEzFYApBX36aesyNs4kHYdTtWLjXa50n1PQgGVxC8&sid=f8324be96bf7b2#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 141.253.99.5
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@140.238.155.160:42557?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d#CA 🇨🇦 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.155.160
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun4.nezhasu.com:443?sni=lundun4.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 143.47.255.104
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTMyLjIyNi4xMC4yMjgiLCJhZGQiOiIxMzIuMjI2LjEwLjIyOCIsInBvcnQiOjQ2MjExLCJpZCI6IjU1ZWNiNTBjLWUxM2UtNDBhOS1hZTRmLTNmMjc2M2U0ZThmNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIn0
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.253.247:443?sni=mumbai-4.nezhasu.com&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 80.225.253.247
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@161.153.219.158:443?sni=gysdyg-2.nezhasu.com&insecure=1#CL 🇨🇱 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 161.153.219.158
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@us2.miyazono-kaori.com:443?type=tcp&security=tls&sni=download-porter.hoyoverse.com&fp=ios&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.227.38
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@132.226.29.29:51409?sni=phoenix-4.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.29.29
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?sni=yn2.nezhasu.com&insecure=1#ID 🇮🇩 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 168.110.193.212
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?sni=johannesburg-4.nezhasu.com&insecure=1#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 84.8.134.242
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@132.226.99.211:64015?sni=phoenix-2.nezhasu.cn&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.99.211
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?sni=batam3.nezhasu.com&insecure=1#ID 🇮🇩 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 168.110.200.69
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.68.133
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjE2MS4xNTUiLCJhZGQiOiIxNTIuNjcuMTYxLjE1NSIsInBvcnQiOjE3MzU1LCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIn0
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.83.110
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@130.162.157.157:52706?sni=shouer.nezhasu.com&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 130.162.157.157
+vless://582f44d4-4511-402c-a0b7-b5771a2a5c9d@us11.miyazono-kaori.com:443?type=tcp&security=tls&sni=download-porter.hoyoverse.com&fp=firefox&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.26.72
+vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@fr2.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.polytechnique.edu&fp=chrome&flow=xtls-rprx-vision&pbk=K-I11Oh3xcz6Rgya6uqF1fts86xQSOEGNgoeN39TMk4&sid=0bbfa66b#FR 🇫🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 89.168.37.23
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?sni=lundun2.nezhasu.com&insecure=1#GB 🇬🇧 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.145.68.142
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?sni=www.bing.com&insecure=1#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 40.233.82.111
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTkzLjEyMi4xMTkuMzQiLCJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwicG9ydCI6MTE4MjcsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYnZkZnl1ZXVzZiJ9
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@146.235.19.84:50563?sni=singapore.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#SG 🇸🇬 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 146.235.19.84
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?sni=du.wish.ml&insecure=1#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 193.123.76.141
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNjEuMTE4LjE0OC4yMjciLCJhZGQiOiJsdjQuNzg5OTAwLnh5eiIsInBvcnQiOjIwODcsImlkIjoiN2RkMTZhYjEtMmEzNi00YjMyLTg2ZmQtZWI0OWZiMDM5NzUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibHY0Ljc4OTkwMC54eXoiLCJwYXRoIjoiLzdkZDE2YWIxLTJhMzYtNGIzMi04NmZkLWViNDlmYjAzOTc1Mi12bSIsInRscyI6InRscyIsInNuaSI6Imx2NC43ODk5MDAueHl6In0
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjguMjA1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+trojan://gn11qaib-isrs-sk97-5zea-enm9mnf03170@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6hm1e2sl-pkru-4qd6-f4p2-21w5pi05zs76@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
