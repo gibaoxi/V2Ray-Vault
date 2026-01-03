@@ -1,16 +1,20 @@
-trojan://4gmg3z7e-0vcb-3gif-z0gx-kpwy7crqp0q5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/02 | 23:53
-trojan://mt63hctc-xtsj-plmk-l5ag-bfe8x09pclzd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q3cbutl8-tw2e-xlbe-c3xe-pu48ztqxbp66@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@140.245.50.48:60717?sni=singaporex-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#SG 🇸🇬 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.50.48
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@158.180.79.168:64413?sni=chuncheon-2.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.180.79.168
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@150.230.4.133:57277?sni=db1.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#JP 🇯🇵 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 150.230.4.133
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@132.226.99.211:64015?sni=phoenix-2.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.99.211
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@130.162.157.157:52706?sni=shouer.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 130.162.157.157
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.44.35:51500?sni=ashburn-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.44.35
-tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR 🇫🇷 ┇ TUIC-TCP-NTLS - Scaleway S.a.s. ┇ 2001:bc8:32d7:302::16
+trojan://xzc1j361-yz4p-03e2-0f7u-3ktzrnue0y55@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/03 | 23:53
+trojan://bieutg2o-zche-wka4-wwgc-7yrrwwms244u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ss8acr53-e44r-ej1m-6zyg-qnajt57a5ldh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-4.nezhasu.com:56438?sni=phoenix-4.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.108.191
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@129.153.204.12:62103?sni=phoenix-3.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.153.204.12
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@144.24.2.103:54759?sni=phoenix-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 144.24.2.103
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@150.230.4.133:57277?sni=db1.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#JP 🇯🇵 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 150.230.4.133
+tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR 🇫🇷 ┇ TUIC-TCP-NTLS - Scaleway S.a.s. ┇ 2001:bc8:32d7:302::16
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-1.nezhasu.cn:61233?sni=phoenix-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.72.173
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@130.162.157.157:52706?sni=shouer.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 130.162.157.157
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@140.245.50.48:60717?sni=singaporex-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#SG 🇸🇬 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.245.50.48
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@146.235.19.84:50563?sni=singapore.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#SG 🇸🇬 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 146.235.19.84
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.44.35:51500?sni=ashburn-1.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 141.148.44.35
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-2.nezhasu.cn:55374?sni=phoenix-2.nezhasu.cn&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.99.211
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.255.22:61823?sni=marseille-1.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR 🇫🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.255.22
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@158.180.79.168:64413?sni=chuncheon-2.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#KR 🇰🇷 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.180.79.168
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@132.226.29.29:51409?sni=phoenix-4.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.29.29
-trojan://e17czu17-yx6x-1a1p-nind-l8fbjbm326yu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://223d2485-m74y-18xi-1z48-1kii2r54xa43@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-3.nezhasu.com:51282?sni=phoenix-3.nezhasu.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.226.65.135
+trojan://8p8d62lo-wdla-x0u9-icyd-sl3rsdpgm5oj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://35q5ylnv-72tf-5vfn-rwhb-zisudafefmy5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
