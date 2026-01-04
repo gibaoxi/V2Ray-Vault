@@ -1,8 +1,11 @@
-trojan://14jxmhn1-n4pi-qmo0-etca-t8pzs1svsfer@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/03 | 23:53
-trojan://mbh3o5ta-r0z5-pon2-6a3y-7rfbnbvb8w1h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4fgy4h3n-b7jm-otfg-br4s-dvi9hzjb45ky@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://fbma0oiy-71ij-1vuy-xcjg-jwyf09yq5yu9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/04 | 23:53
+trojan://603dl0kc-p9zd-uxo9-f55d-ra4wvwv48hh5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://j5idzteg-oci8-jtw1-p3jw-ccru7omg00sz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUtJTEUgTFREIFx1MjUwNyA4My4xNDcuMTMuMjI4IiwiYWRkIjoiODMuMTQ3LjEzLjIyOCIsInBvcnQiOjgwODAsImlkIjoiMjZkNzdkN2EtZDRlYS00MGNkLThkYTUtNTRhOWM4NGU3MzYyIiwiYWlkIjowLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9lYy1NY0F1dGgvaW5kZXgifQ
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 155.117.228.70
 ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - AKILE LTD ┇ 141.11.91.238
-trojan://vmtpllz6-2zsk-j3x0-86pa-i93ro7lm6grh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nvhp841e-gdu8-9bdc-zh34-sgtcp5vmrnl8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@85.208.104.42:10001?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&sid=2afe4310#HK 🇭🇰 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 85.208.104.42
+vless://93b99881-df03-4597-9146-0c11e46387f7@166.0.188.128:17251?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - AKILE LTD ┇ 166.0.188.128
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 155.117.228.70
+trojan://5a2c16f9@193.246.161.65:54310?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 193.246.161.65
+trojan://cd96prwh-27zf-2zd7-viw2-s7ijlv70jrjs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cnelxbxh-vke5-9vf1-ck2o-styoyyup2a87@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
