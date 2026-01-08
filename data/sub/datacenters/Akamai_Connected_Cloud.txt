@@ -1,61 +1,31 @@
-trojan://yhq90mpz-mu2l-t42g-1eee-dctrtky6t0mv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/07 | 23:56
-trojan://3qgwna0y-ww7w-98vg-lro3-knd1u95jjzck@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hg2k4151-wu77-a47c-agsk-kw7lwocddy5v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.251.52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V1E4YnVQNkxtUmJRR2FDb09KcjB1@172.233.56.110:50876#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.56.110
-vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.3.132:443?type=xhttp&security=none&path=/#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.105.3.132
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.19.143:443?type=xhttp&security=none&path=/#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.105.19.143
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.128.126
-vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 139.162.145.100
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 45.79.10.46
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.236.103.104
-vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.232.33.18
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.162.130.101:6679#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.130.101
-vless://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6ib1DpWTjJsAkeN4kKDY1TcAt0wJAPmHwthGk76dBxg&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.234.67.151
-vless://78978fb6-14b7-4ea1-9a6e-42e81fb71514@sub2.mobileamin.shop:2087?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=o4r-q0TirHVlQv7sNRNBdsATNgIizctX86fqG9MGDB0&sid=a1#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.104.225.195
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&peer=api.avito.ru&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
-vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.104.178
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTQ4LjU2IiwiYWRkIjoiMTcyLjIzMi4xNDguNTYiLCJwb3J0Ijo4NDQyLCJpZCI6ImVjZTc3YzUyLTMzMGUtNDgwNS1iOGY1LTcwNDU2M2YxM2FjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.148.48
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.162.132.116:8881#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.132.116
+trojan://hn17i1mu-0drf-lc31-tmks-i5ozj3rm1a39@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/08 | 23:55
+trojan://vrbewwa2-gm4s-f17t-4py6-fvib26lovu17@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2gmsz42z-urh5-0t64-v2n7-7y11f349i6m8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://628a1148-09a4-4808-b484-806f6206e6ba@iran-france.turboo-server.com:80?type=ws&security=none&path=/ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - Akamai Connected Cloud ┇ 172.234.187.25
-vless://ef9efcb4-45d2-42c6-bfed-ec41e873640e@172.236.237.64:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.236.237.64
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:5600#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.39.228
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@172.104.50.106:8009#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.50.106
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.180.227:6679#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.180.227
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.54.131:6697#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.54.131
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.139.42
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&security=none&path=/#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.105.26.226
-vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 45.79.223.65
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE0My40Mi43LjYzIiwiYWRkIjoiMTQzLjQyLjcuNjMiLCJwb3J0Ijo4ODgxLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzQuMTMyLjIzMiIsImFkZCI6IjE3Mi4yMzQuMTMyLjIzMiIsInBvcnQiOjEwMDAxLCJpZCI6ImE2Yjk5YzA1LThlMGEtNGY3ZS1iZjdiLWU0YjlmZWJiOTU4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.57.233
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0@xxx.90908585.ir:8080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.43.98
-vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=vless3.datatestvless.click#JP 🇯🇵 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 139.162.83.106
-vless://cdf14827-fe62-4e6d-8b8b-c843dbbc35ec@172.236.241.240:10001?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=uIcE85oRMSLFrx1TfckXV2GRgQhqfgyQChI-gOVavwU&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.236.241.240
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.244.165:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
-vless://2d0da9ec-c284-4136-80c9-cfb421c7e4fc@172.232.190.207:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.232.190.207
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.239.252:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.234.239.252
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.251.193:8090#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.251.193
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.39.228
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.244.165:7306#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V1E4YnVQNkxtUmJRR2FDb09KcjB1@172.233.56.110:50876#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.56.110
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.199.111
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3MC4xODcuMTYzLjg5IiwiYWRkIjoiMTcwLjE4Ny4xNjMuODkiLCJwb3J0Ijo4ODgxLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.57.184
-vless://f8629dd0-239a-4a44-b4c0-8041f5e403ca@172.105.18.242:443?type=xhttp&security=none&path=/#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.105.18.242
-vless://afb48f0d-0b6d-45a2-9ad0-500e30d0c2a0@104.237.130.169:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 104.237.130.169
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.104.44.88:6679#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.44.88
-vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.238.190.16
-vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.235.154.239:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.235.154.239
-vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.33.115.7:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.115.7
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d2laamtMaXU3YWhHd0xORGdoZ1lYdHowRkhWMGxDQXFybHpqVFlUbXIvYz06ZGVtRWt5bVVrUnZHNjNFZDdGMmIxUDZwVHVHQUE5MEkwTGZLeGdiVUZkOD0@139.162.102.16:46965#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.102.16
-vless://b5e5c843-eb6b-438d-93c5-4faa71780ac4@139.162.146.9:443?type=splithttp&security=none#DE 🇩🇪 ┇ VLESS-SPLITHTTP-RLT - Akamai Connected Cloud ┇ 139.162.146.9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE0My40Mi43LjYzIiwiYWRkIjoiMTQzLjQyLjcuNjMiLCJwb3J0Ijo4ODgxLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMjM0LjI0LjIxMSIsImFkZCI6ImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUiLCJwb3J0Ijo0NDMsImlkIjoiNTQyOGRjYzItOTk1MC00NDA0LWI4YTUtOWRhYzgyYWNiMjEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSJ9
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.24.50:8888#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.24.50
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0@139.162.72.96:22060#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.72.96
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.162.58.13:8119#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.58.13
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.54.131:6697#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.54.131
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0@xxx.90908585.ir:8080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.43.98
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.162.132.116:8881#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.132.116
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3MC4xODcuMTYzLjg5IiwiYWRkIjoiMTcwLjE4Ny4xNjMuODkiLCJwb3J0Ijo4ODgxLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.104.44.88:6679#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.44.88
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.139.42
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.180.227:6679#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.180.227
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?sni=www.fuzzyfeelergauge.click&peer=www.fuzzyfeelergauge.click&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.236.171.37
-vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.234.130.82
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@96.126.118.94:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 96.126.118.94
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.233.181.175:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 172.233.181.175
-vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@v6.netherlands.packageclub.net:2087?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Akamai Connected Cloud ┇ 172.234.24.211
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMjM5LjU3LjExNyIsImFkZCI6ImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUiLCJwb3J0Ijo0NDMsImlkIjoiNTQyOGRjYzItOTk1MC00NDA0LWI4YTUtOWRhYzgyYWNiMjEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSJ9
-trojan://j0m02wrg-i146-3pla-mhel-koz1vdgx9goj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://z30nd3vr-u3i7-o0pm-6q95-wk665q2rq8nm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=vless3.datatestvless.click#JP 🇯🇵 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 139.162.83.106
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.58.13:3389#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.58.13
+vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@v4.germany.packageclub.net:2096?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Akamai Connected Cloud ┇ 172.239.57.117
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.128.126
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzQuMTMyLjIzMiIsImFkZCI6IjE3Mi4yMzQuMTMyLjIzMiIsInBvcnQiOjEwMDAxLCJpZCI6ImE2Yjk5YzA1LThlMGEtNGY3ZS1iZjdiLWU0YjlmZWJiOTU4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.57.233
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.162.130.101:6679#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.130.101
+trojan://iwptp038-dx1k-046t-gn7u-n5trvwkpaajo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://84ki2568-17uf-m4r6-dy33-kx9eibzanq8v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
