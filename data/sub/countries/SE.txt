@@ -1,42 +1,34 @@
-trojan://gms5ro9w-ljh7-0lft-o54y-37kv75oni4wh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/16 | 23:55
-trojan://jn8y8woz-0ziw-jgx5-wivy-426oey97u8ez@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://m7fnxbvc-xbzl-3c8w-3zul-q4sytzt9l2fx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://k4q33cml-jq56-9n70-14x5-lzmhycnrtvaq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/17 | 23:51
+trojan://clbmue8x-kxqc-pzpo-shf9-mve06yigjwoz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2gupxwfs-5gxx-pinm-czp4-7iupmbzad99d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://fafd4d2b-558e-7ae5-8e95-cde87e74ca95@sweden.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#SE 🇸🇪 ┇ VLESS-TCP-RLT - Glesys AB ┇ 46.246.96.224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 78.40.116.11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 135.225.124.80
+vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?type=tcp&security=reality&sni=pinova.io&flow=xtls-rprx-vision&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8#SE 🇸🇪 ┇ VLESS-TCP-RLT - Hypercore Ltd ┇ 91.186.217.108
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - LM Layer and Mesh AB ┇ 151.236.206.42
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXJtb2hhbW1hZCBGYXRlaCBcdTI1MDcgMTAzLjI1Ljg1LjE3OSIsImFkZCI6IjEwMy4yNS44NS4xNzkiLCJwb3J0Ijo4MCwiaWQiOiJkZWQzNTYwOS1lMjg0LTQzODUtOTdlNi03NzgxNmVmYThkZDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 121.127.46.147
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?sni=softpillow.silentrocket.click&peer=softpillow.silentrocket.click&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 70.34.218.149
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.59.141
+hysteria2://5ea499f5c73554214870e187a55f4d71@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=0&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - Telia Company AB ┇ 81.227.231.35
+trojan://telegram-id-privatevpns@13.53.149.14:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.53.149.14
+trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.51.244.148
+trojan://telegram-id-privatevpns@16.16.66.109:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.16.66.109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.100.248
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.16.3:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.49.16.3
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDEwOS4xMjAuMTMyLjE1NyIsImFkZCI6Ind3dy5zZXJpa2FkZWguaXIiLCJwb3J0Ijo4MCwiaWQiOiIyYWQ5OGQyYi01ZDQ5LTQxNWMtOWJmZS01YjA4NzM1NzhmZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvcjJhSzI3Mno1aG16SzRrTFpzYlZ2SGoifQ
+hysteria2://f8e40931bbb827df@62.60.231.189:12123?sni=www.bing.com&insecure=1&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - Aeza International Ltd ┇ 62.60.231.189
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 89.22.234.121
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.197.98
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.49.107:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.51.49.107
+vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 16.170.148.222
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.106.151
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3MC4zNC4yMDcuMTA5IiwiYWRkIjoiNzAuMzQuMjA3LjEwOSIsInBvcnQiOjIwMjE3LCJpZCI6IjJiOTk4NzY5LTE4MzUtNGFhYi04YTllLTg1MTYzYzQ4OWQ3YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.106.240
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&insecure=1&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - AS-VULTR ┇ 70.34.215.221
+trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.95.150
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?sni=www.bing.com&insecure=1&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - Aeza International Ltd ┇ 109.120.135.123
 trojan://telegram-id-privatevpns@13.50.135.27:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.50.135.27
-trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.95.150
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDEwOS4xMjAuMTMyLjE1NyIsImFkZCI6Ind3dy5zZXJpa2FkZWguaXIiLCJwb3J0Ijo4MCwiaWQiOiIyYWQ5OGQyYi01ZDQ5LTQxNWMtOWJmZS01YjA4NzM1NzhmZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvcjJhSzI3Mno1aG16SzRrTFpzYlZ2SGoifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - LM Layer and Mesh AB ┇ 151.236.206.42
-trojan://telegram-id-privatevpns@13.53.149.14:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.53.149.14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 78.40.116.178
-vless://fafd4d2b-558e-7ae5-8e95-cde87e74ca95@sweden.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#SE 🇸🇪 ┇ VLESS-TCP-RLT - Glesys AB ┇ 46.246.96.224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.106.151
-vless://7eccc4a7-319c-4b58-84d9-957bfa914e73@77.110.121.247:59830?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=tgju.org&fp=chrome&pbk=YWlboK-JLI3VIq2OabG60MiWaC0sAQA1ro0e4N9vWSA&sid=3a982e219c97e1fc#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 77.110.121.247
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?sni=softpillow.silentrocket.click&peer=softpillow.silentrocket.click&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 70.34.218.149
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 78.40.116.11
-vless://7bf4aa9d-9e6a-4096-b15c-5eb0f766656f@hxosw5.hxno.ir:3939?type=tcp&security=reality&sni=refersion.com&pbk=JzsZx2Io_hckFYtHgGh9Q6c-4k-lkgtAgCHxiMTDwgg&sid=b7c2547d2c6ddfea#SE 🇸🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 70.34.200.27
-vless://0415dbea-edbd-4d53-91f2-fe367ca48067@d.mrtech.com.tr:443?type=httpupgrade&security=tls&path=/---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---&sni=sl2.mrtech.com.tr&fp=chrome#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.186.81
-trojan://telegram-id-privatevpns@16.16.66.109:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.16.66.109
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.59.141
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.197.98
-vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 16.170.148.222
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 121.127.46.147
-vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?type=tcp&security=reality&sni=pinova.io&flow=xtls-rprx-vision&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8#SE 🇸🇪 ┇ VLESS-TCP-RLT - Hypercore Ltd ┇ 91.186.217.108
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@50.7.38.34:8443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=2PTRgqqGEOXjMP22yFAIMJX4kHhMyftYok2y4K7YrRk&sid=a20d3ed244c76426#SE 🇸🇪 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.38.34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.100.248
-vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@94.242.59.207:8443?type=tcp&security=reality&sni=bunny.net&fp=chrome&flow=xtls-rprx-vision&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#SE 🇸🇪 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 94.242.59.207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 135.225.124.80
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.138.5
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@178.20.211.215:443?type=tcp&security=reality&sni=reserve.ayagut.ovh&fp=chrome&flow=xtls-rprx-vision&pbk=EHHbxa1EWuzQjDKYQqRg6ohM9PBhAH8-tMMTHT8cwjE&sid=a1411188c23375ef#SE 🇸🇪 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 178.20.211.215
-trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.51.244.148
-hysteria2://5ea499f5c73554214870e187a55f4d71@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=0&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - Telia Company AB ┇ 213.66.183.101
-vless://88cb53a3-cd23-4c45-b5b0-53a601c4264c@62.60.159.0:18750?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.0
-hysteria2://f8e40931bbb827df@62.60.231.189:12123?sni=www.bing.com&insecure=1&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - Aeza International Ltd ┇ 62.60.231.189
-vless://---Telegram----V2RAYNGCLOUD---@194.104.94.25:443?type=grpc&security=reality&sni=docker.com&fp=chrome&pbk=YGylznd_lqkiAO-lKrZXrORankUqixCOJBtMNtPhwHc#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Hexabyte AB ┇ 194.104.94.25
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&insecure=1&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - AS-VULTR ┇ 70.34.215.221
-vless://Chanel----V2RAYNGCLOUD---@194.104.94.7:443?type=grpc&security=reality&sni=docker.com&fp=chrome&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Hexabyte AB ┇ 194.104.94.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 89.22.234.121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.106.240
-vless://26c99015-b58e-47d2-a4ce-4f4b05b70400@sweden11.clearorbitllc.com:443?type=tcp&security=reality&sni=sweden11.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=6i0TALpH7qy8-xzwJkI13mRsgi2e7lHqKQyAcDSg8Uc&sid=4af2#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.117.110
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3MC4zNC4yMDcuMTA5IiwiYWRkIjoiNzAuMzQuMjA3LjEwOSIsInBvcnQiOjIwMjE3LCJpZCI6IjJiOTk4NzY5LTE4MzUtNGFhYi04YTllLTg1MTYzYzQ4OWQ3YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://psfzastb-lkof-c36n-ubk2-yam885g7c3rm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0irrjscm-je51-os18-fuss-t4djlpkhje49@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ys6v5ll0-8kio-61im-dbie-4kzi130c76sc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://brpvtm5r-u56i-qgzq-2ys7-q6oo5u1w1nig@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
