@@ -1,20 +1,21 @@
-trojan://ill6u5ip-cjgk-80sj-n028-op90cw5x93qg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/23 | 23:56
-trojan://lneq6qrk-bu32-5twp-2tty-5y5amy392xvv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5ivf4vgl-oaz0-tfz0-ckac-r36ea12tp3m1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM@us-4.stunnel.cc:8444#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-COLOCROSSING ┇ 107.175.6.211
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGI3MDRhOC1hODJlLTQ4OTAtODM0MS1hMzg3ZDgzMjk3NTk@107.175.87.208:10011#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-COLOCROSSING ┇ 107.175.87.208
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtQ09MT0NST1NTSU5HIFx1MjUwNyAxOTguMjMuMTc0LjE2OCIsImFkZCI6IjE5OC4yMy4xNzQuMTY4IiwicG9ydCI6MjAwODYsImlkIjoiMmIzNjMwNGItNGY4OC00ZmY1LTkwMzMtZjRkNTdkYmI1NDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-vless://7d15c8de-4448-488f-a580-acab3fa30a4e@198.55.103.204:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&sid=e3c5c005cae07eb7#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 198.55.103.204
-hysteria2://7ae1a8a7-b025-4bac-8949-9b1e45926a9a@mg4.mutoujs.top:20000?insecure=0&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 23.95.236.41
-vless://e258977b-e413-4718-a3af-02d75492c349@192.210.175.108:443?type=ws&security=tls&sni=ww20.allxniu.qzz.io&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 192.210.175.108
+trojan://w7uvpbi4-yi6t-gv9d-4yr0-gsybjrs7bqeq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/24 | 23:52
+trojan://dszthmmc-37j8-5095-y9bl-egqck4wiyt45@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ovgt0vp5-6qm7-ybfa-oq1p-px65a2zpcgh3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjAzOWI3MS1iYTgyLTRjYTgtODM4ZS04NzA4NmFlNjY2ZGU@107.175.87.207:10011#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-COLOCROSSING ┇ 107.175.87.207
-hysteria2://20050105zhu@204.44.110.129:51541?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 204.44.110.129
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 107.174.41.49
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-COLOCROSSING ┇ 192.3.107.252
-vless://28c94110-85db-4535-be71-fcec59635e05@107.175.50.148:19296?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.50.148
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1OT05FLU5UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDE3Mi4yNDUuNTkuMjM5IiwiYWRkIjoiMTcyLjI0NS41OS4yMzkiLCJwb3J0IjoyODMwNiwiaWQiOiI2MDgzNDc0Ny1mMzMyLTQxMTgtZmMxNi03ZDBhZmYyY2YxMTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-hysteria2://123456@192.3.85.237:443?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 192.3.85.237
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDE5Mi4zLjE1MC4yMzMiLCJhZGQiOiIxOTIuMy4xNTAuMjMzIiwicG9ydCI6ODQ0MywiaWQiOiJhNmEzN2UwNC01ZTgxLTQ0YzktYmU1My1iYWEzZmY0NmViOGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJVUy0xNTAtMjMzLnNob3B0dW5uZWwubGl2ZSIsInBhdGgiOiIvOGNkYTQ4YjMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJVUy0xNTAtMjMzLnNob3B0dW5uZWwubGl2ZSJ9
+vless://7d15c8de-4448-488f-a580-acab3fa30a4e@198.55.103.204:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&sid=e3c5c005cae07eb7#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 198.55.103.204
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtQ09MT0NST1NTSU5HIFx1MjUwNyAxOTguMjMuMTc0LjE2OCIsImFkZCI6IjE5OC4yMy4xNzQuMTY4IiwicG9ydCI6MjAwODYsImlkIjoiMmIzNjMwNGItNGY4OC00ZmY1LTkwMzMtZjRkNTdkYmI1NDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-COLOCROSSING ┇ 192.3.107.252
+hysteria2://7ae1a8a7-b025-4bac-8949-9b1e45926a9a@mg4.mutoujs.top:20000?insecure=0&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 23.95.236.41
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1OT05FLU5UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDE3Mi4yNDUuNTkuMjM5IiwiYWRkIjoiMTcyLjI0NS41OS4yMzkiLCJwb3J0IjoyODMwNiwiaWQiOiI2MDgzNDc0Ny1mMzMyLTQxMTgtZmMxNi03ZDBhZmYyY2YxMTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://28c94110-85db-4535-be71-fcec59635e05@107.175.50.148:19296?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=L8NhClyVJyEDjiwJJb_coRq5YflzOBK175HZk_TR1BU&sid=d0c551ffc2d2cb#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.50.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGI3MDRhOC1hODJlLTQ4OTAtODM0MS1hMzg3ZDgzMjk3NTk@107.175.87.208:10011#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-COLOCROSSING ┇ 107.175.87.208
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDEwNy4xNzIuODIuNDEiLCJhZGQiOiIxMDcuMTcyLjgyLjQxIiwicG9ydCI6MTE4MTQsImlkIjoiNGYzNGYyNDItYjVhNy00OGMxLWMyNTgtZjAxOWJlM2JmOWM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-trojan://9bkujr7a-0rsg-acd4-kkdx-tdjl19rr605m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6dfxiawc-n0k6-4hf6-343z-0289dr7k8zhv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://20050105zhu@204.44.110.129:51541?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 204.44.110.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM@us-4.stunnel.cc:8444#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-COLOCROSSING ┇ 107.175.6.211
+hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 75.127.13.83
+vless://e258977b-e413-4718-a3af-02d75492c349@192.210.175.108:443?type=ws&security=tls&sni=ww20.allxniu.qzz.io&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 192.210.175.108
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 107.174.41.49
+hysteria2://123456@192.3.85.237:443?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 192.3.85.237
+trojan://rde3q9ji-9231-1pk5-ibep-71qw8iyswh1x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2wy4rci1-tnt2-8syq-2n7b-ycdanmev6jk8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

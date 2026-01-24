@@ -1,11 +1,12 @@
-trojan://p49ay6bm-lw9n-mrlb-f4lj-zz1dmfkubwtf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/23 | 23:56
-trojan://wr3twi9u-i7mp-1y2e-9j3a-dbo5dfwk04cq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qtqs3awp-qw7v-w7y8-ovek-91oaea0p6gau@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://f1djsr67-50zj-7iy6-nl37-ovbp3xhqpnh6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/24 | 23:52
+trojan://b9pfp18j-dz9o-mn35-7afm-ra1bat4qzxdd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://77qxnw0f-ir4k-e9js-vy5r-bufa5dzyepxq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.221
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.168:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - UXHOST LTD ┇ 144.31.178.168
-vless://84d6d574-face-4300-bd27-0eaf3d2942e1@ee1.jugploer.icu:443?type=tcp&security=reality&sni=ee1.jugploer.icu&flow=xtls-rprx-vision&pbk=9wRwCPBEaK7rRCHLzkYLrcyg1d7vo2MaC-BifgNNGmc#EE 🇪🇪 ┇ VLESS-TCP-RLT ┇ 95.85.245.179
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
+vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Aktsiaselts WaveCom ┇ 37.252.4.176
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCcmFpbm96YSBPVSBcdTI1MDcgNS4xODguMjAwLjIyNCIsImFkZCI6IjUuMTg4LjIwMC4yMjQiLCJwb3J0Ijo4NDQzLCJpZCI6IjM1MzEyMDM1LTMzMjAtNDkzOS1hMDM1LTM3MjAzMTMwMzIyMCIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJlZS0xLnN0dW5uZWwuY2MiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiZWUtMS5zdHVubmVsLmNjIn0
-trojan://5bc8kv9h-e4yg-d9na-5y7t-anfwg06l6ir8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://98y16k3p-ghyh-r9c7-l6t8-zan5irare5v4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://84d6d574-face-4300-bd27-0eaf3d2942e1@ee1.jugploer.icu:443?type=tcp&security=reality&sni=ee1.jugploer.icu&flow=xtls-rprx-vision&pbk=9wRwCPBEaK7rRCHLzkYLrcyg1d7vo2MaC-BifgNNGmc#EE 🇪🇪 ┇ VLESS-TCP-RLT ┇ 95.85.245.179
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.168:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - UXHOST LTD ┇ 144.31.178.168
+trojan://1c3tb2nq-i6iv-nwsl-8s32-ou1ndtysu565@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jbfcoojp-c1w4-t6ox-ub83-bzrcx7finaug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
