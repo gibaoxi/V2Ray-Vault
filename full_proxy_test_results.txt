@@ -2,22 +2,13 @@
 代理连通性测试报告
 ============================================================
 
-测试时间: 2025-12-24 15:33:32
+测试时间: 2026-01-25 08:28:25
 总节点数: 112
-可用节点: 2
-失败节点: 110
-成功率: 1.8%
-
-🏆 最快的前10个节点:
- 1. 2363.4ms - HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 112.118.116.8
-    trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 112.118.116.8
-
- 2. 2580.0ms - HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.25.71
-    trojan://BxceQaOe@58.152.25.71:443?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.25.71
+可用节点: 0
+失败节点: 112
+成功率: 0.0%
 
 
 ============================================================
 所有可用节点:
 ============================================================
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 112.118.116.8 # 2363.37ms
-trojan://BxceQaOe@58.152.25.71:443?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.25.71 # 2580.02ms
